@@ -1,39 +1,46 @@
 # ClassGraph
-Discover course prerequisites for classes at UCSD. We deploy scrapers to collect up-to-date information, allowing the visualization of complex logical course hierarchies.
+
+ClassGraph helps UCSD students explore course prerequisites through interactive graphs built from up-to-date course data. The project combines automated scraping, prerequisite parsing, and visualization so complex course requirements are easier to understand.
+
+**Live demo:** https://classgraph-black.vercel.app/
 
 ## Key Features
-- Class Search: Search classes by code, with support for multiple formats
-- Information Highlighting: Highlight nodes with the (!) icon to view additional requirement that may be need to be fulfilled.
-- Visualization: Visualize the course tree as a graph, grouped by logical pairings, and expand down the entire prerequisite tree.
+- **Class Search:** Search courses by code with support for multiple input formats.
+- **Requirement Details:** Highlight nodes with the `(!)` icon to view additional requirements that may need to be fulfilled.
+- **Prerequisite Visualization:** Explore prerequisite trees grouped by logical relationships and expand through complete prerequisite chains.
+- **Academic History Uploads:** Upload an academic-history PDF to help visualize completed and remaining coursework.
 
 ## Architecture
-```
+```text
 UCSD Course Catalog + Schedule of Classes Scraper (Automated)
     |
-Course Tooling (Merge Datasets and verify prerequisites)
+Course Tooling (merge datasets and verify prerequisites)
     |
-Tree Generation (Generate complete trees for each class)
+Tree Generation (generate complete trees for each class)
     |
-Frontend UI (Select class/Upload P.D.F, visualize class flow)
+Frontend UI (select class / upload PDF / visualize course flow)
 ```
 
 ## Preparation and Deployment
-### Pre-requisites
+
+### Prerequisites
 - Python 3.12+
 - Go 1.23+
-- NPM
-### Deployment
-```
-# clone repository
-git clone https://github.com/nehalc200/classgraph.git
+- npm
 
-# install python requirements
+### Deployment
+```bash
+# clone repository
+git clone https://github.com/ncdev06/classgraph.git
+cd classgraph
+
+# install Python requirements
 pip install -r requirements.txt
 
 # scrape course catalog
 python catalog_scraper/main.py
 
-# scrape schedule of classes
+# scrape Schedule of Classes
 cd soc_scraper
 go build
 ./soc_scraper
@@ -41,49 +48,49 @@ cd ..
 
 # cross-verify classes and build trees
 python data/helpers/cross_check.py
-python data/helpers/ast.p
+python data/helpers/ast.py
 
-# install NPM dependencies
+# install frontend dependencies
 npm install
 npm run build
 ```
+
 ## Project Structure
-```
+```text
 classgraph/
 ├── .github/
 │   └── workflows/          # GitHub Actions CI/CD workflows
-├── catalog_scraper/        # Scraper for course catalog data 
-├── data/                   # Directory for storing the scraped data output 
-├── major_scraper/          # Scraper for major-specific data
-├── soc_scraper/            # Scraper for the Schedule of Classes (SOC)
-├── src/                    # Frontend source code for the web application
-├── .gitignore              # Git untracked files configuration
-├── README.md               # Project documentation
-├── index.html              # Main HTML entry point for the web app
-├── package-lock.json       # Exact versions of npm dependencies
-├── package.json            # Node.js dependencies and project scripts
-├── requirements.txt        # Python dependencies for the scrapers
-├── tailwind.config.js      # Tailwind CSS configuration
-├── tailwind.css            # Main stylesheet for Tailwind
-└── vite.config.js          # Vite build tool configuration
+├── catalog_scraper/        # Course catalog scraper
+├── data/                   # Scraped and processed course data
+├── major_scraper/          # Major-specific data scraper
+├── soc_scraper/            # Schedule of Classes scraper
+├── src/                    # Frontend source code
+├── .gitignore
+├── README.md
+├── index.html
+├── package-lock.json
+├── package.json
+├── requirements.txt
+├── tailwind.config.js
+├── tailwind.css
+└── vite.config.js
 ```
-### Tech Stack
+
+## Tech Stack
 | Category | Technology | Purpose |
 | :--- | :--- | :--- |
-| **Frontend Interface** | JavaScript, HTML | Core logic and structure for the web application. |
-| **Styling** | Tailwind CSS | Utility-first CSS framework for rapidly styling the user interface. |
-| **Frontend Build Tool**| Vite | Fast build tool and local development server for compiling frontend assets. |
-| **S.O.C Scraping** | Go | Async-enabled web-scraping from live UCSD data feeds |
-| **Catalog Scraping** | Python | Fast and modular scraping from static UCSD data |
-| **Data Processing** | Python | Supplemental scripts for data extraction and processing. |
-| **Data Storage** | JSON | The primary format for organizing and storing the scraped data. |
-| **Package Management** | npm, pip | Dependency management for the JavaScript frontend and Python scrapers. |
-| **CI/CD** | GitHub Actions | Automated workflows for continuous integration and updating scraped data. |
-| **Deployment** | Vercel | Hosting platform for the live web application. |
+| Frontend | JavaScript, HTML | Application logic and interface |
+| Styling | Tailwind CSS | UI styling |
+| Build Tool | Vite | Frontend development and builds |
+| Schedule Scraping | Go | Concurrent scraping from UCSD course data |
+| Catalog Scraping | Python | Course catalog extraction |
+| Data Processing | Python | Prerequisite parsing and dataset processing |
+| Data Storage | JSON | Structured course and prerequisite data |
+| CI/CD | GitHub Actions | Automated workflows and course-data updates |
+| Deployment | Vercel | Live web application hosting |
 
 ## Testing
 ```bash
-# Run all tests
 cd soc_scraper
 go test ./... -v
 ```
