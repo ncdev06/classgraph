@@ -1,8 +1,17 @@
 # ClassGraph
 
-ClassGraph helps UCSD students explore course prerequisites through interactive graphs built from up-to-date course data. The project combines automated scraping, prerequisite parsing, and visualization so complex course requirements are easier to understand.
+ClassGraph is a full-stack course-planning tool that helps UCSD students understand complicated prerequisite structures through interactive graphs built from live course data.
 
 **Live demo:** https://classgraph-black.vercel.app/
+
+## Impact
+- Modeled **1,000+ UCSD courses** and **100+ prerequisite chains** as directed graphs.
+- Built logic for recursive prerequisite traversal and validation, including alternative `OR` requirements and duplicate-node handling.
+- Supports academic-history PDF uploads so students can compare completed coursework against prerequisite paths.
+- **1st Place** project.
+
+## My Contribution
+This was a team project. I worked on the graph and product logic, including recursive prerequisite validation, course search, academic-history PDF uploads, `OR` grouping for alternative prerequisites, and duplicate-node handling.
 
 ## Key Features
 - **Class Search:** Search courses by code with support for multiple input formats.
@@ -12,68 +21,13 @@ ClassGraph helps UCSD students explore course prerequisites through interactive 
 
 ## Architecture
 ```text
-UCSD Course Catalog + Schedule of Classes Scraper (Automated)
+UCSD Course Catalog + Schedule of Classes Scraper
     |
 Course Tooling (merge datasets and verify prerequisites)
     |
 Tree Generation (generate complete trees for each class)
     |
 Frontend UI (select class / upload PDF / visualize course flow)
-```
-
-## Preparation and Deployment
-
-### Prerequisites
-- Python 3.12+
-- Go 1.23+
-- npm
-
-### Deployment
-```bash
-# clone repository
-git clone https://github.com/ncdev06/classgraph.git
-cd classgraph
-
-# install Python requirements
-pip install -r requirements.txt
-
-# scrape course catalog
-python catalog_scraper/main.py
-
-# scrape Schedule of Classes
-cd soc_scraper
-go build
-./soc_scraper
-cd ..
-
-# cross-verify classes and build trees
-python data/helpers/cross_check.py
-python data/helpers/ast.py
-
-# install frontend dependencies
-npm install
-npm run build
-```
-
-## Project Structure
-```text
-classgraph/
-├── .github/
-│   └── workflows/          # GitHub Actions CI/CD workflows
-├── catalog_scraper/        # Course catalog scraper
-├── data/                   # Scraped and processed course data
-├── major_scraper/          # Major-specific data scraper
-├── soc_scraper/            # Schedule of Classes scraper
-├── src/                    # Frontend source code
-├── .gitignore
-├── README.md
-├── index.html
-├── package-lock.json
-├── package.json
-├── requirements.txt
-├── tailwind.config.js
-├── tailwind.css
-└── vite.config.js
 ```
 
 ## Tech Stack
@@ -88,6 +42,31 @@ classgraph/
 | Data Storage | JSON | Structured course and prerequisite data |
 | CI/CD | GitHub Actions | Automated workflows and course-data updates |
 | Deployment | Vercel | Live web application hosting |
+
+## Run Locally
+
+### Prerequisites
+- Python 3.12+
+- Go 1.23+
+- npm
+
+```bash
+git clone https://github.com/ncdev06/classgraph.git
+cd classgraph
+pip install -r requirements.txt
+python catalog_scraper/main.py
+
+cd soc_scraper
+go build
+./soc_scraper
+cd ..
+
+python data/helpers/cross_check.py
+python data/helpers/ast.py
+
+npm install
+npm run build
+```
 
 ## Testing
 ```bash
