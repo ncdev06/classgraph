@@ -67371,24 +67371,7 @@
           {
             "code": "MATH 15A",
             "type": "CHILD",
-            "children": [
-              {
-                "code": "OR",
-                "type": "CHILD",
-                "children": [
-                  {
-                    "code": "CSE 8B",
-                    "type": "CHILD",
-                    "children": []
-                  },
-                  {
-                    "code": "CSE 11",
-                    "type": "CHILD",
-                    "children": []
-                  }
-                ]
-              }
-            ]
+            "children": []
           },
           {
             "code": "ECON 100A",
@@ -68152,24 +68135,7 @@
                   {
                     "code": "MATH 15A",
                     "type": "CHILD",
-                    "children": [
-                      {
-                        "code": "OR",
-                        "type": "CHILD",
-                        "children": [
-                          {
-                            "code": "CSE 8B",
-                            "type": "CHILD",
-                            "children": []
-                          },
-                          {
-                            "code": "CSE 11",
-                            "type": "CHILD",
-                            "children": []
-                          }
-                        ]
-                      }
-                    ]
+                    "children": []
                   },
                   {
                     "code": "MATH 31CH",
@@ -119141,6 +119107,11 @@
   },
   {
     "code": "ECON 87",
+    "type": "ROOT",
+    "children": []
+  },
+  {
+    "code": "ECON 99H",
     "type": "ROOT",
     "children": []
   }

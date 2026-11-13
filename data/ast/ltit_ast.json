@@ -22,6 +22,11 @@
     ]
   },
   {
+    "code": "LTIT 115",
+    "type": "ROOT",
+    "children": []
+  },
+  {
     "code": "LTIT 122",
     "type": "ROOT",
     "children": [
@@ -96,20 +101,9 @@
     "type": "ROOT",
     "children": [
       {
-        "code": "OR",
+        "code": "OF 3",
         "type": "CHILD",
-        "children": [
-          {
-            "code": "LTIT 1C",
-            "type": "CHILD",
-            "children": []
-          },
-          {
-            "code": "OF 3",
-            "type": "CHILD",
-            "children": []
-          }
-        ]
+        "children": []
       },
       {
         "code": "OR",
@@ -142,20 +136,9 @@
             "type": "CHILD",
             "children": [
               {
-                "code": "OR",
+                "code": "OF 3",
                 "type": "CHILD",
-                "children": [
-                  {
-                    "code": "LTIT 1C",
-                    "type": "CHILD",
-                    "children": []
-                  },
-                  {
-                    "code": "OF 3",
-                    "type": "CHILD",
-                    "children": []
-                  }
-                ]
+                "children": []
               },
               {
                 "code": "OR",

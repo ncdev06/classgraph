@@ -7,13 +7,7 @@
   {
     "code": "COMM 100A",
     "type": "ROOT",
-    "children": [
-      {
-        "code": "COMM 10",
-        "type": "CHILD",
-        "children": []
-      }
-    ]
+    "children": []
   },
   {
     "code": "COMM 100B",
@@ -29,13 +23,7 @@
   {
     "code": "COMM 100C",
     "type": "ROOT",
-    "children": [
-      {
-        "code": "COMM 10",
-        "type": "CHILD",
-        "children": []
-      }
-    ]
+    "children": []
   },
   {
     "code": "COMM 101",
@@ -472,76 +460,12 @@
   {
     "code": "COMM 106",
     "type": "ROOT",
-    "children": [
-      {
-        "code": "OR",
-        "type": "CHILD",
-        "children": [
-          {
-            "code": "COMM 10",
-            "type": "CHILD",
-            "children": []
-          },
-          {
-            "code": "COMM 20",
-            "type": "CHILD",
-            "children": []
-          },
-          {
-            "code": "COMM 30",
-            "type": "CHILD",
-            "children": []
-          },
-          {
-            "code": "COMM 30GS",
-            "type": "CHILD",
-            "children": []
-          },
-          {
-            "code": "COMM 40",
-            "type": "CHILD",
-            "children": []
-          }
-        ]
-      }
-    ]
+    "children": []
   },
   {
     "code": "COMM 106B",
     "type": "ROOT",
-    "children": [
-      {
-        "code": "OR",
-        "type": "CHILD",
-        "children": [
-          {
-            "code": "COMM 10",
-            "type": "CHILD",
-            "children": []
-          },
-          {
-            "code": "COMM 20",
-            "type": "CHILD",
-            "children": []
-          },
-          {
-            "code": "COMM 30",
-            "type": "CHILD",
-            "children": []
-          },
-          {
-            "code": "COMM 30GS",
-            "type": "CHILD",
-            "children": []
-          },
-          {
-            "code": "COMM 40",
-            "type": "CHILD",
-            "children": []
-          }
-        ]
-      }
-    ]
+    "children": []
   },
   {
     "code": "COMM 106D",
@@ -583,13 +507,7 @@
   {
     "code": "COMM 106F",
     "type": "ROOT",
-    "children": [
-      {
-        "code": "COMM 10",
-        "type": "CHILD",
-        "children": []
-      }
-    ]
+    "children": []
   },
   {
     "code": "COMM 106G",
@@ -605,13 +523,7 @@
   {
     "code": "COMM 106I",
     "type": "ROOT",
-    "children": [
-      {
-        "code": "COMM 10",
-        "type": "CHILD",
-        "children": []
-      }
-    ]
+    "children": []
   },
   {
     "code": "COMM 106M",
@@ -653,39 +565,12 @@
   {
     "code": "COMM 106N",
     "type": "ROOT",
-    "children": [
-      {
-        "code": "OR",
-        "type": "CHILD",
-        "children": [
-          {
-            "code": "COMM 10",
-            "type": "CHILD",
-            "children": []
-          },
-          {
-            "code": "COMM 20",
-            "type": "CHILD",
-            "children": []
-          },
-          {
-            "code": "COMM 30",
-            "type": "CHILD",
-            "children": []
-          },
-          {
-            "code": "COMM 30GS",
-            "type": "CHILD",
-            "children": []
-          },
-          {
-            "code": "COMM 40",
-            "type": "CHILD",
-            "children": []
-          }
-        ]
-      }
-    ]
+    "children": []
+  },
+  {
+    "code": "COMM 106R",
+    "type": "ROOT",
+    "children": []
   },
   {
     "code": "COMM 106V",
@@ -763,6 +648,11 @@
         "children": []
       }
     ]
+  },
+  {
+    "code": "COMM 10R",
+    "type": "ROOT",
+    "children": []
   },
   {
     "code": "COMM 110G",
@@ -1221,6 +1111,11 @@
     ]
   },
   {
+    "code": "COMM 117GS",
+    "type": "ROOT",
+    "children": []
+  },
+  {
     "code": "COMM 118A",
     "type": "ROOT",
     "children": [
@@ -1358,13 +1253,7 @@
           {
             "code": "COMM 100A",
             "type": "CHILD",
-            "children": [
-              {
-                "code": "COMM 10",
-                "type": "CHILD",
-                "children": []
-              }
-            ]
+            "children": []
           },
           {
             "code": "COMM 100B",
@@ -1380,13 +1269,7 @@
           {
             "code": "COMM 100C",
             "type": "CHILD",
-            "children": [
-              {
-                "code": "COMM 10",
-                "type": "CHILD",
-                "children": []
-              }
-            ]
+            "children": []
           }
         ]
       }
@@ -1408,13 +1291,7 @@
           {
             "code": "COMM 100A",
             "type": "CHILD",
-            "children": [
-              {
-                "code": "COMM 10",
-                "type": "CHILD",
-                "children": []
-              }
-            ]
+            "children": []
           },
           {
             "code": "COMM 100B",
@@ -1430,13 +1307,7 @@
           {
             "code": "COMM 100C",
             "type": "CHILD",
-            "children": [
-              {
-                "code": "COMM 10",
-                "type": "CHILD",
-                "children": []
-              }
-            ]
+            "children": []
           }
         ]
       }
@@ -1458,13 +1329,7 @@
           {
             "code": "COMM 100A",
             "type": "CHILD",
-            "children": [
-              {
-                "code": "COMM 10",
-                "type": "CHILD",
-                "children": []
-              }
-            ]
+            "children": []
           },
           {
             "code": "COMM 100B",
@@ -1480,13 +1345,7 @@
           {
             "code": "COMM 100C",
             "type": "CHILD",
-            "children": [
-              {
-                "code": "COMM 10",
-                "type": "CHILD",
-                "children": []
-              }
-            ]
+            "children": []
           }
         ]
       }
@@ -1508,13 +1367,7 @@
           {
             "code": "COMM 100A",
             "type": "CHILD",
-            "children": [
-              {
-                "code": "COMM 10",
-                "type": "CHILD",
-                "children": []
-              }
-            ]
+            "children": []
           },
           {
             "code": "COMM 100B",
@@ -1530,13 +1383,7 @@
           {
             "code": "COMM 100C",
             "type": "CHILD",
-            "children": [
-              {
-                "code": "COMM 10",
-                "type": "CHILD",
-                "children": []
-              }
-            ]
+            "children": []
           }
         ]
       }
@@ -1558,13 +1405,7 @@
           {
             "code": "COMM 100A",
             "type": "CHILD",
-            "children": [
-              {
-                "code": "COMM 10",
-                "type": "CHILD",
-                "children": []
-              }
-            ]
+            "children": []
           },
           {
             "code": "COMM 100B",
@@ -1580,13 +1421,7 @@
           {
             "code": "COMM 100C",
             "type": "CHILD",
-            "children": [
-              {
-                "code": "COMM 10",
-                "type": "CHILD",
-                "children": []
-              }
-            ]
+            "children": []
           }
         ]
       }
@@ -1713,13 +1548,7 @@
           {
             "code": "COMM 100A",
             "type": "CHILD",
-            "children": [
-              {
-                "code": "COMM 10",
-                "type": "CHILD",
-                "children": []
-              }
-            ]
+            "children": []
           },
           {
             "code": "COMM 100B",
@@ -1735,13 +1564,7 @@
           {
             "code": "COMM 100C",
             "type": "CHILD",
-            "children": [
-              {
-                "code": "COMM 10",
-                "type": "CHILD",
-                "children": []
-              }
-            ]
+            "children": []
           }
         ]
       }
@@ -1763,13 +1586,7 @@
           {
             "code": "COMM 100A",
             "type": "CHILD",
-            "children": [
-              {
-                "code": "COMM 10",
-                "type": "CHILD",
-                "children": []
-              }
-            ]
+            "children": []
           },
           {
             "code": "COMM 100B",
@@ -1785,13 +1602,7 @@
           {
             "code": "COMM 100C",
             "type": "CHILD",
-            "children": [
-              {
-                "code": "COMM 10",
-                "type": "CHILD",
-                "children": []
-              }
-            ]
+            "children": []
           }
         ]
       }
@@ -1813,13 +1624,7 @@
           {
             "code": "COMM 100A",
             "type": "CHILD",
-            "children": [
-              {
-                "code": "COMM 10",
-                "type": "CHILD",
-                "children": []
-              }
-            ]
+            "children": []
           },
           {
             "code": "COMM 100B",
@@ -1835,13 +1640,7 @@
           {
             "code": "COMM 100C",
             "type": "CHILD",
-            "children": [
-              {
-                "code": "COMM 10",
-                "type": "CHILD",
-                "children": []
-              }
-            ]
+            "children": []
           }
         ]
       }
@@ -1900,13 +1699,7 @@
           {
             "code": "COMM 100A",
             "type": "CHILD",
-            "children": [
-              {
-                "code": "COMM 10",
-                "type": "CHILD",
-                "children": []
-              }
-            ]
+            "children": []
           },
           {
             "code": "COMM 100B",
@@ -1922,13 +1715,7 @@
           {
             "code": "COMM 100C",
             "type": "CHILD",
-            "children": [
-              {
-                "code": "COMM 10",
-                "type": "CHILD",
-                "children": []
-              }
-            ]
+            "children": []
           }
         ]
       }
@@ -1950,13 +1737,7 @@
           {
             "code": "COMM 100A",
             "type": "CHILD",
-            "children": [
-              {
-                "code": "COMM 10",
-                "type": "CHILD",
-                "children": []
-              }
-            ]
+            "children": []
           },
           {
             "code": "COMM 100B",
@@ -1972,13 +1753,7 @@
           {
             "code": "COMM 100C",
             "type": "CHILD",
-            "children": [
-              {
-                "code": "COMM 10",
-                "type": "CHILD",
-                "children": []
-              }
-            ]
+            "children": []
           }
         ]
       }
@@ -2000,13 +1775,7 @@
           {
             "code": "COMM 100A",
             "type": "CHILD",
-            "children": [
-              {
-                "code": "COMM 10",
-                "type": "CHILD",
-                "children": []
-              }
-            ]
+            "children": []
           },
           {
             "code": "COMM 100B",
@@ -2022,13 +1791,7 @@
           {
             "code": "COMM 100C",
             "type": "CHILD",
-            "children": [
-              {
-                "code": "COMM 10",
-                "type": "CHILD",
-                "children": []
-              }
-            ]
+            "children": []
           }
         ]
       }
@@ -2050,13 +1813,7 @@
           {
             "code": "COMM 100A",
             "type": "CHILD",
-            "children": [
-              {
-                "code": "COMM 10",
-                "type": "CHILD",
-                "children": []
-              }
-            ]
+            "children": []
           },
           {
             "code": "COMM 100B",
@@ -2072,13 +1829,7 @@
           {
             "code": "COMM 100C",
             "type": "CHILD",
-            "children": [
-              {
-                "code": "COMM 10",
-                "type": "CHILD",
-                "children": []
-              }
-            ]
+            "children": []
           }
         ]
       }
@@ -2100,13 +1851,7 @@
           {
             "code": "COMM 100A",
             "type": "CHILD",
-            "children": [
-              {
-                "code": "COMM 10",
-                "type": "CHILD",
-                "children": []
-              }
-            ]
+            "children": []
           },
           {
             "code": "COMM 100B",
@@ -2122,13 +1867,7 @@
           {
             "code": "COMM 100C",
             "type": "CHILD",
-            "children": [
-              {
-                "code": "COMM 10",
-                "type": "CHILD",
-                "children": []
-              }
-            ]
+            "children": []
           }
         ]
       }
@@ -2150,13 +1889,7 @@
           {
             "code": "COMM 100A",
             "type": "CHILD",
-            "children": [
-              {
-                "code": "COMM 10",
-                "type": "CHILD",
-                "children": []
-              }
-            ]
+            "children": []
           },
           {
             "code": "COMM 100B",
@@ -2172,13 +1905,7 @@
           {
             "code": "COMM 100C",
             "type": "CHILD",
-            "children": [
-              {
-                "code": "COMM 10",
-                "type": "CHILD",
-                "children": []
-              }
-            ]
+            "children": []
           }
         ]
       }
@@ -2200,13 +1927,7 @@
           {
             "code": "COMM 100A",
             "type": "CHILD",
-            "children": [
-              {
-                "code": "COMM 10",
-                "type": "CHILD",
-                "children": []
-              }
-            ]
+            "children": []
           },
           {
             "code": "COMM 100B",
@@ -2222,13 +1943,7 @@
           {
             "code": "COMM 100C",
             "type": "CHILD",
-            "children": [
-              {
-                "code": "COMM 10",
-                "type": "CHILD",
-                "children": []
-              }
-            ]
+            "children": []
           }
         ]
       }
@@ -2250,13 +1965,7 @@
           {
             "code": "COMM 100A",
             "type": "CHILD",
-            "children": [
-              {
-                "code": "COMM 10",
-                "type": "CHILD",
-                "children": []
-              }
-            ]
+            "children": []
           },
           {
             "code": "COMM 100B",
@@ -2272,13 +1981,7 @@
           {
             "code": "COMM 100C",
             "type": "CHILD",
-            "children": [
-              {
-                "code": "COMM 10",
-                "type": "CHILD",
-                "children": []
-              }
-            ]
+            "children": []
           }
         ]
       }
@@ -2300,13 +2003,7 @@
           {
             "code": "COMM 100A",
             "type": "CHILD",
-            "children": [
-              {
-                "code": "COMM 10",
-                "type": "CHILD",
-                "children": []
-              }
-            ]
+            "children": []
           },
           {
             "code": "COMM 100B",
@@ -2322,13 +2019,7 @@
           {
             "code": "COMM 100C",
             "type": "CHILD",
-            "children": [
-              {
-                "code": "COMM 10",
-                "type": "CHILD",
-                "children": []
-              }
-            ]
+            "children": []
           }
         ]
       }
@@ -2337,52 +2028,12 @@
   {
     "code": "COMM 140",
     "type": "ROOT",
-    "children": [
-      {
-        "code": "COMM 10",
-        "type": "CHILD",
-        "children": []
-      },
-      {
-        "code": "OR",
-        "type": "CHILD",
-        "children": [
-          {
-            "code": "COMM 100A",
-            "type": "CHILD",
-            "children": [
-              {
-                "code": "COMM 10",
-                "type": "CHILD",
-                "children": []
-              }
-            ]
-          },
-          {
-            "code": "COMM 100B",
-            "type": "CHILD",
-            "children": [
-              {
-                "code": "COMM 10",
-                "type": "CHILD",
-                "children": []
-              }
-            ]
-          },
-          {
-            "code": "COMM 100C",
-            "type": "CHILD",
-            "children": [
-              {
-                "code": "COMM 10",
-                "type": "CHILD",
-                "children": []
-              }
-            ]
-          }
-        ]
-      }
-    ]
+    "children": []
+  },
+  {
+    "code": "COMM 140GS",
+    "type": "ROOT",
+    "children": []
   },
   {
     "code": "COMM 142",
@@ -2400,13 +2051,7 @@
           {
             "code": "COMM 100A",
             "type": "CHILD",
-            "children": [
-              {
-                "code": "COMM 10",
-                "type": "CHILD",
-                "children": []
-              }
-            ]
+            "children": []
           },
           {
             "code": "COMM 100B",
@@ -2422,13 +2067,7 @@
           {
             "code": "COMM 100C",
             "type": "CHILD",
-            "children": [
-              {
-                "code": "COMM 10",
-                "type": "CHILD",
-                "children": []
-              }
-            ]
+            "children": []
           }
         ]
       }
@@ -2445,13 +2084,7 @@
           {
             "code": "COMM 100A",
             "type": "CHILD",
-            "children": [
-              {
-                "code": "COMM 10",
-                "type": "CHILD",
-                "children": []
-              }
-            ]
+            "children": []
           },
           {
             "code": "COMM 100B",
@@ -2484,13 +2117,7 @@
           {
             "code": "COMM 100C",
             "type": "CHILD",
-            "children": [
-              {
-                "code": "COMM 10",
-                "type": "CHILD",
-                "children": []
-              }
-            ]
+            "children": []
           }
         ]
       },
@@ -2501,24 +2128,12 @@
           {
             "code": "COMM 100A",
             "type": "CHILD",
-            "children": [
-              {
-                "code": "COMM 10",
-                "type": "CHILD",
-                "children": []
-              }
-            ]
+            "children": []
           },
           {
             "code": "COMM 100C",
             "type": "CHILD",
-            "children": [
-              {
-                "code": "COMM 10",
-                "type": "CHILD",
-                "children": []
-              }
-            ]
+            "children": []
           }
         ]
       },
@@ -2545,13 +2160,7 @@
           {
             "code": "COMM 100A",
             "type": "CHILD",
-            "children": [
-              {
-                "code": "COMM 10",
-                "type": "CHILD",
-                "children": []
-              }
-            ]
+            "children": []
           },
           {
             "code": "COMM 100B",
@@ -2567,13 +2176,7 @@
           {
             "code": "COMM 100C",
             "type": "CHILD",
-            "children": [
-              {
-                "code": "COMM 10",
-                "type": "CHILD",
-                "children": []
-              }
-            ]
+            "children": []
           }
         ]
       }
@@ -2595,13 +2198,7 @@
           {
             "code": "COMM 100A",
             "type": "CHILD",
-            "children": [
-              {
-                "code": "COMM 10",
-                "type": "CHILD",
-                "children": []
-              }
-            ]
+            "children": []
           },
           {
             "code": "COMM 100B",
@@ -2617,13 +2214,7 @@
           {
             "code": "COMM 100C",
             "type": "CHILD",
-            "children": [
-              {
-                "code": "COMM 10",
-                "type": "CHILD",
-                "children": []
-              }
-            ]
+            "children": []
           }
         ]
       }
@@ -2645,13 +2236,7 @@
           {
             "code": "COMM 100A",
             "type": "CHILD",
-            "children": [
-              {
-                "code": "COMM 10",
-                "type": "CHILD",
-                "children": []
-              }
-            ]
+            "children": []
           },
           {
             "code": "COMM 100B",
@@ -2667,13 +2252,7 @@
           {
             "code": "COMM 100C",
             "type": "CHILD",
-            "children": [
-              {
-                "code": "COMM 10",
-                "type": "CHILD",
-                "children": []
-              }
-            ]
+            "children": []
           }
         ]
       }
@@ -2769,13 +2348,7 @@
           {
             "code": "COMM 100A",
             "type": "CHILD",
-            "children": [
-              {
-                "code": "COMM 10",
-                "type": "CHILD",
-                "children": []
-              }
-            ]
+            "children": []
           },
           {
             "code": "COMM 100B",
@@ -2791,13 +2364,7 @@
           {
             "code": "COMM 100C",
             "type": "CHILD",
-            "children": [
-              {
-                "code": "COMM 10",
-                "type": "CHILD",
-                "children": []
-              }
-            ]
+            "children": []
           }
         ]
       }
@@ -2819,13 +2386,7 @@
           {
             "code": "COMM 100A",
             "type": "CHILD",
-            "children": [
-              {
-                "code": "COMM 10",
-                "type": "CHILD",
-                "children": []
-              }
-            ]
+            "children": []
           },
           {
             "code": "COMM 100B",
@@ -2841,13 +2402,7 @@
           {
             "code": "COMM 100C",
             "type": "CHILD",
-            "children": [
-              {
-                "code": "COMM 10",
-                "type": "CHILD",
-                "children": []
-              }
-            ]
+            "children": []
           }
         ]
       }
@@ -2906,13 +2461,7 @@
           {
             "code": "COMM 100A",
             "type": "CHILD",
-            "children": [
-              {
-                "code": "COMM 10",
-                "type": "CHILD",
-                "children": []
-              }
-            ]
+            "children": []
           },
           {
             "code": "COMM 100B",
@@ -2928,13 +2477,7 @@
           {
             "code": "COMM 100C",
             "type": "CHILD",
-            "children": [
-              {
-                "code": "COMM 10",
-                "type": "CHILD",
-                "children": []
-              }
-            ]
+            "children": []
           }
         ]
       }
@@ -2961,13 +2504,7 @@
           {
             "code": "COMM 100A",
             "type": "CHILD",
-            "children": [
-              {
-                "code": "COMM 10",
-                "type": "CHILD",
-                "children": []
-              }
-            ]
+            "children": []
           },
           {
             "code": "COMM 100B",
@@ -2983,13 +2520,7 @@
           {
             "code": "COMM 100C",
             "type": "CHILD",
-            "children": [
-              {
-                "code": "COMM 10",
-                "type": "CHILD",
-                "children": []
-              }
-            ]
+            "children": []
           }
         ]
       }
@@ -3011,13 +2542,7 @@
           {
             "code": "COMM 100A",
             "type": "CHILD",
-            "children": [
-              {
-                "code": "COMM 10",
-                "type": "CHILD",
-                "children": []
-              }
-            ]
+            "children": []
           },
           {
             "code": "COMM 100B",
@@ -3033,13 +2558,7 @@
           {
             "code": "COMM 100C",
             "type": "CHILD",
-            "children": [
-              {
-                "code": "COMM 10",
-                "type": "CHILD",
-                "children": []
-              }
-            ]
+            "children": []
           }
         ]
       }
@@ -3061,13 +2580,7 @@
           {
             "code": "COMM 100A",
             "type": "CHILD",
-            "children": [
-              {
-                "code": "COMM 10",
-                "type": "CHILD",
-                "children": []
-              }
-            ]
+            "children": []
           },
           {
             "code": "COMM 100B",
@@ -3083,13 +2596,7 @@
           {
             "code": "COMM 100C",
             "type": "CHILD",
-            "children": [
-              {
-                "code": "COMM 10",
-                "type": "CHILD",
-                "children": []
-              }
-            ]
+            "children": []
           }
         ]
       }
@@ -3111,13 +2618,7 @@
           {
             "code": "COMM 100A",
             "type": "CHILD",
-            "children": [
-              {
-                "code": "COMM 10",
-                "type": "CHILD",
-                "children": []
-              }
-            ]
+            "children": []
           },
           {
             "code": "COMM 100B",
@@ -3133,13 +2634,7 @@
           {
             "code": "COMM 100C",
             "type": "CHILD",
-            "children": [
-              {
-                "code": "COMM 10",
-                "type": "CHILD",
-                "children": []
-              }
-            ]
+            "children": []
           }
         ]
       }
@@ -3161,13 +2656,7 @@
           {
             "code": "COMM 100A",
             "type": "CHILD",
-            "children": [
-              {
-                "code": "COMM 10",
-                "type": "CHILD",
-                "children": []
-              }
-            ]
+            "children": []
           },
           {
             "code": "COMM 100B",
@@ -3183,13 +2672,7 @@
           {
             "code": "COMM 100C",
             "type": "CHILD",
-            "children": [
-              {
-                "code": "COMM 10",
-                "type": "CHILD",
-                "children": []
-              }
-            ]
+            "children": []
           }
         ]
       }
@@ -3211,13 +2694,7 @@
           {
             "code": "COMM 100A",
             "type": "CHILD",
-            "children": [
-              {
-                "code": "COMM 10",
-                "type": "CHILD",
-                "children": []
-              }
-            ]
+            "children": []
           },
           {
             "code": "COMM 100B",
@@ -3233,13 +2710,7 @@
           {
             "code": "COMM 100C",
             "type": "CHILD",
-            "children": [
-              {
-                "code": "COMM 10",
-                "type": "CHILD",
-                "children": []
-              }
-            ]
+            "children": []
           }
         ]
       }
@@ -3261,13 +2732,7 @@
           {
             "code": "COMM 100A",
             "type": "CHILD",
-            "children": [
-              {
-                "code": "COMM 10",
-                "type": "CHILD",
-                "children": []
-              }
-            ]
+            "children": []
           },
           {
             "code": "COMM 100B",
@@ -3283,13 +2748,7 @@
           {
             "code": "COMM 100C",
             "type": "CHILD",
-            "children": [
-              {
-                "code": "COMM 10",
-                "type": "CHILD",
-                "children": []
-              }
-            ]
+            "children": []
           }
         ]
       }
@@ -3311,13 +2770,7 @@
           {
             "code": "COMM 100A",
             "type": "CHILD",
-            "children": [
-              {
-                "code": "COMM 10",
-                "type": "CHILD",
-                "children": []
-              }
-            ]
+            "children": []
           },
           {
             "code": "COMM 100B",
@@ -3333,13 +2786,7 @@
           {
             "code": "COMM 100C",
             "type": "CHILD",
-            "children": [
-              {
-                "code": "COMM 10",
-                "type": "CHILD",
-                "children": []
-              }
-            ]
+            "children": []
           }
         ]
       }
@@ -3356,13 +2803,7 @@
           {
             "code": "COMM 100A",
             "type": "CHILD",
-            "children": [
-              {
-                "code": "COMM 10",
-                "type": "CHILD",
-                "children": []
-              }
-            ]
+            "children": []
           },
           {
             "code": "COMM 100B",
@@ -3395,13 +2836,7 @@
           {
             "code": "COMM 100C",
             "type": "CHILD",
-            "children": [
-              {
-                "code": "COMM 10",
-                "type": "CHILD",
-                "children": []
-              }
-            ]
+            "children": []
           }
         ]
       },
@@ -3412,24 +2847,12 @@
           {
             "code": "COMM 100A",
             "type": "CHILD",
-            "children": [
-              {
-                "code": "COMM 10",
-                "type": "CHILD",
-                "children": []
-              }
-            ]
+            "children": []
           },
           {
             "code": "COMM 100C",
             "type": "CHILD",
-            "children": [
-              {
-                "code": "COMM 10",
-                "type": "CHILD",
-                "children": []
-              }
-            ]
+            "children": []
           }
         ]
       },
@@ -3456,13 +2879,7 @@
           {
             "code": "COMM 100A",
             "type": "CHILD",
-            "children": [
-              {
-                "code": "COMM 10",
-                "type": "CHILD",
-                "children": []
-              }
-            ]
+            "children": []
           },
           {
             "code": "COMM 100B",
@@ -3478,13 +2895,7 @@
           {
             "code": "COMM 100C",
             "type": "CHILD",
-            "children": [
-              {
-                "code": "COMM 10",
-                "type": "CHILD",
-                "children": []
-              }
-            ]
+            "children": []
           }
         ]
       }
@@ -3511,13 +2922,7 @@
           {
             "code": "COMM 100A",
             "type": "CHILD",
-            "children": [
-              {
-                "code": "COMM 10",
-                "type": "CHILD",
-                "children": []
-              }
-            ]
+            "children": []
           },
           {
             "code": "COMM 100B",
@@ -3533,6 +2938,28 @@
           {
             "code": "COMM 100C",
             "type": "CHILD",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "code": "COMM 172T",
+    "type": "ROOT",
+    "children": [
+      {
+        "code": "OR",
+        "type": "CHILD",
+        "children": [
+          {
+            "code": "COMM 100A",
+            "type": "CHILD",
+            "children": []
+          },
+          {
+            "code": "COMM 100B",
+            "type": "CHILD",
             "children": [
               {
                 "code": "COMM 10",
@@ -3540,6 +2967,11 @@
                 "children": []
               }
             ]
+          },
+          {
+            "code": "COMM 100C",
+            "type": "CHILD",
+            "children": []
           }
         ]
       }
@@ -3561,13 +2993,7 @@
           {
             "code": "COMM 100A",
             "type": "CHILD",
-            "children": [
-              {
-                "code": "COMM 10",
-                "type": "CHILD",
-                "children": []
-              }
-            ]
+            "children": []
           },
           {
             "code": "COMM 100B",
@@ -3583,13 +3009,7 @@
           {
             "code": "COMM 100C",
             "type": "CHILD",
-            "children": [
-              {
-                "code": "COMM 10",
-                "type": "CHILD",
-                "children": []
-              }
-            ]
+            "children": []
           }
         ]
       }
@@ -3611,13 +3031,7 @@
           {
             "code": "COMM 100A",
             "type": "CHILD",
-            "children": [
-              {
-                "code": "COMM 10",
-                "type": "CHILD",
-                "children": []
-              }
-            ]
+            "children": []
           },
           {
             "code": "COMM 100B",
@@ -3633,13 +3047,7 @@
           {
             "code": "COMM 100C",
             "type": "CHILD",
-            "children": [
-              {
-                "code": "COMM 10",
-                "type": "CHILD",
-                "children": []
-              }
-            ]
+            "children": []
           }
         ]
       }
@@ -3661,13 +3069,7 @@
           {
             "code": "COMM 100A",
             "type": "CHILD",
-            "children": [
-              {
-                "code": "COMM 10",
-                "type": "CHILD",
-                "children": []
-              }
-            ]
+            "children": []
           },
           {
             "code": "COMM 100B",
@@ -3683,13 +3085,7 @@
           {
             "code": "COMM 100C",
             "type": "CHILD",
-            "children": [
-              {
-                "code": "COMM 10",
-                "type": "CHILD",
-                "children": []
-              }
-            ]
+            "children": []
           }
         ]
       }
@@ -3711,13 +3107,7 @@
           {
             "code": "COMM 100A",
             "type": "CHILD",
-            "children": [
-              {
-                "code": "COMM 10",
-                "type": "CHILD",
-                "children": []
-              }
-            ]
+            "children": []
           },
           {
             "code": "COMM 100B",
@@ -3733,13 +3123,7 @@
           {
             "code": "COMM 100C",
             "type": "CHILD",
-            "children": [
-              {
-                "code": "COMM 10",
-                "type": "CHILD",
-                "children": []
-              }
-            ]
+            "children": []
           }
         ]
       }
@@ -3750,16 +3134,16 @@
     "type": "ROOT",
     "children": [
       {
-        "code": "COMM 10",
-        "type": "CHILD",
-        "children": []
-      },
-      {
         "code": "OR",
         "type": "CHILD",
         "children": [
           {
             "code": "COMM 100A",
+            "type": "CHILD",
+            "children": []
+          },
+          {
+            "code": "COMM 100B",
             "type": "CHILD",
             "children": [
               {
@@ -3768,7 +3152,13 @@
                 "children": []
               }
             ]
-          },
+          }
+        ]
+      },
+      {
+        "code": "OR",
+        "type": "CHILD",
+        "children": [
           {
             "code": "COMM 100B",
             "type": "CHILD",
@@ -3783,15 +3173,30 @@
           {
             "code": "COMM 100C",
             "type": "CHILD",
-            "children": [
-              {
-                "code": "COMM 10",
-                "type": "CHILD",
-                "children": []
-              }
-            ]
+            "children": []
           }
         ]
+      },
+      {
+        "code": "OR",
+        "type": "CHILD",
+        "children": [
+          {
+            "code": "COMM 100A",
+            "type": "CHILD",
+            "children": []
+          },
+          {
+            "code": "COMM 100C",
+            "type": "CHILD",
+            "children": []
+          }
+        ]
+      },
+      {
+        "code": "COMM 10",
+        "type": "CHILD",
+        "children": []
       }
     ]
   },
@@ -3811,13 +3216,7 @@
           {
             "code": "COMM 100A",
             "type": "CHILD",
-            "children": [
-              {
-                "code": "COMM 10",
-                "type": "CHILD",
-                "children": []
-              }
-            ]
+            "children": []
           },
           {
             "code": "COMM 100B",
@@ -3833,13 +3232,7 @@
           {
             "code": "COMM 100C",
             "type": "CHILD",
-            "children": [
-              {
-                "code": "COMM 10",
-                "type": "CHILD",
-                "children": []
-              }
-            ]
+            "children": []
           }
         ]
       }
@@ -3856,13 +3249,7 @@
           {
             "code": "COMM 100A",
             "type": "CHILD",
-            "children": [
-              {
-                "code": "COMM 10",
-                "type": "CHILD",
-                "children": []
-              }
-            ]
+            "children": []
           },
           {
             "code": "COMM 100B",
@@ -3895,13 +3282,7 @@
           {
             "code": "COMM 100C",
             "type": "CHILD",
-            "children": [
-              {
-                "code": "COMM 10",
-                "type": "CHILD",
-                "children": []
-              }
-            ]
+            "children": []
           }
         ]
       },
@@ -3912,24 +3293,12 @@
           {
             "code": "COMM 100A",
             "type": "CHILD",
-            "children": [
-              {
-                "code": "COMM 10",
-                "type": "CHILD",
-                "children": []
-              }
-            ]
+            "children": []
           },
           {
             "code": "COMM 100C",
             "type": "CHILD",
-            "children": [
-              {
-                "code": "COMM 10",
-                "type": "CHILD",
-                "children": []
-              }
-            ]
+            "children": []
           }
         ]
       },
@@ -3956,13 +3325,7 @@
           {
             "code": "COMM 100A",
             "type": "CHILD",
-            "children": [
-              {
-                "code": "COMM 10",
-                "type": "CHILD",
-                "children": []
-              }
-            ]
+            "children": []
           },
           {
             "code": "COMM 100B",
@@ -3978,13 +3341,7 @@
           {
             "code": "COMM 100C",
             "type": "CHILD",
-            "children": [
-              {
-                "code": "COMM 10",
-                "type": "CHILD",
-                "children": []
-              }
-            ]
+            "children": []
           }
         ]
       }
@@ -4006,13 +3363,7 @@
           {
             "code": "COMM 100A",
             "type": "CHILD",
-            "children": [
-              {
-                "code": "COMM 10",
-                "type": "CHILD",
-                "children": []
-              }
-            ]
+            "children": []
           },
           {
             "code": "COMM 100B",
@@ -4030,13 +3381,7 @@
       {
         "code": "COMM 100C",
         "type": "CHILD",
-        "children": [
-          {
-            "code": "COMM 10",
-            "type": "CHILD",
-            "children": []
-          }
-        ]
+        "children": []
       }
     ]
   },
@@ -4056,13 +3401,7 @@
           {
             "code": "COMM 100A",
             "type": "CHILD",
-            "children": [
-              {
-                "code": "COMM 10",
-                "type": "CHILD",
-                "children": []
-              }
-            ]
+            "children": []
           },
           {
             "code": "COMM 100B",
@@ -4078,13 +3417,7 @@
           {
             "code": "COMM 100C",
             "type": "CHILD",
-            "children": [
-              {
-                "code": "COMM 10",
-                "type": "CHILD",
-                "children": []
-              }
-            ]
+            "children": []
           }
         ]
       }
@@ -4106,13 +3439,7 @@
           {
             "code": "COMM 100A",
             "type": "CHILD",
-            "children": [
-              {
-                "code": "COMM 10",
-                "type": "CHILD",
-                "children": []
-              }
-            ]
+            "children": []
           },
           {
             "code": "COMM 100B",
@@ -4128,13 +3455,7 @@
           {
             "code": "COMM 100C",
             "type": "CHILD",
-            "children": [
-              {
-                "code": "COMM 10",
-                "type": "CHILD",
-                "children": []
-              }
-            ]
+            "children": []
           }
         ]
       }
@@ -4156,13 +3477,7 @@
           {
             "code": "COMM 100A",
             "type": "CHILD",
-            "children": [
-              {
-                "code": "COMM 10",
-                "type": "CHILD",
-                "children": []
-              }
-            ]
+            "children": []
           },
           {
             "code": "COMM 100B",
@@ -4178,13 +3493,7 @@
           {
             "code": "COMM 100C",
             "type": "CHILD",
-            "children": [
-              {
-                "code": "COMM 10",
-                "type": "CHILD",
-                "children": []
-              }
-            ]
+            "children": []
           }
         ]
       }
@@ -4206,13 +3515,7 @@
           {
             "code": "COMM 100A",
             "type": "CHILD",
-            "children": [
-              {
-                "code": "COMM 10",
-                "type": "CHILD",
-                "children": []
-              }
-            ]
+            "children": []
           },
           {
             "code": "COMM 100B",
@@ -4228,13 +3531,7 @@
           {
             "code": "COMM 100C",
             "type": "CHILD",
-            "children": [
-              {
-                "code": "COMM 10",
-                "type": "CHILD",
-                "children": []
-              }
-            ]
+            "children": []
           }
         ]
       }
@@ -4242,11 +3539,6 @@
   },
   {
     "code": "COMM 194",
-    "type": "ROOT",
-    "children": []
-  },
-  {
-    "code": "COMM 195",
     "type": "ROOT",
     "children": []
   },
@@ -4320,6 +3612,11 @@
   },
   {
     "code": "COMM 50",
+    "type": "ROOT",
+    "children": []
+  },
+  {
+    "code": "COMM 65",
     "type": "ROOT",
     "children": []
   },

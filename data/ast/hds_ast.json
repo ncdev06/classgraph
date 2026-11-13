@@ -91,7 +91,34 @@
     ]
   },
   {
-    "code": "HDS 121",
+    "code": "HDS 122",
+    "type": "ROOT",
+    "children": [
+      {
+        "code": "OR",
+        "type": "CHILD",
+        "children": [
+          {
+            "code": "HDP 1",
+            "type": "CHILD",
+            "children": []
+          },
+          {
+            "code": "HDS 1",
+            "type": "CHILD",
+            "children": []
+          },
+          {
+            "code": "PSYC 1",
+            "type": "CHILD",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "code": "HDS 124",
     "type": "ROOT",
     "children": [
       {
@@ -110,28 +137,6 @@
           },
           {
             "code": "COGS 1",
-            "type": "CHILD",
-            "children": []
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "code": "HDS 122",
-    "type": "ROOT",
-    "children": [
-      {
-        "code": "OR",
-        "type": "CHILD",
-        "children": [
-          {
-            "code": "HDP 1",
-            "type": "CHILD",
-            "children": []
-          },
-          {
-            "code": "HDS 1",
             "type": "CHILD",
             "children": []
           },
@@ -1456,6 +1461,11 @@
   },
   {
     "code": "HDS 175",
+    "type": "ROOT",
+    "children": []
+  },
+  {
+    "code": "HDS 177",
     "type": "ROOT",
     "children": []
   },
@@ -4005,12 +4015,17 @@
     "children": []
   },
   {
-    "code": "HDS 195",
+    "code": "HDS 195P",
     "type": "ROOT",
     "children": []
   },
   {
     "code": "HDS 199",
+    "type": "ROOT",
+    "children": []
+  },
+  {
+    "code": "HDS 500",
     "type": "ROOT",
     "children": []
   },

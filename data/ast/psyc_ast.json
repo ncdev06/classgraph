@@ -5366,11 +5366,6 @@
     "children": []
   },
   {
-    "code": "PSYC 123",
-    "type": "ROOT",
-    "children": []
-  },
-  {
     "code": "PSYC 124",
     "type": "ROOT",
     "children": []
@@ -8525,9 +8520,30 @@
     "children": []
   },
   {
+    "code": "PSYC 195P",
+    "type": "ROOT",
+    "children": []
+  },
+  {
     "code": "PSYC 196A-B-C",
     "type": "ROOT",
     "children": []
+  },
+  {
+    "code": "PSYC 196C",
+    "type": "ROOT",
+    "children": [
+      {
+        "code": "PSYC 196A",
+        "type": "CHILD",
+        "children": []
+      },
+      {
+        "code": "PSYC 196B",
+        "type": "CHILD",
+        "children": []
+      }
+    ]
   },
   {
     "code": "PSYC 198",
@@ -8598,6 +8614,11 @@
         ]
       }
     ]
+  },
+  {
+    "code": "PSYC 203",
+    "type": "ROOT",
+    "children": []
   },
   {
     "code": "PSYC 205",

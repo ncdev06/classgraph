@@ -14759,24 +14759,7 @@
                           {
                             "code": "MATH 15A",
                             "type": "CHILD",
-                            "children": [
-                              {
-                                "code": "OR",
-                                "type": "CHILD",
-                                "children": [
-                                  {
-                                    "code": "CSE 8B",
-                                    "type": "CHILD",
-                                    "children": []
-                                  },
-                                  {
-                                    "code": "CSE 11",
-                                    "type": "CHILD",
-                                    "children": []
-                                  }
-                                ]
-                              }
-                            ]
+                            "children": []
                           },
                           {
                             "code": "MATH 31CH",

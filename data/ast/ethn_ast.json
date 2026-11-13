@@ -308,11 +308,6 @@
     "children": []
   },
   {
-    "code": "ETHN 107",
-    "type": "ROOT",
-    "children": []
-  },
-  {
     "code": "ETHN 108",
     "type": "ROOT",
     "children": []
@@ -440,11 +435,6 @@
   },
   {
     "code": "ETHN 123A",
-    "type": "ROOT",
-    "children": []
-  },
-  {
-    "code": "ETHN 124",
     "type": "ROOT",
     "children": []
   },
@@ -613,11 +603,6 @@
     "children": []
   },
   {
-    "code": "ETHN 149",
-    "type": "ROOT",
-    "children": []
-  },
-  {
     "code": "ETHN 150",
     "type": "ROOT",
     "children": []
@@ -629,16 +614,6 @@
   },
   {
     "code": "ETHN 152",
-    "type": "ROOT",
-    "children": []
-  },
-  {
-    "code": "ETHN 153",
-    "type": "ROOT",
-    "children": []
-  },
-  {
-    "code": "ETHN 154",
     "type": "ROOT",
     "children": []
   },
@@ -659,6 +634,16 @@
   },
   {
     "code": "ETHN 156B",
+    "type": "ROOT",
+    "children": []
+  },
+  {
+    "code": "ETHN 156C",
+    "type": "ROOT",
+    "children": []
+  },
+  {
+    "code": "ETHN 156D",
     "type": "ROOT",
     "children": []
   },
@@ -709,16 +694,6 @@
   },
   {
     "code": "ETHN 163G",
-    "type": "ROOT",
-    "children": []
-  },
-  {
-    "code": "ETHN 163I",
-    "type": "ROOT",
-    "children": []
-  },
-  {
-    "code": "ETHN 163J",
     "type": "ROOT",
     "children": []
   },
@@ -849,11 +824,6 @@
   },
   {
     "code": "ETHN 189",
-    "type": "ROOT",
-    "children": []
-  },
-  {
-    "code": "ETHN 190",
     "type": "ROOT",
     "children": []
   },

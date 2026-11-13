@@ -55,24 +55,7 @@
                   {
                     "code": "MATH 15A",
                     "type": "CHILD",
-                    "children": [
-                      {
-                        "code": "OR",
-                        "type": "CHILD",
-                        "children": [
-                          {
-                            "code": "CSE 8B",
-                            "type": "CHILD",
-                            "children": []
-                          },
-                          {
-                            "code": "CSE 11",
-                            "type": "CHILD",
-                            "children": []
-                          }
-                        ]
-                      }
-                    ]
+                    "children": []
                   },
                   {
                     "code": "MATH 31CH",
@@ -3641,24 +3624,7 @@
                   {
                     "code": "MATH 15A",
                     "type": "CHILD",
-                    "children": [
-                      {
-                        "code": "OR",
-                        "type": "CHILD",
-                        "children": [
-                          {
-                            "code": "CSE 8B",
-                            "type": "CHILD",
-                            "children": []
-                          },
-                          {
-                            "code": "CSE 11",
-                            "type": "CHILD",
-                            "children": []
-                          }
-                        ]
-                      }
-                    ]
+                    "children": []
                   },
                   {
                     "code": "MATH 31CH",
@@ -7491,24 +7457,7 @@
                   {
                     "code": "MATH 15A",
                     "type": "CHILD",
-                    "children": [
-                      {
-                        "code": "OR",
-                        "type": "CHILD",
-                        "children": [
-                          {
-                            "code": "CSE 8B",
-                            "type": "CHILD",
-                            "children": []
-                          },
-                          {
-                            "code": "CSE 11",
-                            "type": "CHILD",
-                            "children": []
-                          }
-                        ]
-                      }
-                    ]
+                    "children": []
                   },
                   {
                     "code": "MATH 31CH",
@@ -10970,24 +10919,7 @@
           {
             "code": "MATH 15A",
             "type": "CHILD",
-            "children": [
-              {
-                "code": "OR",
-                "type": "CHILD",
-                "children": [
-                  {
-                    "code": "CSE 8B",
-                    "type": "CHILD",
-                    "children": []
-                  },
-                  {
-                    "code": "CSE 11",
-                    "type": "CHILD",
-                    "children": []
-                  }
-                ]
-              }
-            ]
+            "children": []
           },
           {
             "code": "MATH 31CH",
@@ -11566,24 +11498,7 @@
                   {
                     "code": "MATH 15A",
                     "type": "CHILD",
-                    "children": [
-                      {
-                        "code": "OR",
-                        "type": "CHILD",
-                        "children": [
-                          {
-                            "code": "CSE 8B",
-                            "type": "CHILD",
-                            "children": []
-                          },
-                          {
-                            "code": "CSE 11",
-                            "type": "CHILD",
-                            "children": []
-                          }
-                        ]
-                      }
-                    ]
+                    "children": []
                   },
                   {
                     "code": "MATH 31CH",
@@ -16613,24 +16528,7 @@
                   {
                     "code": "MATH 15A",
                     "type": "CHILD",
-                    "children": [
-                      {
-                        "code": "OR",
-                        "type": "CHILD",
-                        "children": [
-                          {
-                            "code": "CSE 8B",
-                            "type": "CHILD",
-                            "children": []
-                          },
-                          {
-                            "code": "CSE 11",
-                            "type": "CHILD",
-                            "children": []
-                          }
-                        ]
-                      }
-                    ]
+                    "children": []
                   },
                   {
                     "code": "MATH 31CH",
@@ -20623,24 +20521,7 @@
                   {
                     "code": "MATH 15A",
                     "type": "CHILD",
-                    "children": [
-                      {
-                        "code": "OR",
-                        "type": "CHILD",
-                        "children": [
-                          {
-                            "code": "CSE 8B",
-                            "type": "CHILD",
-                            "children": []
-                          },
-                          {
-                            "code": "CSE 11",
-                            "type": "CHILD",
-                            "children": []
-                          }
-                        ]
-                      }
-                    ]
+                    "children": []
                   },
                   {
                     "code": "MATH 31CH",
@@ -24086,24 +23967,7 @@
                       {
                         "code": "MATH 15A",
                         "type": "CHILD",
-                        "children": [
-                          {
-                            "code": "OR",
-                            "type": "CHILD",
-                            "children": [
-                              {
-                                "code": "CSE 8B",
-                                "type": "CHILD",
-                                "children": []
-                              },
-                              {
-                                "code": "CSE 11",
-                                "type": "CHILD",
-                                "children": []
-                              }
-                            ]
-                          }
-                        ]
+                        "children": []
                       },
                       {
                         "code": "MATH 31CH",
@@ -27610,24 +27474,7 @@
               {
                 "code": "MATH 15A",
                 "type": "CHILD",
-                "children": [
-                  {
-                    "code": "OR",
-                    "type": "CHILD",
-                    "children": [
-                      {
-                        "code": "CSE 8B",
-                        "type": "CHILD",
-                        "children": []
-                      },
-                      {
-                        "code": "CSE 11",
-                        "type": "CHILD",
-                        "children": []
-                      }
-                    ]
-                  }
-                ]
+                "children": []
               },
               {
                 "code": "MATH 31CH",
@@ -28206,24 +28053,7 @@
                       {
                         "code": "MATH 15A",
                         "type": "CHILD",
-                        "children": [
-                          {
-                            "code": "OR",
-                            "type": "CHILD",
-                            "children": [
-                              {
-                                "code": "CSE 8B",
-                                "type": "CHILD",
-                                "children": []
-                              },
-                              {
-                                "code": "CSE 11",
-                                "type": "CHILD",
-                                "children": []
-                              }
-                            ]
-                          }
-                        ]
+                        "children": []
                       },
                       {
                         "code": "MATH 31CH",
@@ -32856,24 +32686,7 @@
                           {
                             "code": "MATH 15A",
                             "type": "CHILD",
-                            "children": [
-                              {
-                                "code": "OR",
-                                "type": "CHILD",
-                                "children": [
-                                  {
-                                    "code": "CSE 8B",
-                                    "type": "CHILD",
-                                    "children": []
-                                  },
-                                  {
-                                    "code": "CSE 11",
-                                    "type": "CHILD",
-                                    "children": []
-                                  }
-                                ]
-                              }
-                            ]
+                            "children": []
                           },
                           {
                             "code": "MATH 31CH",
@@ -36463,24 +36276,7 @@
                               {
                                 "code": "MATH 15A",
                                 "type": "CHILD",
-                                "children": [
-                                  {
-                                    "code": "OR",
-                                    "type": "CHILD",
-                                    "children": [
-                                      {
-                                        "code": "CSE 8B",
-                                        "type": "CHILD",
-                                        "children": []
-                                      },
-                                      {
-                                        "code": "CSE 11",
-                                        "type": "CHILD",
-                                        "children": []
-                                      }
-                                    ]
-                                  }
-                                ]
+                                "children": []
                               },
                               {
                                 "code": "MATH 31CH",
@@ -41878,24 +41674,7 @@
                                   {
                                     "code": "MATH 15A",
                                     "type": "CHILD",
-                                    "children": [
-                                      {
-                                        "code": "OR",
-                                        "type": "CHILD",
-                                        "children": [
-                                          {
-                                            "code": "CSE 8B",
-                                            "type": "CHILD",
-                                            "children": []
-                                          },
-                                          {
-                                            "code": "CSE 11",
-                                            "type": "CHILD",
-                                            "children": []
-                                          }
-                                        ]
-                                      }
-                                    ]
+                                    "children": []
                                   },
                                   {
                                     "code": "MATH 31CH",
@@ -45485,24 +45264,7 @@
                       {
                         "code": "MATH 15A",
                         "type": "CHILD",
-                        "children": [
-                          {
-                            "code": "OR",
-                            "type": "CHILD",
-                            "children": [
-                              {
-                                "code": "CSE 8B",
-                                "type": "CHILD",
-                                "children": []
-                              },
-                              {
-                                "code": "CSE 11",
-                                "type": "CHILD",
-                                "children": []
-                              }
-                            ]
-                          }
-                        ]
+                        "children": []
                       },
                       {
                         "code": "MATH 31CH",
@@ -46081,24 +45843,7 @@
                               {
                                 "code": "MATH 15A",
                                 "type": "CHILD",
-                                "children": [
-                                  {
-                                    "code": "OR",
-                                    "type": "CHILD",
-                                    "children": [
-                                      {
-                                        "code": "CSE 8B",
-                                        "type": "CHILD",
-                                        "children": []
-                                      },
-                                      {
-                                        "code": "CSE 11",
-                                        "type": "CHILD",
-                                        "children": []
-                                      }
-                                    ]
-                                  }
-                                ]
+                                "children": []
                               },
                               {
                                 "code": "MATH 31CH",
@@ -50646,24 +50391,7 @@
                                       {
                                         "code": "MATH 15A",
                                         "type": "CHILD",
-                                        "children": [
-                                          {
-                                            "code": "OR",
-                                            "type": "CHILD",
-                                            "children": [
-                                              {
-                                                "code": "CSE 8B",
-                                                "type": "CHILD",
-                                                "children": []
-                                              },
-                                              {
-                                                "code": "CSE 11",
-                                                "type": "CHILD",
-                                                "children": []
-                                              }
-                                            ]
-                                          }
-                                        ]
+                                        "children": []
                                       },
                                       {
                                         "code": "MATH 31CH",
@@ -54253,24 +53981,7 @@
                           {
                             "code": "MATH 15A",
                             "type": "CHILD",
-                            "children": [
-                              {
-                                "code": "OR",
-                                "type": "CHILD",
-                                "children": [
-                                  {
-                                    "code": "CSE 8B",
-                                    "type": "CHILD",
-                                    "children": []
-                                  },
-                                  {
-                                    "code": "CSE 11",
-                                    "type": "CHILD",
-                                    "children": []
-                                  }
-                                ]
-                              }
-                            ]
+                            "children": []
                           },
                           {
                             "code": "MATH 31CH",
@@ -54849,24 +54560,7 @@
                                   {
                                     "code": "MATH 15A",
                                     "type": "CHILD",
-                                    "children": [
-                                      {
-                                        "code": "OR",
-                                        "type": "CHILD",
-                                        "children": [
-                                          {
-                                            "code": "CSE 8B",
-                                            "type": "CHILD",
-                                            "children": []
-                                          },
-                                          {
-                                            "code": "CSE 11",
-                                            "type": "CHILD",
-                                            "children": []
-                                          }
-                                        ]
-                                      }
-                                    ]
+                                    "children": []
                                   },
                                   {
                                     "code": "MATH 31CH",
@@ -59400,24 +59094,7 @@
                                       {
                                         "code": "MATH 15A",
                                         "type": "CHILD",
-                                        "children": [
-                                          {
-                                            "code": "OR",
-                                            "type": "CHILD",
-                                            "children": [
-                                              {
-                                                "code": "CSE 8B",
-                                                "type": "CHILD",
-                                                "children": []
-                                              },
-                                              {
-                                                "code": "CSE 11",
-                                                "type": "CHILD",
-                                                "children": []
-                                              }
-                                            ]
-                                          }
-                                        ]
+                                        "children": []
                                       },
                                       {
                                         "code": "MATH 31CH",
@@ -70371,24 +70048,7 @@
                           {
                             "code": "MATH 15A",
                             "type": "CHILD",
-                            "children": [
-                              {
-                                "code": "OR",
-                                "type": "CHILD",
-                                "children": [
-                                  {
-                                    "code": "CSE 8B",
-                                    "type": "CHILD",
-                                    "children": []
-                                  },
-                                  {
-                                    "code": "CSE 11",
-                                    "type": "CHILD",
-                                    "children": []
-                                  }
-                                ]
-                              }
-                            ]
+                            "children": []
                           },
                           {
                             "code": "MATH 31CH",
@@ -73964,24 +73624,7 @@
                       {
                         "code": "MATH 15A",
                         "type": "CHILD",
-                        "children": [
-                          {
-                            "code": "OR",
-                            "type": "CHILD",
-                            "children": [
-                              {
-                                "code": "CSE 8B",
-                                "type": "CHILD",
-                                "children": []
-                              },
-                              {
-                                "code": "CSE 11",
-                                "type": "CHILD",
-                                "children": []
-                              }
-                            ]
-                          }
-                        ]
+                        "children": []
                       },
                       {
                         "code": "MATH 31CH",
@@ -77687,24 +77330,7 @@
                               {
                                 "code": "MATH 15A",
                                 "type": "CHILD",
-                                "children": [
-                                  {
-                                    "code": "OR",
-                                    "type": "CHILD",
-                                    "children": [
-                                      {
-                                        "code": "CSE 8B",
-                                        "type": "CHILD",
-                                        "children": []
-                                      },
-                                      {
-                                        "code": "CSE 11",
-                                        "type": "CHILD",
-                                        "children": []
-                                      }
-                                    ]
-                                  }
-                                ]
+                                "children": []
                               },
                               {
                                 "code": "MATH 31CH",
@@ -81280,24 +80906,7 @@
                           {
                             "code": "MATH 15A",
                             "type": "CHILD",
-                            "children": [
-                              {
-                                "code": "OR",
-                                "type": "CHILD",
-                                "children": [
-                                  {
-                                    "code": "CSE 8B",
-                                    "type": "CHILD",
-                                    "children": []
-                                  },
-                                  {
-                                    "code": "CSE 11",
-                                    "type": "CHILD",
-                                    "children": []
-                                  }
-                                ]
-                              }
-                            ]
+                            "children": []
                           },
                           {
                             "code": "MATH 31CH",
@@ -84929,24 +84538,7 @@
                           {
                             "code": "MATH 15A",
                             "type": "CHILD",
-                            "children": [
-                              {
-                                "code": "OR",
-                                "type": "CHILD",
-                                "children": [
-                                  {
-                                    "code": "CSE 8B",
-                                    "type": "CHILD",
-                                    "children": []
-                                  },
-                                  {
-                                    "code": "CSE 11",
-                                    "type": "CHILD",
-                                    "children": []
-                                  }
-                                ]
-                              }
-                            ]
+                            "children": []
                           },
                           {
                             "code": "MATH 31CH",
@@ -88613,24 +88205,7 @@
                                   {
                                     "code": "MATH 15A",
                                     "type": "CHILD",
-                                    "children": [
-                                      {
-                                        "code": "OR",
-                                        "type": "CHILD",
-                                        "children": [
-                                          {
-                                            "code": "CSE 8B",
-                                            "type": "CHILD",
-                                            "children": []
-                                          },
-                                          {
-                                            "code": "CSE 11",
-                                            "type": "CHILD",
-                                            "children": []
-                                          }
-                                        ]
-                                      }
-                                    ]
+                                    "children": []
                                   },
                                   {
                                     "code": "MATH 31CH",
@@ -92476,24 +92051,7 @@
                       {
                         "code": "MATH 15A",
                         "type": "CHILD",
-                        "children": [
-                          {
-                            "code": "OR",
-                            "type": "CHILD",
-                            "children": [
-                              {
-                                "code": "CSE 8B",
-                                "type": "CHILD",
-                                "children": []
-                              },
-                              {
-                                "code": "CSE 11",
-                                "type": "CHILD",
-                                "children": []
-                              }
-                            ]
-                          }
-                        ]
+                        "children": []
                       },
                       {
                         "code": "MATH 31CH",
@@ -95994,24 +95552,7 @@
                               {
                                 "code": "MATH 15A",
                                 "type": "CHILD",
-                                "children": [
-                                  {
-                                    "code": "OR",
-                                    "type": "CHILD",
-                                    "children": [
-                                      {
-                                        "code": "CSE 8B",
-                                        "type": "CHILD",
-                                        "children": []
-                                      },
-                                      {
-                                        "code": "CSE 11",
-                                        "type": "CHILD",
-                                        "children": []
-                                      }
-                                    ]
-                                  }
-                                ]
+                                "children": []
                               },
                               {
                                 "code": "MATH 31CH",
@@ -99689,24 +99230,7 @@
                       {
                         "code": "MATH 15A",
                         "type": "CHILD",
-                        "children": [
-                          {
-                            "code": "OR",
-                            "type": "CHILD",
-                            "children": [
-                              {
-                                "code": "CSE 8B",
-                                "type": "CHILD",
-                                "children": []
-                              },
-                              {
-                                "code": "CSE 11",
-                                "type": "CHILD",
-                                "children": []
-                              }
-                            ]
-                          }
-                        ]
+                        "children": []
                       },
                       {
                         "code": "MATH 31CH",
@@ -103207,24 +102731,7 @@
                               {
                                 "code": "MATH 15A",
                                 "type": "CHILD",
-                                "children": [
-                                  {
-                                    "code": "OR",
-                                    "type": "CHILD",
-                                    "children": [
-                                      {
-                                        "code": "CSE 8B",
-                                        "type": "CHILD",
-                                        "children": []
-                                      },
-                                      {
-                                        "code": "CSE 11",
-                                        "type": "CHILD",
-                                        "children": []
-                                      }
-                                    ]
-                                  }
-                                ]
+                                "children": []
                               },
                               {
                                 "code": "MATH 31CH",
@@ -106809,24 +106316,7 @@
                   {
                     "code": "MATH 15A",
                     "type": "CHILD",
-                    "children": [
-                      {
-                        "code": "OR",
-                        "type": "CHILD",
-                        "children": [
-                          {
-                            "code": "CSE 8B",
-                            "type": "CHILD",
-                            "children": []
-                          },
-                          {
-                            "code": "CSE 11",
-                            "type": "CHILD",
-                            "children": []
-                          }
-                        ]
-                      }
-                    ]
+                    "children": []
                   },
                   {
                     "code": "MATH 31CH",
@@ -110483,24 +109973,7 @@
                                   {
                                     "code": "MATH 15A",
                                     "type": "CHILD",
-                                    "children": [
-                                      {
-                                        "code": "OR",
-                                        "type": "CHILD",
-                                        "children": [
-                                          {
-                                            "code": "CSE 8B",
-                                            "type": "CHILD",
-                                            "children": []
-                                          },
-                                          {
-                                            "code": "CSE 11",
-                                            "type": "CHILD",
-                                            "children": []
-                                          }
-                                        ]
-                                      }
-                                    ]
+                                    "children": []
                                   },
                                   {
                                     "code": "MATH 31CH",
@@ -114076,24 +113549,7 @@
                               {
                                 "code": "MATH 15A",
                                 "type": "CHILD",
-                                "children": [
-                                  {
-                                    "code": "OR",
-                                    "type": "CHILD",
-                                    "children": [
-                                      {
-                                        "code": "CSE 8B",
-                                        "type": "CHILD",
-                                        "children": []
-                                      },
-                                      {
-                                        "code": "CSE 11",
-                                        "type": "CHILD",
-                                        "children": []
-                                      }
-                                    ]
-                                  }
-                                ]
+                                "children": []
                               },
                               {
                                 "code": "MATH 31CH",
@@ -117686,24 +117142,7 @@
                               {
                                 "code": "MATH 15A",
                                 "type": "CHILD",
-                                "children": [
-                                  {
-                                    "code": "OR",
-                                    "type": "CHILD",
-                                    "children": [
-                                      {
-                                        "code": "CSE 8B",
-                                        "type": "CHILD",
-                                        "children": []
-                                      },
-                                      {
-                                        "code": "CSE 11",
-                                        "type": "CHILD",
-                                        "children": []
-                                      }
-                                    ]
-                                  }
-                                ]
+                                "children": []
                               },
                               {
                                 "code": "MATH 31CH",
@@ -121204,24 +120643,7 @@
                                       {
                                         "code": "MATH 15A",
                                         "type": "CHILD",
-                                        "children": [
-                                          {
-                                            "code": "OR",
-                                            "type": "CHILD",
-                                            "children": [
-                                              {
-                                                "code": "CSE 8B",
-                                                "type": "CHILD",
-                                                "children": []
-                                              },
-                                              {
-                                                "code": "CSE 11",
-                                                "type": "CHILD",
-                                                "children": []
-                                              }
-                                            ]
-                                          }
-                                        ]
+                                        "children": []
                                       },
                                       {
                                         "code": "MATH 31CH",
@@ -124899,24 +124321,7 @@
                               {
                                 "code": "MATH 15A",
                                 "type": "CHILD",
-                                "children": [
-                                  {
-                                    "code": "OR",
-                                    "type": "CHILD",
-                                    "children": [
-                                      {
-                                        "code": "CSE 8B",
-                                        "type": "CHILD",
-                                        "children": []
-                                      },
-                                      {
-                                        "code": "CSE 11",
-                                        "type": "CHILD",
-                                        "children": []
-                                      }
-                                    ]
-                                  }
-                                ]
+                                "children": []
                               },
                               {
                                 "code": "MATH 31CH",
@@ -128417,24 +127822,7 @@
                                       {
                                         "code": "MATH 15A",
                                         "type": "CHILD",
-                                        "children": [
-                                          {
-                                            "code": "OR",
-                                            "type": "CHILD",
-                                            "children": [
-                                              {
-                                                "code": "CSE 8B",
-                                                "type": "CHILD",
-                                                "children": []
-                                              },
-                                              {
-                                                "code": "CSE 11",
-                                                "type": "CHILD",
-                                                "children": []
-                                              }
-                                            ]
-                                          }
-                                        ]
+                                        "children": []
                                       },
                                       {
                                         "code": "MATH 31CH",
@@ -133622,24 +133010,7 @@
                           {
                             "code": "MATH 15A",
                             "type": "CHILD",
-                            "children": [
-                              {
-                                "code": "OR",
-                                "type": "CHILD",
-                                "children": [
-                                  {
-                                    "code": "CSE 8B",
-                                    "type": "CHILD",
-                                    "children": []
-                                  },
-                                  {
-                                    "code": "CSE 11",
-                                    "type": "CHILD",
-                                    "children": []
-                                  }
-                                ]
-                              }
-                            ]
+                            "children": []
                           },
                           {
                             "code": "MATH 31CH",
@@ -137229,24 +136600,7 @@
               {
                 "code": "MATH 15A",
                 "type": "CHILD",
-                "children": [
-                  {
-                    "code": "OR",
-                    "type": "CHILD",
-                    "children": [
-                      {
-                        "code": "CSE 8B",
-                        "type": "CHILD",
-                        "children": []
-                      },
-                      {
-                        "code": "CSE 11",
-                        "type": "CHILD",
-                        "children": []
-                      }
-                    ]
-                  }
-                ]
+                "children": []
               },
               {
                 "code": "MATH 31CH",
@@ -137825,24 +137179,7 @@
                       {
                         "code": "MATH 15A",
                         "type": "CHILD",
-                        "children": [
-                          {
-                            "code": "OR",
-                            "type": "CHILD",
-                            "children": [
-                              {
-                                "code": "CSE 8B",
-                                "type": "CHILD",
-                                "children": []
-                              },
-                              {
-                                "code": "CSE 11",
-                                "type": "CHILD",
-                                "children": []
-                              }
-                            ]
-                          }
-                        ]
+                        "children": []
                       },
                       {
                         "code": "MATH 31CH",
@@ -142475,24 +141812,7 @@
                           {
                             "code": "MATH 15A",
                             "type": "CHILD",
-                            "children": [
-                              {
-                                "code": "OR",
-                                "type": "CHILD",
-                                "children": [
-                                  {
-                                    "code": "CSE 8B",
-                                    "type": "CHILD",
-                                    "children": []
-                                  },
-                                  {
-                                    "code": "CSE 11",
-                                    "type": "CHILD",
-                                    "children": []
-                                  }
-                                ]
-                              }
-                            ]
+                            "children": []
                           },
                           {
                             "code": "MATH 31CH",
@@ -146082,24 +145402,7 @@
               {
                 "code": "MATH 15A",
                 "type": "CHILD",
-                "children": [
-                  {
-                    "code": "OR",
-                    "type": "CHILD",
-                    "children": [
-                      {
-                        "code": "CSE 8B",
-                        "type": "CHILD",
-                        "children": []
-                      },
-                      {
-                        "code": "CSE 11",
-                        "type": "CHILD",
-                        "children": []
-                      }
-                    ]
-                  }
-                ]
+                "children": []
               },
               {
                 "code": "MATH 31CH",
@@ -146678,24 +145981,7 @@
                       {
                         "code": "MATH 15A",
                         "type": "CHILD",
-                        "children": [
-                          {
-                            "code": "OR",
-                            "type": "CHILD",
-                            "children": [
-                              {
-                                "code": "CSE 8B",
-                                "type": "CHILD",
-                                "children": []
-                              },
-                              {
-                                "code": "CSE 11",
-                                "type": "CHILD",
-                                "children": []
-                              }
-                            ]
-                          }
-                        ]
+                        "children": []
                       },
                       {
                         "code": "MATH 31CH",
@@ -151243,24 +150529,7 @@
                               {
                                 "code": "MATH 15A",
                                 "type": "CHILD",
-                                "children": [
-                                  {
-                                    "code": "OR",
-                                    "type": "CHILD",
-                                    "children": [
-                                      {
-                                        "code": "CSE 8B",
-                                        "type": "CHILD",
-                                        "children": []
-                                      },
-                                      {
-                                        "code": "CSE 11",
-                                        "type": "CHILD",
-                                        "children": []
-                                      }
-                                    ]
-                                  }
-                                ]
+                                "children": []
                               },
                               {
                                 "code": "MATH 31CH",
@@ -154850,24 +154119,7 @@
                   {
                     "code": "MATH 15A",
                     "type": "CHILD",
-                    "children": [
-                      {
-                        "code": "OR",
-                        "type": "CHILD",
-                        "children": [
-                          {
-                            "code": "CSE 8B",
-                            "type": "CHILD",
-                            "children": []
-                          },
-                          {
-                            "code": "CSE 11",
-                            "type": "CHILD",
-                            "children": []
-                          }
-                        ]
-                      }
-                    ]
+                    "children": []
                   },
                   {
                     "code": "MATH 31CH",
@@ -155446,24 +154698,7 @@
                           {
                             "code": "MATH 15A",
                             "type": "CHILD",
-                            "children": [
-                              {
-                                "code": "OR",
-                                "type": "CHILD",
-                                "children": [
-                                  {
-                                    "code": "CSE 8B",
-                                    "type": "CHILD",
-                                    "children": []
-                                  },
-                                  {
-                                    "code": "CSE 11",
-                                    "type": "CHILD",
-                                    "children": []
-                                  }
-                                ]
-                              }
-                            ]
+                            "children": []
                           },
                           {
                             "code": "MATH 31CH",
@@ -159993,24 +159228,7 @@
                           {
                             "code": "MATH 15A",
                             "type": "CHILD",
-                            "children": [
-                              {
-                                "code": "OR",
-                                "type": "CHILD",
-                                "children": [
-                                  {
-                                    "code": "CSE 8B",
-                                    "type": "CHILD",
-                                    "children": []
-                                  },
-                                  {
-                                    "code": "CSE 11",
-                                    "type": "CHILD",
-                                    "children": []
-                                  }
-                                ]
-                              }
-                            ]
+                            "children": []
                           },
                           {
                             "code": "MATH 31CH",
@@ -163600,24 +162818,7 @@
                               {
                                 "code": "MATH 15A",
                                 "type": "CHILD",
-                                "children": [
-                                  {
-                                    "code": "OR",
-                                    "type": "CHILD",
-                                    "children": [
-                                      {
-                                        "code": "CSE 8B",
-                                        "type": "CHILD",
-                                        "children": []
-                                      },
-                                      {
-                                        "code": "CSE 11",
-                                        "type": "CHILD",
-                                        "children": []
-                                      }
-                                    ]
-                                  }
-                                ]
+                                "children": []
                               },
                               {
                                 "code": "MATH 31CH",
@@ -167213,24 +166414,7 @@
                                   {
                                     "code": "MATH 15A",
                                     "type": "CHILD",
-                                    "children": [
-                                      {
-                                        "code": "OR",
-                                        "type": "CHILD",
-                                        "children": [
-                                          {
-                                            "code": "CSE 8B",
-                                            "type": "CHILD",
-                                            "children": []
-                                          },
-                                          {
-                                            "code": "CSE 11",
-                                            "type": "CHILD",
-                                            "children": []
-                                          }
-                                        ]
-                                      }
-                                    ]
+                                    "children": []
                                   },
                                   {
                                     "code": "MATH 31CH",
@@ -171928,24 +171112,7 @@
                           {
                             "code": "MATH 15A",
                             "type": "CHILD",
-                            "children": [
-                              {
-                                "code": "OR",
-                                "type": "CHILD",
-                                "children": [
-                                  {
-                                    "code": "CSE 8B",
-                                    "type": "CHILD",
-                                    "children": []
-                                  },
-                                  {
-                                    "code": "CSE 11",
-                                    "type": "CHILD",
-                                    "children": []
-                                  }
-                                ]
-                              }
-                            ]
+                            "children": []
                           },
                           {
                             "code": "MATH 31CH",
@@ -175531,24 +174698,7 @@
                           {
                             "code": "MATH 15A",
                             "type": "CHILD",
-                            "children": [
-                              {
-                                "code": "OR",
-                                "type": "CHILD",
-                                "children": [
-                                  {
-                                    "code": "CSE 8B",
-                                    "type": "CHILD",
-                                    "children": []
-                                  },
-                                  {
-                                    "code": "CSE 11",
-                                    "type": "CHILD",
-                                    "children": []
-                                  }
-                                ]
-                              }
-                            ]
+                            "children": []
                           },
                           {
                             "code": "MATH 31CH",
@@ -179138,24 +178288,7 @@
                               {
                                 "code": "MATH 15A",
                                 "type": "CHILD",
-                                "children": [
-                                  {
-                                    "code": "OR",
-                                    "type": "CHILD",
-                                    "children": [
-                                      {
-                                        "code": "CSE 8B",
-                                        "type": "CHILD",
-                                        "children": []
-                                      },
-                                      {
-                                        "code": "CSE 11",
-                                        "type": "CHILD",
-                                        "children": []
-                                      }
-                                    ]
-                                  }
-                                ]
+                                "children": []
                               },
                               {
                                 "code": "MATH 31CH",
@@ -183646,24 +182779,7 @@
                           {
                             "code": "MATH 15A",
                             "type": "CHILD",
-                            "children": [
-                              {
-                                "code": "OR",
-                                "type": "CHILD",
-                                "children": [
-                                  {
-                                    "code": "CSE 8B",
-                                    "type": "CHILD",
-                                    "children": []
-                                  },
-                                  {
-                                    "code": "CSE 11",
-                                    "type": "CHILD",
-                                    "children": []
-                                  }
-                                ]
-                              }
-                            ]
+                            "children": []
                           },
                           {
                             "code": "MATH 31CH",
@@ -187376,24 +186492,7 @@
                           {
                             "code": "MATH 15A",
                             "type": "CHILD",
-                            "children": [
-                              {
-                                "code": "OR",
-                                "type": "CHILD",
-                                "children": [
-                                  {
-                                    "code": "CSE 8B",
-                                    "type": "CHILD",
-                                    "children": []
-                                  },
-                                  {
-                                    "code": "CSE 11",
-                                    "type": "CHILD",
-                                    "children": []
-                                  }
-                                ]
-                              }
-                            ]
+                            "children": []
                           },
                           {
                             "code": "MATH 31CH",
@@ -191635,24 +190734,7 @@
                                   {
                                     "code": "MATH 15A",
                                     "type": "CHILD",
-                                    "children": [
-                                      {
-                                        "code": "OR",
-                                        "type": "CHILD",
-                                        "children": [
-                                          {
-                                            "code": "CSE 8B",
-                                            "type": "CHILD",
-                                            "children": []
-                                          },
-                                          {
-                                            "code": "CSE 11",
-                                            "type": "CHILD",
-                                            "children": []
-                                          }
-                                        ]
-                                      }
-                                    ]
+                                    "children": []
                                   },
                                   {
                                     "code": "MATH 31CH",
@@ -201811,24 +200893,7 @@
                                           {
                                             "code": "MATH 15A",
                                             "type": "CHILD",
-                                            "children": [
-                                              {
-                                                "code": "OR",
-                                                "type": "CHILD",
-                                                "children": [
-                                                  {
-                                                    "code": "CSE 8B",
-                                                    "type": "CHILD",
-                                                    "children": []
-                                                  },
-                                                  {
-                                                    "code": "CSE 11",
-                                                    "type": "CHILD",
-                                                    "children": []
-                                                  }
-                                                ]
-                                              }
-                                            ]
+                                            "children": []
                                           },
                                           {
                                             "code": "MATH 31CH",
@@ -212274,24 +211339,7 @@
                                           {
                                             "code": "MATH 15A",
                                             "type": "CHILD",
-                                            "children": [
-                                              {
-                                                "code": "OR",
-                                                "type": "CHILD",
-                                                "children": [
-                                                  {
-                                                    "code": "CSE 8B",
-                                                    "type": "CHILD",
-                                                    "children": []
-                                                  },
-                                                  {
-                                                    "code": "CSE 11",
-                                                    "type": "CHILD",
-                                                    "children": []
-                                                  }
-                                                ]
-                                              }
-                                            ]
+                                            "children": []
                                           },
                                           {
                                             "code": "MATH 31CH",
@@ -224745,24 +223793,7 @@
                                           {
                                             "code": "MATH 15A",
                                             "type": "CHILD",
-                                            "children": [
-                                              {
-                                                "code": "OR",
-                                                "type": "CHILD",
-                                                "children": [
-                                                  {
-                                                    "code": "CSE 8B",
-                                                    "type": "CHILD",
-                                                    "children": []
-                                                  },
-                                                  {
-                                                    "code": "CSE 11",
-                                                    "type": "CHILD",
-                                                    "children": []
-                                                  }
-                                                ]
-                                              }
-                                            ]
+                                            "children": []
                                           },
                                           {
                                             "code": "MATH 31CH",
@@ -234990,24 +234021,7 @@
                                           {
                                             "code": "MATH 15A",
                                             "type": "CHILD",
-                                            "children": [
-                                              {
-                                                "code": "OR",
-                                                "type": "CHILD",
-                                                "children": [
-                                                  {
-                                                    "code": "CSE 8B",
-                                                    "type": "CHILD",
-                                                    "children": []
-                                                  },
-                                                  {
-                                                    "code": "CSE 11",
-                                                    "type": "CHILD",
-                                                    "children": []
-                                                  }
-                                                ]
-                                              }
-                                            ]
+                                            "children": []
                                           },
                                           {
                                             "code": "MATH 31CH",
@@ -245112,24 +244126,7 @@
                           {
                             "code": "MATH 15A",
                             "type": "CHILD",
-                            "children": [
-                              {
-                                "code": "OR",
-                                "type": "CHILD",
-                                "children": [
-                                  {
-                                    "code": "CSE 8B",
-                                    "type": "CHILD",
-                                    "children": []
-                                  },
-                                  {
-                                    "code": "CSE 11",
-                                    "type": "CHILD",
-                                    "children": []
-                                  }
-                                ]
-                              }
-                            ]
+                            "children": []
                           },
                           {
                             "code": "MATH 31CH",
@@ -260581,24 +259578,7 @@
                                           {
                                             "code": "MATH 15A",
                                             "type": "CHILD",
-                                            "children": [
-                                              {
-                                                "code": "OR",
-                                                "type": "CHILD",
-                                                "children": [
-                                                  {
-                                                    "code": "CSE 8B",
-                                                    "type": "CHILD",
-                                                    "children": []
-                                                  },
-                                                  {
-                                                    "code": "CSE 11",
-                                                    "type": "CHILD",
-                                                    "children": []
-                                                  }
-                                                ]
-                                              }
-                                            ]
+                                            "children": []
                                           },
                                           {
                                             "code": "MATH 31CH",
@@ -271044,24 +270024,7 @@
                                           {
                                             "code": "MATH 15A",
                                             "type": "CHILD",
-                                            "children": [
-                                              {
-                                                "code": "OR",
-                                                "type": "CHILD",
-                                                "children": [
-                                                  {
-                                                    "code": "CSE 8B",
-                                                    "type": "CHILD",
-                                                    "children": []
-                                                  },
-                                                  {
-                                                    "code": "CSE 11",
-                                                    "type": "CHILD",
-                                                    "children": []
-                                                  }
-                                                ]
-                                              }
-                                            ]
+                                            "children": []
                                           },
                                           {
                                             "code": "MATH 31CH",
@@ -283515,24 +282478,7 @@
                                           {
                                             "code": "MATH 15A",
                                             "type": "CHILD",
-                                            "children": [
-                                              {
-                                                "code": "OR",
-                                                "type": "CHILD",
-                                                "children": [
-                                                  {
-                                                    "code": "CSE 8B",
-                                                    "type": "CHILD",
-                                                    "children": []
-                                                  },
-                                                  {
-                                                    "code": "CSE 11",
-                                                    "type": "CHILD",
-                                                    "children": []
-                                                  }
-                                                ]
-                                              }
-                                            ]
+                                            "children": []
                                           },
                                           {
                                             "code": "MATH 31CH",
@@ -293760,24 +292706,7 @@
                                           {
                                             "code": "MATH 15A",
                                             "type": "CHILD",
-                                            "children": [
-                                              {
-                                                "code": "OR",
-                                                "type": "CHILD",
-                                                "children": [
-                                                  {
-                                                    "code": "CSE 8B",
-                                                    "type": "CHILD",
-                                                    "children": []
-                                                  },
-                                                  {
-                                                    "code": "CSE 11",
-                                                    "type": "CHILD",
-                                                    "children": []
-                                                  }
-                                                ]
-                                              }
-                                            ]
+                                            "children": []
                                           },
                                           {
                                             "code": "MATH 31CH",
@@ -303882,24 +302811,7 @@
                           {
                             "code": "MATH 15A",
                             "type": "CHILD",
-                            "children": [
-                              {
-                                "code": "OR",
-                                "type": "CHILD",
-                                "children": [
-                                  {
-                                    "code": "CSE 8B",
-                                    "type": "CHILD",
-                                    "children": []
-                                  },
-                                  {
-                                    "code": "CSE 11",
-                                    "type": "CHILD",
-                                    "children": []
-                                  }
-                                ]
-                              }
-                            ]
+                            "children": []
                           },
                           {
                             "code": "MATH 31CH",
@@ -312558,24 +311470,7 @@
                           {
                             "code": "MATH 15A",
                             "type": "CHILD",
-                            "children": [
-                              {
-                                "code": "OR",
-                                "type": "CHILD",
-                                "children": [
-                                  {
-                                    "code": "CSE 8B",
-                                    "type": "CHILD",
-                                    "children": []
-                                  },
-                                  {
-                                    "code": "CSE 11",
-                                    "type": "CHILD",
-                                    "children": []
-                                  }
-                                ]
-                              }
-                            ]
+                            "children": []
                           },
                           {
                             "code": "MATH 31CH",
@@ -322730,24 +321625,7 @@
                                           {
                                             "code": "MATH 15A",
                                             "type": "CHILD",
-                                            "children": [
-                                              {
-                                                "code": "OR",
-                                                "type": "CHILD",
-                                                "children": [
-                                                  {
-                                                    "code": "CSE 8B",
-                                                    "type": "CHILD",
-                                                    "children": []
-                                                  },
-                                                  {
-                                                    "code": "CSE 11",
-                                                    "type": "CHILD",
-                                                    "children": []
-                                                  }
-                                                ]
-                                              }
-                                            ]
+                                            "children": []
                                           },
                                           {
                                             "code": "MATH 31CH",
@@ -333193,24 +332071,7 @@
                                           {
                                             "code": "MATH 15A",
                                             "type": "CHILD",
-                                            "children": [
-                                              {
-                                                "code": "OR",
-                                                "type": "CHILD",
-                                                "children": [
-                                                  {
-                                                    "code": "CSE 8B",
-                                                    "type": "CHILD",
-                                                    "children": []
-                                                  },
-                                                  {
-                                                    "code": "CSE 11",
-                                                    "type": "CHILD",
-                                                    "children": []
-                                                  }
-                                                ]
-                                              }
-                                            ]
+                                            "children": []
                                           },
                                           {
                                             "code": "MATH 31CH",
@@ -345664,24 +344525,7 @@
                                           {
                                             "code": "MATH 15A",
                                             "type": "CHILD",
-                                            "children": [
-                                              {
-                                                "code": "OR",
-                                                "type": "CHILD",
-                                                "children": [
-                                                  {
-                                                    "code": "CSE 8B",
-                                                    "type": "CHILD",
-                                                    "children": []
-                                                  },
-                                                  {
-                                                    "code": "CSE 11",
-                                                    "type": "CHILD",
-                                                    "children": []
-                                                  }
-                                                ]
-                                              }
-                                            ]
+                                            "children": []
                                           },
                                           {
                                             "code": "MATH 31CH",
@@ -355909,24 +354753,7 @@
                                           {
                                             "code": "MATH 15A",
                                             "type": "CHILD",
-                                            "children": [
-                                              {
-                                                "code": "OR",
-                                                "type": "CHILD",
-                                                "children": [
-                                                  {
-                                                    "code": "CSE 8B",
-                                                    "type": "CHILD",
-                                                    "children": []
-                                                  },
-                                                  {
-                                                    "code": "CSE 11",
-                                                    "type": "CHILD",
-                                                    "children": []
-                                                  }
-                                                ]
-                                              }
-                                            ]
+                                            "children": []
                                           },
                                           {
                                             "code": "MATH 31CH",
@@ -366031,24 +364858,7 @@
                           {
                             "code": "MATH 15A",
                             "type": "CHILD",
-                            "children": [
-                              {
-                                "code": "OR",
-                                "type": "CHILD",
-                                "children": [
-                                  {
-                                    "code": "CSE 8B",
-                                    "type": "CHILD",
-                                    "children": []
-                                  },
-                                  {
-                                    "code": "CSE 11",
-                                    "type": "CHILD",
-                                    "children": []
-                                  }
-                                ]
-                              }
-                            ]
+                            "children": []
                           },
                           {
                             "code": "MATH 31CH",
@@ -382135,24 +380945,7 @@
                                           {
                                             "code": "MATH 15A",
                                             "type": "CHILD",
-                                            "children": [
-                                              {
-                                                "code": "OR",
-                                                "type": "CHILD",
-                                                "children": [
-                                                  {
-                                                    "code": "CSE 8B",
-                                                    "type": "CHILD",
-                                                    "children": []
-                                                  },
-                                                  {
-                                                    "code": "CSE 11",
-                                                    "type": "CHILD",
-                                                    "children": []
-                                                  }
-                                                ]
-                                              }
-                                            ]
+                                            "children": []
                                           },
                                           {
                                             "code": "MATH 31CH",
@@ -392598,24 +391391,7 @@
                                           {
                                             "code": "MATH 15A",
                                             "type": "CHILD",
-                                            "children": [
-                                              {
-                                                "code": "OR",
-                                                "type": "CHILD",
-                                                "children": [
-                                                  {
-                                                    "code": "CSE 8B",
-                                                    "type": "CHILD",
-                                                    "children": []
-                                                  },
-                                                  {
-                                                    "code": "CSE 11",
-                                                    "type": "CHILD",
-                                                    "children": []
-                                                  }
-                                                ]
-                                              }
-                                            ]
+                                            "children": []
                                           },
                                           {
                                             "code": "MATH 31CH",
@@ -405069,24 +403845,7 @@
                                           {
                                             "code": "MATH 15A",
                                             "type": "CHILD",
-                                            "children": [
-                                              {
-                                                "code": "OR",
-                                                "type": "CHILD",
-                                                "children": [
-                                                  {
-                                                    "code": "CSE 8B",
-                                                    "type": "CHILD",
-                                                    "children": []
-                                                  },
-                                                  {
-                                                    "code": "CSE 11",
-                                                    "type": "CHILD",
-                                                    "children": []
-                                                  }
-                                                ]
-                                              }
-                                            ]
+                                            "children": []
                                           },
                                           {
                                             "code": "MATH 31CH",
@@ -415314,24 +414073,7 @@
                                           {
                                             "code": "MATH 15A",
                                             "type": "CHILD",
-                                            "children": [
-                                              {
-                                                "code": "OR",
-                                                "type": "CHILD",
-                                                "children": [
-                                                  {
-                                                    "code": "CSE 8B",
-                                                    "type": "CHILD",
-                                                    "children": []
-                                                  },
-                                                  {
-                                                    "code": "CSE 11",
-                                                    "type": "CHILD",
-                                                    "children": []
-                                                  }
-                                                ]
-                                              }
-                                            ]
+                                            "children": []
                                           },
                                           {
                                             "code": "MATH 31CH",
@@ -425436,24 +424178,7 @@
                           {
                             "code": "MATH 15A",
                             "type": "CHILD",
-                            "children": [
-                              {
-                                "code": "OR",
-                                "type": "CHILD",
-                                "children": [
-                                  {
-                                    "code": "CSE 8B",
-                                    "type": "CHILD",
-                                    "children": []
-                                  },
-                                  {
-                                    "code": "CSE 11",
-                                    "type": "CHILD",
-                                    "children": []
-                                  }
-                                ]
-                              }
-                            ]
+                            "children": []
                           },
                           {
                             "code": "MATH 31CH",
@@ -441586,24 +440311,7 @@
                                                   {
                                                     "code": "MATH 15A",
                                                     "type": "CHILD",
-                                                    "children": [
-                                                      {
-                                                        "code": "OR",
-                                                        "type": "CHILD",
-                                                        "children": [
-                                                          {
-                                                            "code": "CSE 8B",
-                                                            "type": "CHILD",
-                                                            "children": []
-                                                          },
-                                                          {
-                                                            "code": "CSE 11",
-                                                            "type": "CHILD",
-                                                            "children": []
-                                                          }
-                                                        ]
-                                                      }
-                                                    ]
+                                                    "children": []
                                                   },
                                                   {
                                                     "code": "MATH 31CH",
@@ -453768,24 +452476,7 @@
                                                   {
                                                     "code": "MATH 15A",
                                                     "type": "CHILD",
-                                                    "children": [
-                                                      {
-                                                        "code": "OR",
-                                                        "type": "CHILD",
-                                                        "children": [
-                                                          {
-                                                            "code": "CSE 8B",
-                                                            "type": "CHILD",
-                                                            "children": []
-                                                          },
-                                                          {
-                                                            "code": "CSE 11",
-                                                            "type": "CHILD",
-                                                            "children": []
-                                                          }
-                                                        ]
-                                                      }
-                                                    ]
+                                                    "children": []
                                                   },
                                                   {
                                                     "code": "MATH 31CH",
@@ -464013,24 +462704,7 @@
                                                   {
                                                     "code": "MATH 15A",
                                                     "type": "CHILD",
-                                                    "children": [
-                                                      {
-                                                        "code": "OR",
-                                                        "type": "CHILD",
-                                                        "children": [
-                                                          {
-                                                            "code": "CSE 8B",
-                                                            "type": "CHILD",
-                                                            "children": []
-                                                          },
-                                                          {
-                                                            "code": "CSE 11",
-                                                            "type": "CHILD",
-                                                            "children": []
-                                                          }
-                                                        ]
-                                                      }
-                                                    ]
+                                                    "children": []
                                                   },
                                                   {
                                                     "code": "MATH 31CH",
@@ -474135,24 +472809,7 @@
                                   {
                                     "code": "MATH 15A",
                                     "type": "CHILD",
-                                    "children": [
-                                      {
-                                        "code": "OR",
-                                        "type": "CHILD",
-                                        "children": [
-                                          {
-                                            "code": "CSE 8B",
-                                            "type": "CHILD",
-                                            "children": []
-                                          },
-                                          {
-                                            "code": "CSE 11",
-                                            "type": "CHILD",
-                                            "children": []
-                                          }
-                                        ]
-                                      }
-                                    ]
+                                    "children": []
                                   },
                                   {
                                     "code": "MATH 31CH",
@@ -489991,24 +488648,7 @@
                                   {
                                     "code": "MATH 15A",
                                     "type": "CHILD",
-                                    "children": [
-                                      {
-                                        "code": "OR",
-                                        "type": "CHILD",
-                                        "children": [
-                                          {
-                                            "code": "CSE 8B",
-                                            "type": "CHILD",
-                                            "children": []
-                                          },
-                                          {
-                                            "code": "CSE 11",
-                                            "type": "CHILD",
-                                            "children": []
-                                          }
-                                        ]
-                                      }
-                                    ]
+                                    "children": []
                                   },
                                   {
                                     "code": "MATH 31CH",
@@ -502432,24 +501072,7 @@
                                           {
                                             "code": "MATH 15A",
                                             "type": "CHILD",
-                                            "children": [
-                                              {
-                                                "code": "OR",
-                                                "type": "CHILD",
-                                                "children": [
-                                                  {
-                                                    "code": "CSE 8B",
-                                                    "type": "CHILD",
-                                                    "children": []
-                                                  },
-                                                  {
-                                                    "code": "CSE 11",
-                                                    "type": "CHILD",
-                                                    "children": []
-                                                  }
-                                                ]
-                                              }
-                                            ]
+                                            "children": []
                                           },
                                           {
                                             "code": "MATH 31CH",
@@ -512895,24 +511518,7 @@
                                           {
                                             "code": "MATH 15A",
                                             "type": "CHILD",
-                                            "children": [
-                                              {
-                                                "code": "OR",
-                                                "type": "CHILD",
-                                                "children": [
-                                                  {
-                                                    "code": "CSE 8B",
-                                                    "type": "CHILD",
-                                                    "children": []
-                                                  },
-                                                  {
-                                                    "code": "CSE 11",
-                                                    "type": "CHILD",
-                                                    "children": []
-                                                  }
-                                                ]
-                                              }
-                                            ]
+                                            "children": []
                                           },
                                           {
                                             "code": "MATH 31CH",
@@ -525366,24 +523972,7 @@
                                           {
                                             "code": "MATH 15A",
                                             "type": "CHILD",
-                                            "children": [
-                                              {
-                                                "code": "OR",
-                                                "type": "CHILD",
-                                                "children": [
-                                                  {
-                                                    "code": "CSE 8B",
-                                                    "type": "CHILD",
-                                                    "children": []
-                                                  },
-                                                  {
-                                                    "code": "CSE 11",
-                                                    "type": "CHILD",
-                                                    "children": []
-                                                  }
-                                                ]
-                                              }
-                                            ]
+                                            "children": []
                                           },
                                           {
                                             "code": "MATH 31CH",
@@ -535611,24 +534200,7 @@
                                           {
                                             "code": "MATH 15A",
                                             "type": "CHILD",
-                                            "children": [
-                                              {
-                                                "code": "OR",
-                                                "type": "CHILD",
-                                                "children": [
-                                                  {
-                                                    "code": "CSE 8B",
-                                                    "type": "CHILD",
-                                                    "children": []
-                                                  },
-                                                  {
-                                                    "code": "CSE 11",
-                                                    "type": "CHILD",
-                                                    "children": []
-                                                  }
-                                                ]
-                                              }
-                                            ]
+                                            "children": []
                                           },
                                           {
                                             "code": "MATH 31CH",
@@ -545733,24 +544305,7 @@
                           {
                             "code": "MATH 15A",
                             "type": "CHILD",
-                            "children": [
-                              {
-                                "code": "OR",
-                                "type": "CHILD",
-                                "children": [
-                                  {
-                                    "code": "CSE 8B",
-                                    "type": "CHILD",
-                                    "children": []
-                                  },
-                                  {
-                                    "code": "CSE 11",
-                                    "type": "CHILD",
-                                    "children": []
-                                  }
-                                ]
-                              }
-                            ]
+                            "children": []
                           },
                           {
                             "code": "MATH 31CH",
@@ -562180,24 +560735,7 @@
                                           {
                                             "code": "MATH 15A",
                                             "type": "CHILD",
-                                            "children": [
-                                              {
-                                                "code": "OR",
-                                                "type": "CHILD",
-                                                "children": [
-                                                  {
-                                                    "code": "CSE 8B",
-                                                    "type": "CHILD",
-                                                    "children": []
-                                                  },
-                                                  {
-                                                    "code": "CSE 11",
-                                                    "type": "CHILD",
-                                                    "children": []
-                                                  }
-                                                ]
-                                              }
-                                            ]
+                                            "children": []
                                           },
                                           {
                                             "code": "MATH 31CH",
@@ -572643,24 +571181,7 @@
                                           {
                                             "code": "MATH 15A",
                                             "type": "CHILD",
-                                            "children": [
-                                              {
-                                                "code": "OR",
-                                                "type": "CHILD",
-                                                "children": [
-                                                  {
-                                                    "code": "CSE 8B",
-                                                    "type": "CHILD",
-                                                    "children": []
-                                                  },
-                                                  {
-                                                    "code": "CSE 11",
-                                                    "type": "CHILD",
-                                                    "children": []
-                                                  }
-                                                ]
-                                              }
-                                            ]
+                                            "children": []
                                           },
                                           {
                                             "code": "MATH 31CH",
@@ -585114,24 +583635,7 @@
                                           {
                                             "code": "MATH 15A",
                                             "type": "CHILD",
-                                            "children": [
-                                              {
-                                                "code": "OR",
-                                                "type": "CHILD",
-                                                "children": [
-                                                  {
-                                                    "code": "CSE 8B",
-                                                    "type": "CHILD",
-                                                    "children": []
-                                                  },
-                                                  {
-                                                    "code": "CSE 11",
-                                                    "type": "CHILD",
-                                                    "children": []
-                                                  }
-                                                ]
-                                              }
-                                            ]
+                                            "children": []
                                           },
                                           {
                                             "code": "MATH 31CH",
@@ -595359,24 +593863,7 @@
                                           {
                                             "code": "MATH 15A",
                                             "type": "CHILD",
-                                            "children": [
-                                              {
-                                                "code": "OR",
-                                                "type": "CHILD",
-                                                "children": [
-                                                  {
-                                                    "code": "CSE 8B",
-                                                    "type": "CHILD",
-                                                    "children": []
-                                                  },
-                                                  {
-                                                    "code": "CSE 11",
-                                                    "type": "CHILD",
-                                                    "children": []
-                                                  }
-                                                ]
-                                              }
-                                            ]
+                                            "children": []
                                           },
                                           {
                                             "code": "MATH 31CH",
@@ -605481,24 +603968,7 @@
                           {
                             "code": "MATH 15A",
                             "type": "CHILD",
-                            "children": [
-                              {
-                                "code": "OR",
-                                "type": "CHILD",
-                                "children": [
-                                  {
-                                    "code": "CSE 8B",
-                                    "type": "CHILD",
-                                    "children": []
-                                  },
-                                  {
-                                    "code": "CSE 11",
-                                    "type": "CHILD",
-                                    "children": []
-                                  }
-                                ]
-                              }
-                            ]
+                            "children": []
                           },
                           {
                             "code": "MATH 31CH",
@@ -622446,24 +620916,7 @@
                                           {
                                             "code": "MATH 15A",
                                             "type": "CHILD",
-                                            "children": [
-                                              {
-                                                "code": "OR",
-                                                "type": "CHILD",
-                                                "children": [
-                                                  {
-                                                    "code": "CSE 8B",
-                                                    "type": "CHILD",
-                                                    "children": []
-                                                  },
-                                                  {
-                                                    "code": "CSE 11",
-                                                    "type": "CHILD",
-                                                    "children": []
-                                                  }
-                                                ]
-                                              }
-                                            ]
+                                            "children": []
                                           },
                                           {
                                             "code": "MATH 31CH",
@@ -632909,24 +631362,7 @@
                                           {
                                             "code": "MATH 15A",
                                             "type": "CHILD",
-                                            "children": [
-                                              {
-                                                "code": "OR",
-                                                "type": "CHILD",
-                                                "children": [
-                                                  {
-                                                    "code": "CSE 8B",
-                                                    "type": "CHILD",
-                                                    "children": []
-                                                  },
-                                                  {
-                                                    "code": "CSE 11",
-                                                    "type": "CHILD",
-                                                    "children": []
-                                                  }
-                                                ]
-                                              }
-                                            ]
+                                            "children": []
                                           },
                                           {
                                             "code": "MATH 31CH",
@@ -645380,24 +643816,7 @@
                                           {
                                             "code": "MATH 15A",
                                             "type": "CHILD",
-                                            "children": [
-                                              {
-                                                "code": "OR",
-                                                "type": "CHILD",
-                                                "children": [
-                                                  {
-                                                    "code": "CSE 8B",
-                                                    "type": "CHILD",
-                                                    "children": []
-                                                  },
-                                                  {
-                                                    "code": "CSE 11",
-                                                    "type": "CHILD",
-                                                    "children": []
-                                                  }
-                                                ]
-                                              }
-                                            ]
+                                            "children": []
                                           },
                                           {
                                             "code": "MATH 31CH",
@@ -655625,24 +654044,7 @@
                                           {
                                             "code": "MATH 15A",
                                             "type": "CHILD",
-                                            "children": [
-                                              {
-                                                "code": "OR",
-                                                "type": "CHILD",
-                                                "children": [
-                                                  {
-                                                    "code": "CSE 8B",
-                                                    "type": "CHILD",
-                                                    "children": []
-                                                  },
-                                                  {
-                                                    "code": "CSE 11",
-                                                    "type": "CHILD",
-                                                    "children": []
-                                                  }
-                                                ]
-                                              }
-                                            ]
+                                            "children": []
                                           },
                                           {
                                             "code": "MATH 31CH",
@@ -665747,24 +664149,7 @@
                           {
                             "code": "MATH 15A",
                             "type": "CHILD",
-                            "children": [
-                              {
-                                "code": "OR",
-                                "type": "CHILD",
-                                "children": [
-                                  {
-                                    "code": "CSE 8B",
-                                    "type": "CHILD",
-                                    "children": []
-                                  },
-                                  {
-                                    "code": "CSE 11",
-                                    "type": "CHILD",
-                                    "children": []
-                                  }
-                                ]
-                              }
-                            ]
+                            "children": []
                           },
                           {
                             "code": "MATH 31CH",
@@ -674490,24 +672875,7 @@
                           {
                             "code": "MATH 15A",
                             "type": "CHILD",
-                            "children": [
-                              {
-                                "code": "OR",
-                                "type": "CHILD",
-                                "children": [
-                                  {
-                                    "code": "CSE 8B",
-                                    "type": "CHILD",
-                                    "children": []
-                                  },
-                                  {
-                                    "code": "CSE 11",
-                                    "type": "CHILD",
-                                    "children": []
-                                  }
-                                ]
-                              }
-                            ]
+                            "children": []
                           },
                           {
                             "code": "MATH 31CH",
@@ -678101,24 +676469,7 @@
                                   {
                                     "code": "MATH 15A",
                                     "type": "CHILD",
-                                    "children": [
-                                      {
-                                        "code": "OR",
-                                        "type": "CHILD",
-                                        "children": [
-                                          {
-                                            "code": "CSE 8B",
-                                            "type": "CHILD",
-                                            "children": []
-                                          },
-                                          {
-                                            "code": "CSE 11",
-                                            "type": "CHILD",
-                                            "children": []
-                                          }
-                                        ]
-                                      }
-                                    ]
+                                    "children": []
                                   },
                                   {
                                     "code": "MATH 31CH",
@@ -682227,24 +680578,7 @@
                                   {
                                     "code": "MATH 15A",
                                     "type": "CHILD",
-                                    "children": [
-                                      {
-                                        "code": "OR",
-                                        "type": "CHILD",
-                                        "children": [
-                                          {
-                                            "code": "CSE 8B",
-                                            "type": "CHILD",
-                                            "children": []
-                                          },
-                                          {
-                                            "code": "CSE 11",
-                                            "type": "CHILD",
-                                            "children": []
-                                          }
-                                        ]
-                                      }
-                                    ]
+                                    "children": []
                                   },
                                   {
                                     "code": "MATH 31CH",
@@ -687039,24 +685373,7 @@
                           {
                             "code": "MATH 15A",
                             "type": "CHILD",
-                            "children": [
-                              {
-                                "code": "OR",
-                                "type": "CHILD",
-                                "children": [
-                                  {
-                                    "code": "CSE 8B",
-                                    "type": "CHILD",
-                                    "children": []
-                                  },
-                                  {
-                                    "code": "CSE 11",
-                                    "type": "CHILD",
-                                    "children": []
-                                  }
-                                ]
-                              }
-                            ]
+                            "children": []
                           },
                           {
                             "code": "MATH 31CH",
@@ -691193,24 +689510,7 @@
                           {
                             "code": "MATH 15A",
                             "type": "CHILD",
-                            "children": [
-                              {
-                                "code": "OR",
-                                "type": "CHILD",
-                                "children": [
-                                  {
-                                    "code": "CSE 8B",
-                                    "type": "CHILD",
-                                    "children": []
-                                  },
-                                  {
-                                    "code": "CSE 11",
-                                    "type": "CHILD",
-                                    "children": []
-                                  }
-                                ]
-                              }
-                            ]
+                            "children": []
                           },
                           {
                             "code": "MATH 31CH",
@@ -694804,24 +693104,7 @@
                                   {
                                     "code": "MATH 15A",
                                     "type": "CHILD",
-                                    "children": [
-                                      {
-                                        "code": "OR",
-                                        "type": "CHILD",
-                                        "children": [
-                                          {
-                                            "code": "CSE 8B",
-                                            "type": "CHILD",
-                                            "children": []
-                                          },
-                                          {
-                                            "code": "CSE 11",
-                                            "type": "CHILD",
-                                            "children": []
-                                          }
-                                        ]
-                                      }
-                                    ]
+                                    "children": []
                                   },
                                   {
                                     "code": "MATH 31CH",
@@ -698930,24 +697213,7 @@
                                   {
                                     "code": "MATH 15A",
                                     "type": "CHILD",
-                                    "children": [
-                                      {
-                                        "code": "OR",
-                                        "type": "CHILD",
-                                        "children": [
-                                          {
-                                            "code": "CSE 8B",
-                                            "type": "CHILD",
-                                            "children": []
-                                          },
-                                          {
-                                            "code": "CSE 11",
-                                            "type": "CHILD",
-                                            "children": []
-                                          }
-                                        ]
-                                      }
-                                    ]
+                                    "children": []
                                   },
                                   {
                                     "code": "MATH 31CH",
@@ -703309,24 +701575,7 @@
                                   {
                                     "code": "MATH 15A",
                                     "type": "CHILD",
-                                    "children": [
-                                      {
-                                        "code": "OR",
-                                        "type": "CHILD",
-                                        "children": [
-                                          {
-                                            "code": "CSE 8B",
-                                            "type": "CHILD",
-                                            "children": []
-                                          },
-                                          {
-                                            "code": "CSE 11",
-                                            "type": "CHILD",
-                                            "children": []
-                                          }
-                                        ]
-                                      }
-                                    ]
+                                    "children": []
                                   },
                                   {
                                     "code": "MATH 31CH",
@@ -708471,24 +706720,7 @@
                           {
                             "code": "MATH 15A",
                             "type": "CHILD",
-                            "children": [
-                              {
-                                "code": "OR",
-                                "type": "CHILD",
-                                "children": [
-                                  {
-                                    "code": "CSE 8B",
-                                    "type": "CHILD",
-                                    "children": []
-                                  },
-                                  {
-                                    "code": "CSE 11",
-                                    "type": "CHILD",
-                                    "children": []
-                                  }
-                                ]
-                              }
-                            ]
+                            "children": []
                           },
                           {
                             "code": "MATH 31CH",
@@ -712064,24 +710296,7 @@
                       {
                         "code": "MATH 15A",
                         "type": "CHILD",
-                        "children": [
-                          {
-                            "code": "OR",
-                            "type": "CHILD",
-                            "children": [
-                              {
-                                "code": "CSE 8B",
-                                "type": "CHILD",
-                                "children": []
-                              },
-                              {
-                                "code": "CSE 11",
-                                "type": "CHILD",
-                                "children": []
-                              }
-                            ]
-                          }
-                        ]
+                        "children": []
                       },
                       {
                         "code": "MATH 31CH",
@@ -721242,24 +719457,7 @@
                           {
                             "code": "MATH 15A",
                             "type": "CHILD",
-                            "children": [
-                              {
-                                "code": "OR",
-                                "type": "CHILD",
-                                "children": [
-                                  {
-                                    "code": "CSE 8B",
-                                    "type": "CHILD",
-                                    "children": []
-                                  },
-                                  {
-                                    "code": "CSE 11",
-                                    "type": "CHILD",
-                                    "children": []
-                                  }
-                                ]
-                              }
-                            ]
+                            "children": []
                           },
                           {
                             "code": "MATH 31CH",
@@ -724863,24 +723061,7 @@
                                   {
                                     "code": "MATH 15A",
                                     "type": "CHILD",
-                                    "children": [
-                                      {
-                                        "code": "OR",
-                                        "type": "CHILD",
-                                        "children": [
-                                          {
-                                            "code": "CSE 8B",
-                                            "type": "CHILD",
-                                            "children": []
-                                          },
-                                          {
-                                            "code": "CSE 11",
-                                            "type": "CHILD",
-                                            "children": []
-                                          }
-                                        ]
-                                      }
-                                    ]
+                                    "children": []
                                   },
                                   {
                                     "code": "MATH 31CH",
@@ -728456,24 +726637,7 @@
                               {
                                 "code": "MATH 15A",
                                 "type": "CHILD",
-                                "children": [
-                                  {
-                                    "code": "OR",
-                                    "type": "CHILD",
-                                    "children": [
-                                      {
-                                        "code": "CSE 8B",
-                                        "type": "CHILD",
-                                        "children": []
-                                      },
-                                      {
-                                        "code": "CSE 11",
-                                        "type": "CHILD",
-                                        "children": []
-                                      }
-                                    ]
-                                  }
-                                ]
+                                "children": []
                               },
                               {
                                 "code": "MATH 31CH",
@@ -737634,24 +735798,7 @@
                                   {
                                     "code": "MATH 15A",
                                     "type": "CHILD",
-                                    "children": [
-                                      {
-                                        "code": "OR",
-                                        "type": "CHILD",
-                                        "children": [
-                                          {
-                                            "code": "CSE 8B",
-                                            "type": "CHILD",
-                                            "children": []
-                                          },
-                                          {
-                                            "code": "CSE 11",
-                                            "type": "CHILD",
-                                            "children": []
-                                          }
-                                        ]
-                                      }
-                                    ]
+                                    "children": []
                                   },
                                   {
                                     "code": "MATH 31CH",
@@ -741237,24 +739384,7 @@
                                   {
                                     "code": "MATH 15A",
                                     "type": "CHILD",
-                                    "children": [
-                                      {
-                                        "code": "OR",
-                                        "type": "CHILD",
-                                        "children": [
-                                          {
-                                            "code": "CSE 8B",
-                                            "type": "CHILD",
-                                            "children": []
-                                          },
-                                          {
-                                            "code": "CSE 11",
-                                            "type": "CHILD",
-                                            "children": []
-                                          }
-                                        ]
-                                      }
-                                    ]
+                                    "children": []
                                   },
                                   {
                                     "code": "MATH 31CH",
@@ -744840,24 +742970,7 @@
                                   {
                                     "code": "MATH 15A",
                                     "type": "CHILD",
-                                    "children": [
-                                      {
-                                        "code": "OR",
-                                        "type": "CHILD",
-                                        "children": [
-                                          {
-                                            "code": "CSE 8B",
-                                            "type": "CHILD",
-                                            "children": []
-                                          },
-                                          {
-                                            "code": "CSE 11",
-                                            "type": "CHILD",
-                                            "children": []
-                                          }
-                                        ]
-                                      }
-                                    ]
+                                    "children": []
                                   },
                                   {
                                     "code": "MATH 31CH",
@@ -755554,24 +753667,7 @@
           {
             "code": "MATH 15A",
             "type": "CHILD",
-            "children": [
-              {
-                "code": "OR",
-                "type": "CHILD",
-                "children": [
-                  {
-                    "code": "CSE 8B",
-                    "type": "CHILD",
-                    "children": []
-                  },
-                  {
-                    "code": "CSE 11",
-                    "type": "CHILD",
-                    "children": []
-                  }
-                ]
-              }
-            ]
+            "children": []
           },
           {
             "code": "MATH 31CH",
@@ -755896,24 +753992,7 @@
                               {
                                 "code": "MATH 15A",
                                 "type": "CHILD",
-                                "children": [
-                                  {
-                                    "code": "OR",
-                                    "type": "CHILD",
-                                    "children": [
-                                      {
-                                        "code": "CSE 8B",
-                                        "type": "CHILD",
-                                        "children": []
-                                      },
-                                      {
-                                        "code": "CSE 11",
-                                        "type": "CHILD",
-                                        "children": []
-                                      }
-                                    ]
-                                  }
-                                ]
+                                "children": []
                               },
                               {
                                 "code": "MATH 31CH",
@@ -759489,24 +757568,7 @@
                           {
                             "code": "MATH 15A",
                             "type": "CHILD",
-                            "children": [
-                              {
-                                "code": "OR",
-                                "type": "CHILD",
-                                "children": [
-                                  {
-                                    "code": "CSE 8B",
-                                    "type": "CHILD",
-                                    "children": []
-                                  },
-                                  {
-                                    "code": "CSE 11",
-                                    "type": "CHILD",
-                                    "children": []
-                                  }
-                                ]
-                              }
-                            ]
+                            "children": []
                           },
                           {
                             "code": "MATH 31CH",
@@ -763212,24 +761274,7 @@
                                   {
                                     "code": "MATH 15A",
                                     "type": "CHILD",
-                                    "children": [
-                                      {
-                                        "code": "OR",
-                                        "type": "CHILD",
-                                        "children": [
-                                          {
-                                            "code": "CSE 8B",
-                                            "type": "CHILD",
-                                            "children": []
-                                          },
-                                          {
-                                            "code": "CSE 11",
-                                            "type": "CHILD",
-                                            "children": []
-                                          }
-                                        ]
-                                      }
-                                    ]
+                                    "children": []
                                   },
                                   {
                                     "code": "MATH 31CH",
@@ -766805,24 +764850,7 @@
                               {
                                 "code": "MATH 15A",
                                 "type": "CHILD",
-                                "children": [
-                                  {
-                                    "code": "OR",
-                                    "type": "CHILD",
-                                    "children": [
-                                      {
-                                        "code": "CSE 8B",
-                                        "type": "CHILD",
-                                        "children": []
-                                      },
-                                      {
-                                        "code": "CSE 11",
-                                        "type": "CHILD",
-                                        "children": []
-                                      }
-                                    ]
-                                  }
-                                ]
+                                "children": []
                               },
                               {
                                 "code": "MATH 31CH",
@@ -770793,13 +768821,7 @@
   {
     "code": "CSE 282/BENG 202",
     "type": "ROOT",
-    "children": [
-      {
-        "code": "PHARM 201",
-        "type": "CHILD",
-        "children": []
-      }
-    ]
+    "children": []
   },
   {
     "code": "CSE 283",
@@ -770831,24 +768853,7 @@
   {
     "code": "CSE 283/BENG 203",
     "type": "ROOT",
-    "children": [
-      {
-        "code": "OR",
-        "type": "CHILD",
-        "children": [
-          {
-            "code": "PHARM 201",
-            "type": "CHILD",
-            "children": []
-          },
-          {
-            "code": "PHARM 282",
-            "type": "CHILD",
-            "children": []
-          }
-        ]
-      }
-    ]
+    "children": []
   },
   {
     "code": "CSE 284",
@@ -772086,6 +770091,11 @@
   },
   {
     "code": "CSE 99",
+    "type": "ROOT",
+    "children": []
+  },
+  {
+    "code": "CSE 99H",
     "type": "ROOT",
     "children": []
   }

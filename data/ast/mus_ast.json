@@ -349,6 +349,11 @@
     ]
   },
   {
+    "code": "MUS 103F",
+    "type": "ROOT",
+    "children": []
+  },
+  {
     "code": "MUS 105",
     "type": "ROOT",
     "children": [
@@ -2618,6 +2623,106 @@
     "code": "MUS 214",
     "type": "ROOT",
     "children": []
+  },
+  {
+    "code": "MUS 215A",
+    "type": "ROOT",
+    "children": []
+  },
+  {
+    "code": "MUS 215B",
+    "type": "ROOT",
+    "children": [
+      {
+        "code": "MUS 215A",
+        "type": "CHILD",
+        "children": []
+      }
+    ]
+  },
+  {
+    "code": "MUS 215C",
+    "type": "ROOT",
+    "children": [
+      {
+        "code": "OR",
+        "type": "CHILD",
+        "children": [
+          {
+            "code": "MUS 215A",
+            "type": "CHILD",
+            "children": []
+          },
+          {
+            "code": "MUS 215B",
+            "type": "CHILD",
+            "children": [
+              {
+                "code": "MUS 215A",
+                "type": "CHILD",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "code": "MUS 215D",
+    "type": "ROOT",
+    "children": [
+      {
+        "code": "OR",
+        "type": "CHILD",
+        "children": [
+          {
+            "code": "MUS 215A",
+            "type": "CHILD",
+            "children": []
+          },
+          {
+            "code": "MUS 215B",
+            "type": "CHILD",
+            "children": [
+              {
+                "code": "MUS 215A",
+                "type": "CHILD",
+                "children": []
+              }
+            ]
+          },
+          {
+            "code": "MUS 215C",
+            "type": "CHILD",
+            "children": [
+              {
+                "code": "OR",
+                "type": "CHILD",
+                "children": [
+                  {
+                    "code": "MUS 215A",
+                    "type": "CHILD",
+                    "children": []
+                  },
+                  {
+                    "code": "MUS 215B",
+                    "type": "CHILD",
+                    "children": [
+                      {
+                        "code": "MUS 215A",
+                        "type": "CHILD",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
   },
   {
     "code": "MUS 228",

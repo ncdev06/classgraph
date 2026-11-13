@@ -6,6 +6,7 @@ AIP,AIP 197,Academic Internship Program,upper-division standing; department appr
 AIP,AIP 197DC,"UCDC: Washington, DC Internship",upper-division standing; department approval
 AIP,AIP 197P,Public Service Internship,N/A
 AIP,AIP 197T,Academic Internship Program—Special Programs,ninety units minimum completed; 2
+AIP,AIP 197EX,Internship Seminar,upper-division standing; department approval
 ANTH,ANTH 1,Introduction to Culture,N/A
 ANTH,ANTH 2,Human Origins,N/A
 ANTH,ANTH 3,Global Archaeology,N/A
@@ -315,6 +316,7 @@ ASTR,ASTR 15,Astronomy in Science Fiction,N/A
 ASTR,ASTR 18,Additional Topics in Classical Physics,PHYS 2A or PHYS 2AR and PHYS 2B and PHYS 2C and PHYS 2D
 ASTR,ASTR 20A,Introduction to Astrophysics I,MATH 20A-B-C or 31BH and PHYS 2A/2AR-B or 4A and 4C
 ASTR,ASTR 20B,Introduction to Astrophysics II,ASTR 20A
+ASTR,ASTR 40,Introductory Special Topics in Astronomy and Astrophysics,N/A
 ASTR,ASTR 60,Antiracism in Physics and Astronomy,N/A
 ASTR,ASTR 65,The Astronomy of Climate Change,N/A
 ASTR,ASTR 87,First-Year Seminar,N/A
@@ -360,8 +362,10 @@ ASTR,ASTR 225,Astrophysical Plasmas,N/A
 ASTR,ASTR 226,Observational Astrophysics Research Lab,N/A
 ASTR,ASTR 227,Parallel Computing Techniques,N/A
 ASTR,ASTR 230,Special Topics,N/A
+ASTR,ASTR 231,Special Topics,N/A
 ASTR,ASTR 250,Astronomy and Astrophysics Colloquium,N/A
 ASTR,ASTR 251,Astronomy and Astrophysics Journal Club,N/A
+ASTR,ASTR 254,Data Science in Astronomy,N/A
 ASTR,ASTR 291,Professional Development in Astronomy and Astrophysics,N/A
 ASTR,ASTR 298,Directed Studies in Astronomy and Astrophysics,N/A
 ASTR,ASTR 299,Thesis Research in Astronomy and Astrophysics,N/A
@@ -634,6 +638,7 @@ CHEM,CHEM 109,Recombinant DNA Laboratory,"CHEM 43A, 143A, 43AM, or 143AM and CHE
 CHEM,CHEM 111,Origins of Life and the Universe,CHEM 6C or 6CH
 CHEM,CHEM 113,Biophysical Chemistry of Macromolecules,CHEM 41C
 CHEM,CHEM 114A,Biochemical Structure and Function,CHEM 40A or 41A
+CHEM,CHEM 114AR,Biochemical Structure and Function,CHEM 40A or 41A
 CHEM,CHEM 114B,Biochemical Energetics and Metabolism,"CHEM 40B, 40BH, or 41B and CHEM 114A"
 CHEM,CHEM 114C,Biosynthesis of Macromolecules,CHEM 114A or BIBC 100
 CHEM,CHEM 114D,Molecular and Cellular Biochemistry,"CHEM 114A, 114B, and 114C"
@@ -820,6 +825,7 @@ CLAS,CLAS 119,Early Christianity,N/A
 CLAS,CLAS 120,Classical Diversities,N/A
 CLAS,CLAS 121R,World Wisdom Traditions,N/A
 CLAS,CLAS 125,Mythologies of the Ancient Mediterranean,N/A
+CLAS,CLAS 140,Topics in Classical Studies,N/A
 CLAS,CLAS 196A-B,Directed Honors Thesis in Classical Studies,acceptance into the classical studies honors program and consent of instructor
 CLAS,CLAS 198,Directed Group Study,N/A
 CLAS,CLAS 199,Independent Study,N/A
@@ -878,6 +884,7 @@ CLRE,CLRE 299,Curricular Practical Training in Clinical Research,admission to th
 COGS,COGS 1,Introduction to Cognitive Science,N/A
 COGS,COGS 2,Cognitive Neuroeconomics,N/A
 COGS,COGS 3,Introduction to Computing,N/A
+COGS,COGS 3R,Introduction to Computing,N/A
 COGS,COGS 8,Hands-on Computing,freshman and sophomore standing
 COGS,COGS 9,Introduction to Data Science,N/A
 COGS,COGS 10,Cognitive Consequences of Technology,N/A
@@ -891,6 +898,7 @@ COGS,COGS 17,Neurobiology of Cognition,N/A
 COGS,COGS 18,Introduction to Python,N/A
 COGS,COGS 20,Exploring the Musical Mind,N/A
 COGS,COGS 87,First-year Seminar,N/A
+COGS,COGS 88,"Learning Sustainable Well-Being: Compassion for Self and Others, a Cognitive Scientist’s Perspective",N/A
 COGS,COGS 90,Undergraduate Seminar,N/A
 COGS,COGS 91,SCANS Presents,N/A
 COGS,COGS 92,Resiliency in the Face of Adversity,N/A
@@ -912,11 +920,12 @@ COGS,COGS 111,Beauty and the Brain,upper-division standing
 COGS,COGS 112,Humor,upper-division standing
 COGS,COGS 115,Neurological Development and Cognitive Change,BILD 10 or BILD 12 or COGS 107A or COGS 107B or COGS 17 or HDP 110
 COGS,COGS 116,Developmental Cognitive Neuroscience,COGS 107A and COGS 107B or PSYC 106
+COGS,COGS 117,"Growing Minds: Babies, Brains, and Machines",COGS 1
 COGS,COGS 118A,Supervised Machine Learning Algorithms,COGS 18 or CSE 8B or CSE 11 and MATH 18 or MATH 31AH and MATH 20E and MATH 180A and COGS 108 or COGS 109 or COGS 118B or CSE 150 or CSE 151 or CSE 158 or ECE 174 or ECE 175A
 COGS,COGS 118B,Introduction to Machine Learning,BILD 62 or COGS 18 or CSE 11 or CSE 8B or CSE 11 and MATH 18 or MATH 31AH and MATH 20E and ECE 109 or ECON 120A or MAE 108 or MATH 180A or MATH 183 or MATH 186 and COGS 108 or COGS 109 or COGS 118A or COGS 188 or CSE 150A or CSE 151A or CSE 158 or CSE 158R or DSC 148 or ECE 174 or ECE 175A
 COGS,COGS 118C,Neural Signal Processing,"MATH 18 or MATH 31AH, COGS 14B or PSYC 60, and COGS 108 or COGS 109"
-COGS,COGS 118D,Mathematical Statistics for Behavioral Data Analysis,"MATH 18 or MATH 31AH and MATH 180A and COGS 108 or COGS 109, or consent of instructor"
-COGS,COGS 119,Programming for Experimental Research,COGS 14B and MATH 18 or MATH 31AH and MAE 8
+COGS,COGS 118D,Computational Modeling and Analysis of Human Behavior,MATH 18 or MATH 31AH and MATH 180A or MATH 183 or MATH 186 or ECE 109 or ECON 120A or MAE 108 and COGS 108 or COGS 109 or COGS 118A or COGS 118B or COGS 188 or CSE 150A or CSE 151A or CSE 158 or CSE 158R or DSC 148 or ECE 174 or ECE 175A
+COGS,COGS 119,Programming for Experimental Research,COGS 14B or MATH 11 or PSYC 60
 COGS,COGS 120,Interaction Design,COGS 108 or CSE 12 or DSC 30 and COGS 1 or COGS 10 or DSGN 1 or ENG 100D
 COGS,COGS 121,Human Computer Interaction Portfolio Design Studio,COGS 120 or CSE 170 and COGS 18 or CSE 8B or CSE 11 or DSC 30
 COGS,COGS 122,Start-up Studio,DSGN 100 or COGS 187B or COGS 187A or COGS 120 or CSE 170
@@ -954,7 +963,7 @@ COGS,COGS 176,From Sleep to Attention,COGS 107A
 COGS,COGS 177,Space and Time in the Brain,upper-division standing
 COGS,COGS 178,"Genes, Brains, and Behavior",COGS 107A-B or consent of instructor
 COGS,COGS 179,Electrophysiology of Cognition,COGS 107A or COGS 17 or BILD 12
-COGS,COGS 180,Decision Making in the Brain,BILD 12 or COGS 17 and COGS 108 or COGS 109 or CSE 150A and MATH 18 or MATH 20B or MATH 31AH
+COGS,COGS 180,Decision-Making,BILD 12 or COGS 17 and BILD 62 or COGS 18 or CSE 6R or CSE 8A and COGS 14A
 COGS,COGS 181,Neural Networks and Deep Learning,COGS 18 or CSE 11 or CSE 8B and MATH 18 or MATH 31AH and MATH 20E and MATH 180A and COGS 118A or COGS 118B or CSE 150 or CSE 151A or CSE 158 or ECE 174 or ECE 175A
 COGS,COGS 182,Introduction to Reinforcement Learning,COGS 18 or CSE 11 or CSE 8B and MATH 18 or MATH 31AH and MATH 180A and COGS 108 or COGS 109 or COGS 118B or CSE 150A or CSE 150B or CSE 151A or CSE 151B or CSE 158 or ECE 174 or ECE 175A
 COGS,COGS 183,Generative AI,COGS 118A or COGS 118B or COGS 109
@@ -970,7 +979,7 @@ COGS,COGS 190B,Honors Studies in Cognitive Science,COGS 190A and formal admittan
 COGS,COGS 190C,Honors Thesis in Cognitive Science,COGS 190B with grade of A– or better and formal admittance to the Cognitive Science Honors Program
 COGS,COGS 190D,Preparation for Thesis Presentation,COGS 190A-B and COGS 198
 COGS,COGS 193,Cognitive Science Career Seminar,junior and senior standing
-COGS,COGS 195,Instructional Apprenticeship in Cognitive Science,upper-division standing; 3
+COGS,COGS 195P,Pedagogy and Learning Apprenticeship,upper-division standing; 3
 COGS,COGS 197,Cognitive Science Internship,upper-division standing; 2
 COGS,COGS 198,Directed Group Study,upper-division standing; 2
 COGS,COGS 199,Special Project,upper-division standing; 2
@@ -1007,17 +1016,23 @@ COGS,COGS 298,Directed Independent Study,N/A
 COGS,COGS 299,Thesis Research,N/A
 COGS,COGS 500,Teaching Apprenticeship,N/A
 COMM,COMM 10,Introduction to Communication,N/A
-COMM,COMM 20,"Media Analysis: Audiovisual Form, Style, and Meaning",N/A
+COMM,COMM 10R,Introduction to Communication,N/A
+COMM,COMM 20,"Analysis of Audio/Visual Media: Form, Style, and Meaning",N/A
 COMM,COMM 30,"Digital Media Literacy: Analyzing Forms, Practices, and Infrastructures of Mediated Public Life",N/A
+COMM,COMM 30R,"Digital Media Literacy: Analyzing Forms, Practices, and Infrastructures of Mediated Public Life",N/A
 COMM,COMM 30GS,"Global Digital Media Literacy: Analyzing Forms, Practices, and Infrastructures of Mediated Public Life",N/A
 COMM,COMM 40,Introduction to Promotional Communication,N/A
 COMM,COMM 50,Presenting and Public Speaking,N/A
+COMM,COMM 65,Introduction to Environmental Justice,N/A
 COMM,COMM 75,Topics in Communication,N/A
 COMM,COMM 80,Public Presentation and Persuasion—Speech and Debate,N/A
 COMM,COMM 87,First-year Student Seminar,N/A
-COMM,COMM 100A,"Communication, the Person, and Everyday Life",COMM 10
-COMM,COMM 100B,"Communication, Culture, and Representation",COMM 10
-COMM,COMM 100C,"Communication, Institutions, and Power",COMM 10
+COMM,COMM 100A,"Communication, the Person, and Everyday Life",junior or senior standing
+COMM,COMM 100AR,"Communication, the Person, and Everyday Life",junior or senior standing
+COMM,COMM 100B,"Communication, Culture, and Representation",junior or senior standing
+COMM,COMM 100BR,"Communication, Culture, and Representation",junior or senior standing
+COMM,COMM 100C,"Communication, Institutions, and Power",junior or senior standing
+COMM,COMM 100CR,"Communication, Institutions, and Power",junior or senior standing
 COMM,COMM 101,Introduction to Audiovisual Media Practices,COMM 10
 COMM,COMM 101A,Production of Activist Media,COMM 10 or COMM 20 or COMM 30 or COMM 30GS or COMM 40 and COMM 101
 COMM,COMM 101D,MPL: Nonlinear/Digital Editing,COMM 101 or VIS 70N
@@ -1042,21 +1057,31 @@ COMM,COMM 104GS,CMS: Europe,N/A
 COMM,COMM 105G,CT: Video Game Studies,COMM 10
 COMM,COMM 105M,CT: Mobile Communication,COMM 10
 COMM,COMM 105P,CT: Photographic Technologies,COMM 10
-COMM,COMM 106,Introduction to Media Industries,"COMM 10, COMM 20, COMM 30, COMM 30GS, or COMM 40"
-COMM,COMM 106B,Streaming Media Industries,"COMM 10, COMM 20, COMM 30, COMM 30GS, or COMM 40"
+COMM,COMM 106,Introduction to Media Industries,junior or senior standing
+COMM,COMM 106R,Introduction to Media Industries,junior or senior standing
+COMM,COMM 106B,Streaming Media Industries,junior or senior standing
+COMM,COMM 106BR,Streaming Media Industries,junior or senior standing
 COMM,COMM 106D,Data and AI Industries,"COMM 10, COMM 20, COMM 30, COMM 30GS, or COMM 40"
-COMM,COMM 106F,CI: Film Industry,COMM 10
-COMM,COMM 106G,CI: Tourism: Global Industry and Cultural Form,COMM 10
-COMM,COMM 106I,CI: Internet Industry,COMM 10
-COMM,COMM 106M,Advertising and Society,"COMM 10, COMM 20, COMM 30, COMM 30GS, or COMM 40"
-COMM,COMM 106N,Journalism and the News Industry,"COMM 10, COMM 20, COMM 30, COMM 30GS, or COMM 40"
-COMM,COMM 106V,CI: TV Industry,COMM 10
+COMM,COMM 106F,The Film Industry,junior or senior standing
+COMM,COMM 106FR,The Film Industry,junior or senior standing
+COMM,COMM 106G,Tourism: Global Industry and Cultural Form,junior or senior standing
+COMM,COMM 106GR,Tourism: Global Industry and Cultural Form,junior or senior standing
+COMM,COMM 106I,Internet Industry,junior or senior standing
+COMM,COMM 106IR,Internet Industry,junior or senior standing
+COMM,COMM 106M,Advertising and Society,junior or senior standing
+COMM,COMM 106MR,Advertising and Society,junior or senior standing
+COMM,COMM 106N,Journalism and the News Industry,junior or senior standing
+COMM,COMM 106NR,Journalism and the News Industry,junior or senior standing
+COMM,COMM 106R,Introduction to Media Industries,junior or senior standing
+COMM,COMM 106V,TV Industry,junior or senior standing
+COMM,COMM 106VR,TV Industry,junior or senior standing
 COMM,COMM 107,Visual Culture,COMM 10
 COMM,COMM 108A,POB: Introduction,COMM 10
 COMM,COMM 108D,POB: Disability,COMM 10
 COMM,COMM 108G,Politics of Bodies: Gender and Biomedicine,COMM 10
 COMM,COMM 109I,MC: History of Information,COMM 10
-COMM,COMM 109P,MC: Propaganda and Persuasion,COMM 10
+COMM,COMM 109P,Propaganda and Persuasion,COMM 10
+COMM,COMM 109PR,Propaganda and Persuasion,COMM 10
 COMM,COMM 110G,LLC: Communication in Organizations,COMM 10
 COMM,COMM 110M,LLC: Communication and Community,COMM 10
 COMM,COMM 110P,LLC: Language and Human Communication,COMM 10
@@ -1089,6 +1114,7 @@ COMM,COMM 114W,CSI: Global Health Communication,COMM 10 or GLBH 20
 COMM,COMM 115,Communication and the Senses,COMM 10
 COMM,COMM 115D,Data Science for Communication Students,"COMM 10, COMM 20, COMM 30, COMM 30GS, or COMM 40"
 COMM,COMM 115J,"Journalistic Writing, Reporting, and Research","COMM 10, COMM 20, COMM 30, COMM 30GS, or COMM 40"
+COMM,COMM 117GS,Community and Ethnography: Critical and Practical Approaches to Fieldwork,junior or senior standing
 COMM,COMM 118A,Action Cinema,"COMM 10, COMM 20, COMM 30, COMM 30GS, or COMM 40"
 COMM,COMM 118C,Comic Books as a Cultural Form,"COMM 10, COMM 20, COMM 30, COMM 30GS, or COMM 40"
 COMM,COMM 118T,Television as a Cultural Form,"COMM 10, COMM 20, COMM 30, COMM 30GS, or COMM 40"
@@ -1100,7 +1126,7 @@ COMM,COMM 120P,AMP: Digital Media in Education,"COMM 10 and two from COMM 100A, 
 COMM,COMM 120W,AMP: Writing for Digital Media,"COMM 10 and two from COMM 100A, 100B, 100C"
 COMM,COMM 124A,Critical Design Practice/Advanced Studio,COMM 10 or COGS 1 or DSGN 1 or ESYS 10 or POLI 10 or POLI 10D or USP 1
 COMM,COMM 124B,Critical Design Practice/Topic Studio,COMM 124A
-COMM,COMM 125,Skills in Communication,N/A
+COMM,COMM 125,Skills in Communication,junior or senior standing
 COMM,COMM 126,Children and Media,"COMM 10 and one from COMM 100A, 100B, 100C"
 COMM,COMM 127,Problem of Voice,"COMM 10 and one from COMM 100A, 100B, 100C"
 COMM,COMM 129,"Race, Nation, and Violence in Multicultural California","COMM 10 and one from COMM 100A, 100B, 100C"
@@ -1114,9 +1140,11 @@ COMM,COMM 136,Transmedia,"COMM 10 and one from COMM 100A, 100B, 100C"
 COMM,COMM 137,Black Women Filmmakers,"COMM 10 and one from COMM 100A, 100B, 100C"
 COMM,COMM 138,"Black Women, Feminism, and Media","COMM 10 and one from COMM 100A, 100B, 100C"
 COMM,COMM 139,Examining Marvel’s Black Panther,"COMM 10 and one from COMM 100A, 100B, 100C"
-COMM,COMM 140,Cinema in Latin America,"COMM 10 and one from COMM 100A, 100B, 100C"
+COMM,COMM 140,Cinema in Latin America,junior or senior standing
+COMM,COMM 140GS,Cinema in Latin America,junior or senior standing
 COMM,COMM 142,Film Authorship,"COMM 10 and one from COMM 100A, 100B, 100C"
-COMM,COMM 143,Science Fiction,"COMM 10 and one from COMM 100A, 100B, 100C"
+COMM,COMM 143,Science Fiction,junior or senior standing
+COMM,COMM 143R,Science Fiction,junior or senior standing
 COMM,COMM 144,American Television in the 1970s,"COMM 10 and one from COMM 100A, 100B, 100C"
 COMM,COMM 145,"History, Memory, and Popular Culture","COMM 10 and two from COMM 100A, 100B, 100C"
 COMM,COMM 146,Advanced Topics in Cultural Production,"COMM 10 and one from COMM 100A, 100B, 100C"
@@ -1126,7 +1154,7 @@ COMM,COMM 149,Southern California in Cinema,"COMM 100A, COMM 100B, or COMM 100C"
 COMM,COMM 151,The Information Age: Fact and Fiction,"COMM 10 and one from COMM 100A, 100B, 100C"
 COMM,COMM 152,News Media and Politics,"COMM 10, COMM 20, COMM 30, COMM 30GS, or COMM 40"
 COMM,COMM 153,Architecture as Communication,"COMM 10 and one from COMM 100A, 100B, 100C"
-COMM,COMM 155,"Latinx Space, Place, and Culture",N/A
+COMM,COMM 155,"Latinx Space, Place, and Culture",junior or senior standing
 COMM,COMM 156,Media and Conflict Environment: Textual and Visual Representations,"COMM 10 and one from COMM 100A, 100B, 100C"
 COMM,COMM 158,Representations of the Israeli/Palestinian Conflict,"COMM 10 and one from COMM 100A, 100B, 100C"
 COMM,COMM 159,Tourism and Imperialism,"COMM 10 and one from COMM 100A, 100B, 100C"
@@ -1139,6 +1167,8 @@ COMM,COMM 168,Bilingual Communication,"COMM 10 and one from COMM 100A, 100B, 100
 COMM,COMM 170,Biography and Life Stories,"COMM 10 and one from COMM 100A, 100B, 100C"
 COMM,COMM 171,Environmental Communication,N/A
 COMM,COMM 172,Advanced Topics in Mediation and Interaction,"COMM 10 and one from COMM 100A, 100B, 100C"
+COMM,COMM 172T,Advanced Topics in Communication,"one from COMM 100A, 100B, 100C"
+COMM,COMM 172TR,Advanced Topics in Communication,"one from COMM 100A, 100B, 100C"
 COMM,COMM 173,Interaction with Technology,"COMM 10 and one from COMM 100A, 100B, 100C"
 COMM,COMM 174,Communication and Social Machines,"COMM 10 and one from COMM 100A, 100B, 100C"
 COMM,COMM 175,Cultures of Consumption,"COMM 10 and one from COMM 100A, 100B, 100C"
@@ -1151,9 +1181,9 @@ COMM,COMM 182,Education and Global Citizenship,"COMM 10, COMM 100A, 100B, and 10
 COMM,COMM 183,Global Economy and Consumer Culture,"COMM 10 and one from COMM 100A, 100B, 100C"
 COMM,COMM 184,Global Nature/Global Culture,"COMM 10 and one from COMM 100A, 100B, 100C"
 COMM,COMM 185,Communication for Indigenous Justice,"COMM 10 and one from COMM 100A, 100B, 100C"
-COMM,COMM 190,Junior Seminar in Communication,junior or senior standing and COMM 10 and at least one from COMM 100A-B-C
+COMM,COMM 190,Junior Seminar in Communication,"COMM 10 and one from COMM 100A, 100B, 100C"
+COMM,COMM 190R,Junior Seminar in Communication,"COMM 10 and one from COMM 100A, 100B, 100C"
 COMM,COMM 194,"Research Seminar in Washington, D",participation in UCDC program
-COMM,COMM 195,Communication Instructional Assistant,limited to junior or senior students with a 3
 COMM,COMM 196A,Honors Seminar in Communication I: Methods,admission to the departmental honors program
 COMM,COMM 196B,Honors Seminar in Communication II: Research,minimum grade of B+ in COMM 196A
 COMM,COMM 198,Directed Group Study in Communication,consent of instructor
@@ -1414,8 +1444,8 @@ CSE,CSE 276D,Healthcare Robotics,graduate standing
 CSE,CSE 276E,Robot Systems Design and Implementation,instructor approval required to ensure sufficient programming and project experience to be successful in the course
 CSE,CSE 276F,Machine Learning for Robotics,instructor approval required
 CSE,CSE 280A,Algorithms in Computational Biology,CSE 202 preferred or consent of instructor
-CSE,CSE 282/BENG 202,Bioinformatics II: Sequence and Structure Analysis—Methods and Applications,Pharm 201 or consent of instructor
-CSE,CSE 283/BENG 203,Bioinformatics III: Functional Genomics,"Pharm 201, BENG 202/CSE 282, or consent of instructor"
+CSE,CSE 282/BENG 202,Bioinformatics II: Bioinformatics Algorithms,N/A
+CSE,CSE 283/BENG 203,Bioinformatics III: Data Wrangling in Bioinformatics,N/A
 CSE,CSE 284,Personal Genomics for Bioinformaticians,graduate standing
 CSE,CSE 290,Seminar in Computer Science and Engineering,consent of instructor
 CSE,CSE 291,Topics in Computer Science and Engineering,consent of instructor
@@ -1457,7 +1487,7 @@ DSC,DSC 30/R,Data Structures and Algorithms for Data Science,DSC 20/R
 DSC,DSC 40A/R,Theoretical Foundations of Data Science I,"DSC 10/R, (MATH 20C or MATH 31BH) and (MATH 18 or MATH 20F or MATH 31AH)"
 DSC,DSC 40B/R,Theoretical Foundations of Data Science II,N/A
 DSC,DSC 80/R,The Practice and Application of Data Science,DSC 30/R and DSC 40A/R
-DSC,DSC 90,Seminar in Data Science,DSC 10
+DSC,DSC 90,Seminar in Data Science,DSC 10/R
 DSC,DSC 95,Tutor Apprenticeship in Data Science,DSC 10
 DSC,DSC 96,Workshop in Data Science,none
 DSC,DSC 97,Internship in Data Science,"(MATH 20C or MATH 31BH), and (MATH 18 or MATH 31AH), and DSC 20 and DSC 40A"
@@ -1478,7 +1508,7 @@ DSC,DSC 160,Data Science and the Arts,DSC 80
 DSC,DSC 161,Text as Data,ECON 5 or POLI 170A or POLI 171 or POLI 30 or POLI 30D or POLI 5 or POLI 5D
 DSC,DSC 167,Fairness and Algorithmic Decision-Making,DSC 80
 DSC,DSC 170,Spatial Data Science and Applications,DSC 80
-DSC,DSC 180A,Data Science Project I,DSC 102 and MATH 189 and DSC 140B or CSE 151A or COGS 188 or CSE 158 or CSE 158R or DSC 148 or DSC 140A or CSE 151A and DSC 106
+DSC,DSC 180A,Data Science Project I,"DSC 102 and (MATH 189 or DSC 152), and (DSC 140B or CSE 151A or COGS 188 or CSE 158 or CSE 158R or DSC 148 or DSC 140A or CSE 151A and DSC 106)"
 DSC,DSC 180B,Data Science Project II,DSC 180A
 DSC,DSC 190,Topics in Data Science,department and instructor approval required to monitor enrollment and to ensure that students have the sufficient educational background for a given topic
 DSC,DSC 191,Seminar in Data Science,restricted to students with upper-division standing
@@ -1503,6 +1533,7 @@ DSC,DSC 215,Statistical Thinking and Experimental Design,none
 DSC,DSC 215R,Foundations of Probability and Statistics in Data Science,none
 DSC,DSC 231,"Embedded Sensing, IOT Data Models, and Methods",none
 DSC,DSC 232R,Big Data Analytics Using Spark,DSC 255R
+DSC,DSC 234,Data–Centric AI and AI Engineering,none
 DSC,DSC 240,Machine Learning,DSC 210 and DSC 212
 DSC,DSC 241,Statistical Models,DSC 210 and DSC 212
 DSC,DSC 242,High-Dimensional Probability and Statistics,none
@@ -1650,8 +1681,9 @@ ECE,ECE 208,Computational Evolutionary Biology,graduate standing
 ECE,ECE 209,Statistical Learning for Biosignal Processing,ECE 271A-B; graduate standing
 ECE,ECE 212AN,Principles of Nanoscience and Nanotechnology,graduate standing
 ECE,ECE 212BN,Nanoelectronics,ECE 212AN with a grade of B– or above; graduate standing
-ECE,ECE 212CN,Nanophotonics,ECE 212BN; graduate standing
+ECE,ECE 212CN,Nanophotonics,ECE 212BN with a grade of B– or above; graduate standing
 ECE,ECE 213,Parallel Computing in Bioinformatics,graduate standing
+ECE,ECE 214,Deep Generative Models,graduate standing
 ECE,ECE 217,Principles of Molecular Imaging,BENG 280A or ECE 207A and BENG 280B with a grade of B– or above; graduate standing
 ECE,ECE 221,Magnetic Materials: Principles and Applications,graduate standing
 ECE,ECE 222A,Antennas and Their System Applications,graduate standing
@@ -1671,8 +1703,8 @@ ECE,ECE 235,Nanometer-Scale VLSI Devices,graduate standing
 ECE,ECE 236A,Fundamentals of Heterostructure Materials and Devices,ECE 230A with a grade of B– or above; graduate standing
 ECE,ECE 236B,Optical Processes in Semiconductors,graduate standing
 ECE,ECE 236C,Heterojunction Field-Effect Transistors,ECE 236B with a grade of B– or above; graduate standing
-ECE,ECE 238A,Thermodynamics of Solids,consent of instructor
-ECE,ECE 238B,Solid State Diffusion and Reaction Kinetics,ECE 238A with a grade of B– or above
+ECE,ECE 238A,Thermodynamics of Solids,graduate standing
+ECE,ECE 238B,Solid State Diffusion and Reaction Kinetics,graduate standing
 ECE,ECE 240A,Lasers and Optics,graduate standing
 ECE,ECE 240B,Optical Information Processing,ECE 240A with a grade of B– or above; graduate standing
 ECE,ECE 240C,Optical Modulation and Detection,ECE 240B with a grade of B– or above; graduate standing
@@ -1691,13 +1723,13 @@ ECE,ECE 251C,Filter Banks and Wavelets,graduate standing
 ECE,ECE 251D,Array Processing,graduate standing; ECE 251A or SIOC 207B with a grade of B– or above
 ECE,ECE 252A,Speech Compression,graduate standing
 ECE,ECE 252B,Speech Recognition,ECE 252A with a grade of B– or above; graduate standing
-ECE,ECE 253,Fundamentals of Digital Image Processing,N/A
+ECE,ECE 253,Fundamentals of Digital Image Processing,graduate standing
 ECE,ECE 254,Detection Theory,graduate standing
 ECE,ECE 255A,Information Theory,graduate standing
 ECE,ECE 255B,Source Coding,ECE 255A with a grade of B– or above; graduate standing
 ECE,ECE 255C,Network Information Theory,ECE 250; ECE 255B with a grade of B– or above; graduate standing
 ECE,ECE 256,Fundamentals of Image and Video Compression,graduate standing
-ECE,ECE 257A,Modern Communication Networks,graduate standing or consent of instructor
+ECE,ECE 257A,Modern Communication Networks,graduate standing
 ECE,ECE 257B,Principles of Wireless Networks,graduate standing
 ECE,ECE 257C,Stochastic Wireless Networks Models,ECE 257B with a grade of B– or above; graduate standing
 ECE,ECE 258A,Digital Communications I,ECE 250 with a grade of B– or above; graduate standing
@@ -1751,9 +1783,9 @@ ECE,ECE 294,Graduate Seminar in Electronic Devices and Materials/Applied Physics
 ECE,ECE 295,Graduate Seminar in Signal and Image Processing/Robotics and Control Systems,graduate standing
 ECE,ECE 296,Graduate Seminar in Photonics/Applied Optics,graduate standing
 ECE,ECE 297,Graduate Seminar in Nanoscience/Nanotechnology,graduate standing
-ECE,ECE 298,Independent Study,consent of instructor
+ECE,ECE 298,Independent Study,graduate standing or consent of instructor
 ECE,ECE 299,Research,N/A
-ECE,ECE 501,Teaching,consent of department chair
+ECE,ECE 501,Teaching,graduate standing or consent of department chair
 ECON,ECON 1,Principles of Microeconomics,N/A
 ECON,ECON 2,Market Imperfections and Policy,ECON 1
 ECON,ECON 3,Principles of Macroeconomics,ECON 1
@@ -1993,6 +2025,7 @@ EDS,EDS 324AR,Teaching Impacts of Technology,upper-division or graduate-level st
 EDS,EDS 324BR,Computational Thinking and Block-Based Programming,upper-division or graduate-level standing
 EDS,EDS 324CR,Learn to Teach Java,upper-division or graduate-level standing
 EDS,EDS 324DR,Teaching Methods in Computer Science,upper-division or graduate-level standing
+EDS,EDS 324ER,CS for All: Teaching Computer Science Foundations in Elementary Grades,upper-division or graduate-level standing
 EDS,EDS 342A,ASL-English Bilingual Education Practices,must be an ED76 major
 EDS,EDS 342B,ASL-English Bilingual Education Practices,"EDS 342A, EDS 361A"
 EDS,EDS 342C,ASL-English Bilingual Education Practices,"EDS 342A, EDS 342B, EDS 361A"
@@ -2189,13 +2222,13 @@ ETHN,ETHN 100M,Critical Health and Medical Writing,ETHN 100A and ETHN 100B
 ETHN,ETHN 101,Ethnic Images in Film,N/A
 ETHN,ETHN 101TV,Ethnic Images on TV,N/A
 ETHN,ETHN 102,Science and Technology in Society: Race/Gender/Class,N/A
+ETHN,ETHN 102R,Remote Science and Technology in Society: Race/Gender/Class,N/A
 ETHN,ETHN 102A,Computational Ethnic Studies Methods,N/A
 ETHN,ETHN 103,Environmental Racism,N/A
 ETHN,ETHN 103A/HIUS 103,The United States and the Pacific World,N/A
 ETHN,ETHN 104,"Race, Space, and Segregation",N/A
 ETHN,ETHN 105,Ethnic Diversity and the City,N/A
 ETHN,ETHN 106,"Life, Death, and the Human",N/A
-ETHN,ETHN 107,Fieldwork in Racial and Ethnic Communities,N/A
 ETHN,ETHN 108,"Race, Culture, and Social Change",N/A
 ETHN,ETHN 109,Race and Social Movements,N/A
 ETHN,ETHN 109A,"Race, Empire, and Japanese America",N/A
@@ -2223,7 +2256,6 @@ ETHN,ETHN 122AR,Remote—Asian American Culture and Health,N/A
 ETHN,ETHN 122B,Asian Americans in Education,N/A
 ETHN,ETHN 123,Asian American Politics,N/A
 ETHN,ETHN 123A,Asian American Activism,N/A
-ETHN,ETHN 124,Asian American Literature,N/A
 ETHN,ETHN 125,Asian American History,N/A
 ETHN,ETHN 125R,Remote—Asian American History,N/A
 ETHN,ETHN 126,Comparative Filipino and Vietnamese American Identities and Communities,N/A
@@ -2249,18 +2281,19 @@ ETHN,ETHN 143,Chicana/o Film and Media Studies,N/A
 ETHN,ETHN 144M,Antiracist Medicine and New Perspectives in Health Care,N/A
 ETHN,ETHN 146A,Ensemble,N/A
 ETHN,ETHN 147,"Black Feminisms, Past and Present (4)",N/A
-ETHN,ETHN 149,African American History in the Twentieth Century,N/A
 ETHN,ETHN 150,"Visuality, Sexuality, and Race",N/A
 ETHN,ETHN 151,Ethnic Politics in America,N/A
 ETHN,ETHN 152,Law and Civil Rights,N/A
-ETHN,ETHN 153,Citizenship and Civil Rights in the Twentieth Century (4),N/A
-ETHN,ETHN 154,History of Mexican America,N/A
 ETHN,ETHN 155,US Militarism (4),upper-division standing or instructor approval
 ETHN,ETHN 155GS,Critical Perspectives on the Vietnam War,students must apply and be accepted into the Global Seminars program
 ETHN,ETHN 156A,"Power, Culture, and Buddhism in the US",N/A
 ETHN,ETHN 156AR,"Remote—Power, Culture, and Buddhism in the US",N/A
 ETHN,ETHN 156B,Buddhism and Social Movements,N/A
 ETHN,ETHN 156BR,Remote—Buddhism and Social Movements,N/A
+ETHN,ETHN 156C,Critical Buddhist Approaches to Mental Health,N/A
+ETHN,ETHN 156CR,Remote Critical Buddhist Approaches to Mental Health,N/A
+ETHN,ETHN 156D,Buddhism and Deep Ecology,N/A
+ETHN,ETHN 156DR,Remote Buddhism and Deep Ecology,N/A
 ETHN,ETHN 157,Madness and Urbanization (4),N/A
 ETHN,ETHN 158,Native American Intellectuals in the Twentieth Century,N/A
 ETHN,ETHN 159,Topics in African American History,N/A
@@ -2272,8 +2305,6 @@ ETHN,ETHN 163E,Decolonial Theory,N/A
 ETHN,ETHN 163F,Playing Indian: Native American and First Nations Cinema,N/A
 ETHN,ETHN 163FR,Playing Indian: Native American and First Nations Cinema,N/A
 ETHN,ETHN 163G,Indigenous Theatre and Performance,N/A
-ETHN,ETHN 163I,Asian American Histography,N/A
-ETHN,ETHN 163J,Asian American Social Movements,N/A
 ETHN,ETHN 164,African Americans and the Mass Media,N/A
 ETHN,ETHN 165,Gender and Sexuality in African American Communities,N/A
 ETHN,ETHN 166,Arab/Muslim American Identity and Culture,N/A
@@ -2291,8 +2322,11 @@ ETHN,ETHN 177,"Race, Sound, and Music",N/A
 ETHN,ETHN 178,Blues: An Oral Tradition,N/A
 ETHN,ETHN 178R,Blues: An Oral Tradition,N/A
 ETHN,ETHN 179,Discover Jazz,N/A
+ETHN,ETHN 180,Topics in Mexican-American History,N/A
 ETHN,ETHN 182,"Race, Gender, and Sexuality in Fantasy and Science Fiction (4)",N/A
 ETHN,ETHN 183,"Gender, Race, Ethnicity, and Class",N/A
+ETHN,ETHN 184,Black Intellectuals in the Twentieth Century,N/A
+ETHN,ETHN 185,"Discourse, Power, and Inequality",N/A
 ETHN,ETHN 185A,The University and Inequality,N/A
 ETHN,ETHN 186,Queer of Color Performance,N/A
 ETHN,ETHN 187,Latinx Sexualities (4),N/A
@@ -2302,7 +2336,6 @@ ETHN,ETHN 184,Black Intellectuals in the Twentieth Century,N/A
 ETHN,ETHN 185,"Discourse, Power, and Inequality",N/A
 ETHN,ETHN 185A,The University and Inequality,N/A
 ETHN,ETHN 189,Special Topics in Ethnic Studies,N/A
-ETHN,ETHN 190,Research Methods: Studying Racial and Ethnic Communities,N/A
 ETHN,ETHN 196H,Honors Thesis (4),ETHN 100A and ETHN 100B and ETHN 100H
 ETHN,ETHN 197,Fieldwork in Racial and Ethnic Communities,N/A
 ETHN,ETHN 198,Directed Group Studies,N/A
@@ -2438,7 +2471,7 @@ GLBH,GLBH 100,Special Topics in Global Health,N/A
 GLBH,GLBH 101,Aging: Culture and Health in Late Life Human Development,N/A
 GLBH,GLBH 102,Global Health Epidemiology,COGS 14B or MATH 11 or PSYC 60 and GLBH 20 or FMPH 40 and GLBH 181
 GLBH,GLBH 103,Global Health Disparities and the Quest for Global Health Equity,N/A
-GLBH,GLBH 104,"Humanities, Ethics, and Professionalism: Engaging Moral Imaginaries for Exploring Health and the Human Condition",N/A
+GLBH,GLBH 104,"Morality, Health, and Power: A Humanities, Ethics, and Professionalism Course",N/A
 GLBH,GLBH 105,Global Health and Inequality,N/A
 GLBH,GLBH 106,"Water, Sanitation, and Hygiene in Global Health",N/A
 GLBH,GLBH 107,Health of Refugees and Displaced Populations in Local and Global Contexts,N/A
@@ -2460,6 +2493,7 @@ GLBH,GLBH 120,From Global Health to Planetary Health,N/A
 GLBH,GLBH 121,Learning to Care for Underserved Populations,N/A
 GLBH,GLBH 129,Meaning and Healing,N/A
 GLBH,GLBH 130,Global Health and Climate Change,N/A
+GLBH,GLBH 131,Climate Resilience,N/A
 GLBH,GLBH 139,Native American Health and Healing,N/A
 GLBH,GLBH 141,Clinical Perspectives in Global Health,N/A
 GLBH,GLBH 142,“When the field is a ward”: Ethnographies of the Clinic,N/A
@@ -2515,24 +2549,25 @@ HDS,HDS 99,Independent Study in Human Developmental Sciences,completion of thirt
 HDS,HDS 110,Brain and Behavioral Development,HDP 1 or HDS 1 or PSYC 101
 HDS,HDS 111,Evolutionary Principles in Human Development,HDP 1 or HDS 1 or ANTH 2 or BILD 3
 HDS,HDS 120,Language Development,HDP 1 or HDS 1 or LIGN 4
-HDS,HDS 121,The Developing Mind,HDP 1 or HDS 1 or COGS 1
 HDS,HDS 122,Development of Social Cognition,HDP 1 or HDS 1
+HDS,HDS 124,Cognitive Development across the Lifespan,HDP 1 or HDS 1 or COGS 1 or PSYC 1
 HDS,HDS 133,Cross-Cultural Perspectives on Developmental Science,HDP 1 or HDS 1 or PSYC 1
 HDS,HDS 150,Senior Seminar,"senior standing, HDP 181 or HDS 181"
 HDS,HDS 160,Special Topics Seminar in Human Developmental Sciences,"upper-division standing, department approval required"
 HDS,HDS 171,Diversity in Human Development: A Cultural Competency Approach,upper-division standing
 HDS,HDS 173,"Race, Media, and Identity Development Across the Lifespan",upper-division standing
 HDS,HDS 175,"Power, Wealth, and Inequality in Human Development",upper-division standing
-HDS,HDS 181,Experimental Projects in Human Development Research,HDS 1 and BIEB 100 or COGS 14B or ECON 120A or MATH 11 or POLI 30 or POLI 30D or PSYC 60
+HDS,HDS 177,Educational Equity and Development across the Lifespan,upper-division standing
+HDS,HDS 181,Experimental Projects in Human Development Research,HDS 1 and HDS 60 or BIEB 100 or COGS 14B or ECON 120A or MATH 11 or POLI 30 or POLI 30D or PSYC 60
 HDS,HDS 191,Field Research in Human Development,N/A
 HDS,HDS 193,Advanced Research in Human Developmental Sciences,upper-division standing; department approval required
 HDS,HDS 194A-B-C,Honors Thesis in Human Developmental Sciences,overall GPA of 3
-HDS,HDS 195,Instructional Apprentice in Human Developmental Sciences,overall GPA of 3
+HDS,HDS 195P,Pedagogy and Learning Apprenticeship,overall GPA of 3
 HDS,HDS 199,Independent Study in Human Developmental Sciences,department approval and consent of the instructor required; completion of at least ninety undergraduate units with a minimum of 2
 HMNR,HMNR 100: SOCI 174 or HITO 119,Introduction to Human Rights and Global Justice,N/A
 HMNR,HMNR 101: COMM 114A,Human Rights II: Contemporary Issues,N/A
-HUM,HUM 1,The Foundations of Western Civilization: Israel and Greece,satisfaction of the UC Entry Level Writing requirement; open to Revelle students only
-HUM,HUM 2,"Rome, Christianity, and the Middle Ages",satisfaction of the UC Entry Level Writing requirement; open to Revelle students only
+HUM,HUM 1,The Ancient Mediterranean World,satisfaction of the UC Entry Level Writing requirement; open to Revelle students only
+HUM,HUM 2,Rome and the Medieval World,satisfaction of the UC Entry Level Writing requirement; open to Revelle students only
 HUM,HUM 3,"Renaissance, Reformation, and Early Modern Europe",completion of HUM 1 or HUM 2; open to Revelle students only
 HUM,HUM 3R,"Renaissance, Reformation, and Early Modern Europe",completion of HUM 1 or HUM 2; open to Revelle students only
 HUM,HUM 3GS,"Renaissance, Reformation, and Early Modern Europe",satisfaction of the UC Entry Level Writing requirement and acceptance into Global Seminar Program
@@ -2640,6 +2675,7 @@ LIT,LTAM 107,Comparative Latino/a and US Ethnic Cultures,N/A
 LIT,LTAM 108,Chicano/a and Latino/a Cultures: Intellectual and Political Traditions,N/A
 LIT,LTAM 110,Latin American Literature in Translation,N/A
 LIT,LTAM 110GS,Latin American Literature in Translation,students must apply and be accepted to the Global Seminars program
+LIT,LTAM 110R,Latin American Literature in Translation,N/A
 LIT,LTAM 111,Comparative Caribbean Discourse,N/A
 LIT,LTAM 120,Ecocultural Narratives from Latin America,N/A
 LIT,LTAM 140,Topics in Culture and Politics,N/A
@@ -2705,6 +2741,7 @@ LIT,LTEA 120C,Hong Kong Films,N/A
 LIT,LTEA 132,Later Japanese Literature in Translation,N/A
 LIT,LTEA 138,Japanese Films,N/A
 LIT,LTEA 138GS,Japanese Films,N/A
+LIT,LTEA 138R,Japanese Films,N/A
 LIT,LTEA 140,Modern Korean Literature in Translation from Colonial Period,N/A
 LIT,LTEA 141,Modern Korean Literature in Translation from 1945 to Present,N/A
 LIT,LTEA 142,"Korean Film, Literature, and Popular Culture",N/A
@@ -2737,7 +2774,7 @@ LIT,LTEN 124,Topics: The Nineteenth Century,N/A
 LIT,LTEN 125,Romantic Poetry,N/A
 LIT,LTEN 127,Victorian Poetry,N/A
 LIT,LTEN 128,British and Irish Poetry: 1900 to Present,N/A
-LIT,LTEN 128GS,British and Irish Poetry: 1900 to Present,students must apply and be accepted to the Global Seminars Program
+LIT,LTEN 128GS,British and Irish Poetry: 1900 to Present,department approval required
 LIT,LTEN 130,Modern British Literature,N/A
 LIT,LTEN 130GS,Modern British Literature,N/A
 LIT,LTEN 131GS,British Literature and Culture,department approval required
@@ -2746,6 +2783,7 @@ LIT,LTEN 138,The British Novel: 1680–1790,N/A
 LIT,LTEN 140,The British Novel: 1790–1830,N/A
 LIT,LTEN 142,The British Novel: 1830–1890,N/A
 LIT,LTEN 144,The British Novel: 1890 to Present,N/A
+LIT,LTEN 144GS,The British Novel: 1890 to Present,department approval required
 LIT,LTEN 145GS,The Political History of Great Britain in Literature,department approval required
 LIT,LTEN 148,Genres in English and American Literature,N/A
 LIT,LTEN 149,Topics: English-Language Literature,N/A
@@ -2776,6 +2814,7 @@ LIT,LTEN 185GS,Themes in African American Literature,department approval require
 LIT,LTEN 186,Literature of the Harlem Renaissance,N/A
 LIT,LTEN 188,Contemporary Caribbean Literature,N/A
 LIT,LTEN 189,Twentieth-Century Postcolonial Literatures,N/A
+LIT,LTEN 189GS,Twentieth-Century Postcolonial Literatures,department approval required
 LIT,LTEN 192,Senior Seminar in Literatures in English,department stamp and/or consent of instructor
 LIT,LTEN 196,Honors Thesis,department approval
 LIT,LTEN 198,Directed Group Study,department approval
@@ -2820,9 +2859,9 @@ LIT,LTFR 115,Themes in Intellectual and Literary History,LTFR 104
 LIT,LTFR 116,Themes in Intellectual and Literary History,LTFR 104
 LIT,LTFR 121,The Middle Ages and the Renaissance,LTFR 104
 LIT,LTFR 122,Topics in Seventeenth-Century French Literature,LTFR 104
-LIT,LTFR 123,Eighteenth Century,LTFR 104
-LIT,LTFR 124,Nineteenth Century,LTFR 104
-LIT,LTFR 125,Twentieth Century,LTFR 104
+LIT,LTFR 123,Topics in Eighteenth-Century French Literature,LTFR 104
+LIT,LTFR 124,Topics in Nineteenth-Century French Literature,LTFR 104
+LIT,LTFR 125,Topics in Twentieth-Century French Literature,LTFR 104
 LIT,LTFR 141,Topics in Literatures in French,LTFR 104
 LIT,LTFR 142,Topics in Literary Genres in French,LTFR 104
 LIT,LTFR 143,Topics in Major Authors in French,LTFR 104
@@ -2855,12 +2894,13 @@ LIT,LTGK 104,Greek Prose,"LTGK 1, 2, and 3"
 LIT,LTGK 105,Topics in Greek Literature,"LTGK 1, 2, and 3"
 LIT,LTGK 198,Directed Group Study,department approval
 LIT,LTGK 199,Special Studies,department approval
-LIT,LTIT 2A,Intermediate Italian I,LTIT 1C or LIIT 1C/1CX or its equivalent or a score of 3 on AP Italian Language and Culture Exam or placement result of 3 or 4 on the Language Placement Exam–Italian or consent of instructor
+LIT,LTIT 2A,Intermediate Italian I,LIIT 1C/1CX or its equivalent or a score of 3 on AP Italian Language and Culture Exam or placement result of 3 or 4 on the Language Placement Exam–Italian or consent of instructor
 LIT,LTIT 2B,Intermediate Italian II,"LTIT 2A or its equivalent, or consent of instructor, or a score of 4 on the AP Italian Language and Culture exam"
 LIT,LTIT 12AR,Italian for Spanish Speakers I,N/A
 LIT,LTIT 12BR,Italian for Spanish Speakers II,LTIT 12AR
 LIT,LTIT 50,Advanced Italian,"LTIT 2A and 2B, or consent of instructor"
 LIT,LTIT 100,Introduction to Literatures in Italian,"LTIT 50 or its equivalent, or consent of instructor, or a score of 5 on the AP Italian Language and Culture exam"
+LIT,LTIT 115,Medieval Italian Literature,N/A
 LIT,LTIT 122,Studies in Modern Italian Culture,LTIT 50
 LIT,LTIT 137,Studies in Modern Italian Prose,N/A
 LIT,LTIT 161,Advanced Stylistics and Conversation,LTIT 100 or consent of instructor
@@ -2904,6 +2944,7 @@ LIT,LTRU 150,Russian Culture,upper-division standing
 LIT,LTRU 198,Directed Group Study,upper-division standing and permission of department
 LIT,LTRU 199,Special Studies,upper-division standing and permission of department
 LIT,LTSP 2A,Intermediate Spanish I,"LISP 1C/1CX or LISP 1D/DX, or score of 3 on AP Spanish Language Exam, or placement result of 3 or 4 the Language Placement Exam—Spanish, or consent of instructor"
+LIT,LTSP 2AR,Intermediate Spanish I,"LISP 1C/1CX or LISP 1D/DX, or score of 3 on the AP Spanish Language Exam, or placement result of 3 or 4 on the Language Placement Exam—Spanish, or consent of instructor"
 LIT,LTSP 2B,Intermediate Spanish II,LTSP 2A or score of 4 on AP Spanish language or 3 on AP Spanish literature exams or consent of instructor
 LIT,LTSP 2C,Intermediate Spanish III,LTSP 2B or score of 5 on AP Spanish language or 4 on AP Spanish literature exams or consent of instructor
 LIT,LTSP 1F,Spanish for Heritage Learners I,consent of instructor (through placement exam)
@@ -2916,14 +2957,15 @@ LIT,LTSP 101,Major Works of the Middle Ages,"LTSP 100A or 100B or 100F, or conse
 LIT,LTSP 110,Descriptive Spanish Grammar,"LTSP 100A or 100B or 100F, or consent of instructor"
 LIT,LTSP 115,Critical Race Studies in Latin America,"LTSP 100A or 100B or 100F, or consent of instructor"
 LIT,LTSP 116,Representations of Spanish Colonialism,"LTSP 100A or 100B or 100F, or consent of instructor"
-LIT,LTSP 123,Topics in Modern Spanish Culture,"LTSP 100A or 100B, or consent of instructor"
-LIT,LTSP 123GS,Topics in Modern Spanish Culture,LTSP 100A or LTSP 100B; student must apply and be accepted to the Global Seminars program
+LIT,LTSP 123,Topics in Modern Spanish Culture,"LTSP 100A or 100B or 100F, or consent of instructor"
+LIT,LTSP 123GS,Topics in Modern Spanish Culture,LTSP 100A or LTSP 100B or 100F; department approval required
 LIT,LTSP 124,Spanish in the Community,"LTSP 100A or 100B or 100F, or consent of instructor"
 LIT,LTSP 126,Spanish in the United States,"LTSP 100A or 100B or 100F, or consent of instructor"
 LIT,LTSP 128,Community Language Project,"LTSP 100A or 100B or 100F, or consent of instructor"
 LIT,LTSP 134,Literature of the Southern Cone,"LTSP 100A or 100B or 100F, or consent of instructor"
 LIT,LTSP 135A,Mexican Literature before 1910,"LTSP 100A or 100B or 100F, or consent of instructor"
 LIT,LTSP 135B,Modern Mexican Literature,"LTSP 100A or 100B or 100F, or consent of instructor"
+LIT,LTSP 135C,Mexican Cinema,"LTSP 100A or LTSP 100F, or consent of instructor"
 LIT,LTSP 136,Andean Literature,"LTSP 100A or 100B or 100F, or consent of instructor"
 LIT,LTSP 137,Caribbean Literature,"LTSP 100A or 100B or 100F, or consent of instructor"
 LIT,LTSP 138,Central American Literature,"LTSP 100A or 100B or 100F, or consent of instructor"
@@ -2937,12 +2979,13 @@ LIT,LTSP 166,Creative Writing,"LTSP 100A or 100B or 100F, or consent of instruct
 LIT,LTSP 169,Latin American Popular and Mass Cultures,"LTSP 100A or 100B or 100F, or consent of instructor"
 LIT,LTSP 170,Contemporary Theories of Cultural Production,"LTSP 100A or 100B or 100F, or consent of instructor"
 LIT,LTSP 172,Indigenista Themes in Latin American Literature,"LTSP 100A or 100B or 100F, or consent of instructor"
-LIT,LTSP 174,Topics in Culture and Politics,"LTSP 100A or 100B, or consent of instructor"
-LIT,LTSP 174GS,Topics in Culture and Politics,LTSP 100A or 100B; students must apply and be accepted to the Global Seminars program
+LIT,LTSP 174,Topics in Culture and Politics,"LTSP 100A or 100B or 100F, or consent of instructor"
+LIT,LTSP 174GS,Topics in Culture and Politics,LTSP 100A or LTSP 100B or LTSP 100F; students must apply and be accepted to the Global Seminars program
 LIT,LTSP 175,"Feminisms, Gender, and Sexuality in Latin America","LTSP 100A or 100B or 100F, or consent of instructor"
 LIT,LTSP 176,Literature and Nation,"LTSP 100A or 100B or 100F, or consent of instructor"
 LIT,LTSP 177,Literary and Historical Migrations,"LTSP 100A or 100B or 100F, or consent of instructor"
 LIT,LTSP 180,Film and Visual Arts in Latin America,"LTSP 100A or 100B or 100F, or consent of instructor"
+LIT,LTSP 192,Senior Seminar,N/A
 LIT,LTSP 196,Honors Thesis,department approval
 LIT,LTSP 198,Directed Group Study,department approval
 LIT,LTSP 199,Special Studies,upper-division standing and department approval
@@ -3129,7 +3172,7 @@ MAE,MAE 167,Wave Dynamics in Materials,consent of instructor
 MAE,MAE 170,Experimental Techniques,PHYS 2C or PHYS 4B and PHYS 2CL or MAE 140 or MAE 40
 MAE,MAE 171A,Mechanical Engineering Laboratory I,"MAE 101A,MAE 143B,and MAE 170"
 MAE,MAE 171B,Mechanical Engineering Laboratory II,MAE 171A
-MAE,MAE 175A,Aerospace Engineering Laboratory I,"senior standing; MAE 143B or CENG 120; and MAE 170, or consent of instructor"
+MAE,MAE 175A,Aerospace Engineering Laboratory I,"senior standing; MAE 143B; and MAE 170, or consent of instructor"
 MAE,MAE 180,Orbital Mechanics,N/A
 MAE,MAE 181,Space Mission Analysis and Design,upper-division standing or consent of instructor
 MAE,MAE 182,Spacecraft Guidance and Navigation,MAE 108 and MAE 180
@@ -3256,15 +3299,14 @@ MATH,MATH 3C,Precalculus,Math Placement Exam qualifying score or MATH 3B
 MATH,MATH 4C,Precalculus for Science and Engineering,"Math Placement Exam qualifying score, or MATH 3C, or AP Precalculus score of 4 or 5, or AP Calculus AB score (or subscore) of 2"
 MATH,MATH 10A,Calculus I,"Math Placement Exam qualifying score, or AP Precalculus score of 4 or 5, or AP Calculus AB score of 2, or MATH 3C, or MATH 4C"
 MATH,MATH 10B,Calculus II,"AP Calculus AB score of 3, 4, or 5 (or equivalent AB subscore on BC exam), or MATH 10A, or MATH 20A"
-MATH,MATH 10C,Calculus III,"AP Calculus BC score of 3, 4, or 5, or MATH 10B, or MATH 20B"
+MATH,MATH 10C,Calculus III,"AP Calculus BC score of 3, 4, or 5, or MATH 10A, or MATH 20A"
 MATH,MATH 11,Calculus-Based Introductory Probability and Statistics,"AP Calculus BC score of 3, 4, or 5, or MATH 10B or MATH 20B"
-MATH,MATH 15A,Introduction to Discrete Mathematics,CSE 8B or CSE 11
 MATH,MATH 18,Linear Algebra,"Math Placement Exam qualifying score, or AP Calculus AB score of 3 (or equivalent AB subscore on BC exam), or MATH 4C, or MATH 10A, or MATH 20A"
-MATH,MATH 20A,Calculus for Science and Engineering,"Math Placement Exam qualifying score, or AP Precalculus score of 5, or AP Calculus AB score of 3 (or equivalent AB subscore on BC exam),  or MATH 4C or MATH 10A"
+MATH,MATH 20A,Calculus for Science and Engineering,"Math Placement Exam qualifying score, or AP Precalculus score of 5, or AP Calculus AB score of 3 (or equivalent AB subscore on BC exam), or MATH 4C or MATH 10A"
 MATH,MATH 20B,Calculus for Science and Engineering,"AP Calculus AB score of 4 or 5, or AP Calculus BC score of 3, or MATH 20A with a grade of C– or better, or MATH 10B with a grade of C– or better, or MATH 10C with a grade of C– or better"
 MATH,MATH 20C,Calculus and Analytic Geometry for Science and Engineering,"AP Calculus BC score of 4 or 5, or MATH 20B with a grade of C– or better"
 MATH,MATH 20D,Introduction to Differential Equations,MATH 20C or MATH 31BH and MATH 18 or MATH 31AH with a grade of C– or better
-MATH,MATH 20E,Vector Calculus,MATH 18 or MATH 20F or MATH 31AH and MATH 20C (or MATH 21C) or MATH 31BH with a grade of C– or better
+MATH,MATH 20E,Vector Calculus,MATH 18 or MATH 31AH and MATH 20C or MATH 31BH with a grade of C– or better
 MATH,MATH 31AH,Honors Linear Algebra,AP Calculus BC score of 5
 MATH,MATH 31BH,Honors Multivariable Calculus,"MATH 31AH with a grade of B– or better, or consent of instructor"
 MATH,MATH 31CH,Honors Vector Calculus,"MATH 31BH with a grade of B– or better, or consent of instructor"
@@ -3287,7 +3329,7 @@ MATH,MATH 109,Mathematical Reasoning,"MATH 18 or MATH 20F or MATH 31AH, and MATH
 MATH,MATH 110,Introduction to Partial Differential Equations,MATH 18 or MATH 20F or MATH 31AH and MATH 20D and MATH 20E or MATH 31CH
 MATH,MATH 111A,Mathematical Modeling I,"MATH 20D, MATH 18 or MATH 20F or MATH 31AH, and MATH 109 or MATH 31CH"
 MATH,MATH 111B,Mathematical Modeling II,MATH 111A or consent of instructor
-MATH,MATH 112A,Introduction to Mathematical Biology I,"MATH 11 or MATH 180A or MATH 183 or MATH 186, and MATH 18 or MATH 31AH, and MATH 20D, and BILD 1"
+MATH,MATH 112A,Introduction to Mathematical Biology I,"MATH 18 or MATH 31AH, and MATH 20D"
 MATH,MATH 112B,Introduction to Mathematical Biology II,MATH 112A and MATH 110 and MATH 180A
 MATH,MATH 114,Introduction to Computational Stochastics,MATH 180A
 MATH,MATH 120A,Elements of Complex Analysis,"MATH 20E or MATH 31CH, or consent of instructor"
@@ -3510,9 +3552,14 @@ MBC,Electives,Varies,N/A
 MCWP,MUIR 1,First Year Experience,department approval
 MCWP,MUIR 2,Transfer Year Experience,department approval
 MCWP,MUIR 199,Muir Special Project,"upper-division status, approval by project advisor and by provost"
-MCWP,MCWP 40,Critical Writing,satisfaction of the UC Entry Level Writing requirement
-MCWP,MCWP 50,Critical Writing,satisfaction of MCWP 40 requirement or completion of TAG or IGETC agreement
-MCWP,MCWP 125,Argument and Analysis,department approval
+MCWP,MCWP 40,Critical Writing,satisfaction of Entry Level Writing Requirement
+MCWP,MCWP 40C,CritWrit: Climate Change,N/A
+MCWP,MCWP 40R,Critical Writing,N/A
+MCWP,MCWP 40CR,CritWrit: Climate Change,N/A
+MCWP,MCWP 50,Critical Writing,satisfaction of the MCWP 40 requirement or completion of IGETC
+MCWP,MCWP 50R,Critical Writing,N/A
+MCWP,MCWP 125,Argument and Analysis,N/A
+MCWP,MCWP 125R,Argument and Analysis,N/A
 MGT,MGT 3,Quantitative Methods in Business,N/A
 MGT,MGT 4,Financial Accounting,N/A
 MGT,MGT 5,Managerial Accounting,N/A
@@ -3527,7 +3574,7 @@ MGT,MGT 71R,Operating a Successful Business,N/A
 MGT,MGT 100,Customer Analytics,upper-division standing and BENG 100 or COGS 14B or ECE 109 or ECON 120A or MAE 108 or MATH 11 or MATH 180A or MATH 183 or MATH 186 or MGT 3 or PSYC 60 or SIO 187
 MGT,MGT 102,E-Commerce,upper-division standing
 MGT,MGT 103,Product Marketing and Management,upper-division standing
-MGT,MGT 104,Strategic Customer Insight,"MGT 100, upper-division standing"
+MGT,MGT 104,Strategic Customer Insight,"MGT 100 or MGT 103, upper-division standing"
 MGT,MGT 105,Product Promotion and Brand Management,N/A
 MGT,MGT 106,Sales and Sales Management,MGT 100 or MGT 103
 MGT,MGT 107,Consumer Behavior,MGT 100 or MGT 103
@@ -3535,17 +3582,19 @@ MGT,MGT 108R,Applied Market Research,upper-division standing
 MGT,MGT 109,Topics in Marketing,"MGT 100 or MGT 103, upper-division standing"
 MGT,MGT 111,Behavioral Science of Money,MGT 100 and MGT 103
 MGT,MGT 112,Global Business Strategy,"MGT 100 or MGT 103 and MGT 180 or MGT 181 or MGT 187, upper-division standing"
+MGT,MGT 113,Social Media Marketing,MGT 100 or MGT 100RS or MGT 103 or MGT 103RS
 MGT,MGT 117,Business Law,upper-division standing
 MGT,MGT 119,Topics in Business,upper-division standing
+MGT,MGT 120,Behavioral Science and Incentive Design,upper-division standing
 MGT,MGT 121A,Innovation to Market A,upper-division standing
-MGT,MGT 121B,Innovation to Market B,"MGT 181 or MGT 187 and MGT 111 or MGT 121A, upper-division standing"
+MGT,MGT 121B,Innovation to Market B,"MGT 121A and MGT 181 or MGT 187 or MGT 180 or MGT 180R, upper-division standing"
 MGT,MGT 123,Business of Healthcare and Life Sciences,upper-division standing
 MGT,MGT 127,AI and Technology Strategy,upper-division standing
 MGT,MGT 127R,AI and Technology Strategy,upper-division standing
 MGT,MGT 128,Business Innovation and Growth,upper-division standing
 MGT,MGT 128R,Business Innovation and Growth,upper-division standing
 MGT,MGT 129,Topics in Entrepreneurship,upper-division standing
-MGT,MGT 131A,Intermediate Accounting A,upper-division standing and MGT 5 and either MGT 4 or ECON 4
+MGT,MGT 131A,Intermediate Accounting A,upper-division standing and MGT 5 and ECON 4 or MGT 4 or MGT 45
 MGT,MGT 131B,Intermediate Accounting B,MGT 131A
 MGT,MGT 132,Auditing,MGT 131B
 MGT,MGT 133,Advanced Cost Accounting,MGT 131B
@@ -3553,14 +3602,14 @@ MGT,MGT 134,Federal Taxation—Individuals,MGT 131B
 MGT,MGT 135,Federal Taxation—Companies,MGT 131B
 MGT,MGT 136,Advanced Accounting,upper-division standing and MGT 131B
 MGT,MGT 137,Financial Statement Analysis,upper-division standing and MGT 45 or MGT 5 and ECON 4 or MGT 4 or MGT 45
-MGT,MGT 138,Information Technology and Accounting,upper-division standing
 MGT,MGT 139,Accounting Information Systems,MGT 131B and upper-division standing
 MGT,MGT 143,Forensic Accounting,MGT 131B and upper-division standing
 MGT,MGT 146,Ethics in Accounting,"MGT 132, upper-division standing"
 MGT,MGT 147,Not-For-Profit and Government Accounting,"MGT 131B, upper-division standing"
 MGT,MGT 148,Mergers and Acquisitions,MGT 45 or MGT 5 and ECON 4 or MGT 4 or MGT 45
 MGT,MGT 149,Topics in Accounting,"MGT 131B, upper-division standing"
-MGT,MGT 151R,Business Analytics,MATH 10A or MATH 18 or MATH 20A or MATH 31AH and BENG 100 or BIEB 100 or COGS 14B or ECE 109 or ECON 120A or MAE 108 or MATH 11 or MATH 180A or MATH 180B or MATH 181A or MATH 183 or MATH 186 or MGT 3 or PSYC 60 or SIO 187
+MGT,MGT 151,Business Analytics,MATH 10A or MATH 18 or MATH 20A or MATH 31AH and BENG 100 or BIEB 100 or COGS 14B or ECE 109 or ECON 120A or MAE 108 or MATH 11 or MATH 180A or MATH 180B or MATH 181A or MATH 183 or MATH 186 or MGT 3 or PSYC 60 or SIO 187 or SIO 187R
+MGT,MGT 151R,Business Analytics,MATH 10A or MATH 18 or MATH 20A or MATH 31AH and BENG 100 or BIEB 100 or COGS 14B or ECE 109 or ECON 120A or MAE 108 or MATH 11 or MATH 180A or MATH 180B or MATH 181A or MATH 183 or MATH 186 or MGT 3 or PSYC 60 or SIO 187 or SIO 187R
 MGT,MGT 153,Information Technology in Business Analytics,"MATH 10A or MATH 18 or MATH 20A or MATH 31AH and BENG 100 or BIEB 100 or COGS 14B or ECE 109 or ECON 120A or MAE 108 or MATH 11 or MATH 180A or MATH 181A or MATH 183 or MATH 186 or MGT 3 or PSYC 60 or SIO 187, upper-division standing"
 MGT,MGT 154,Advanced Business Research,"MGT 153, department approval required, upper-division standing"
 MGT,MGT 155,Advanced Business Analytics,MGT 151R or MGT 153
@@ -3568,6 +3617,7 @@ MGT,MGT 157,Real Estate Securitization,MGT 181 and upper-division standing
 MGT,MGT 158,Real Estate and the Tech Sector,upper-division standing
 MGT,MGT 159T,Topics in Analytics,"MGT 151R or MGT 153, upper-division standing"
 MGT,MGT 160,Experiments in Firms,(BENG 100 or BIEB 100 or COGS 14B or ECE 109 or ECON 120A or MAE 108 or MATH 11 or MATH 180A or MATH 181A or MATH 183 or MATH 186 or MGT 3 or PSYC 60 or SIO 187) and (MATH 10A or MATH 18 or MATH 20A or MATH 31AH)
+MGT,MGT 160R,Experiments in Firms,BENG 100 or BIEB 100 or COGS 14B or ECE 109 or ECON 120A or MAE 108 or MATH 11 or MATH 180A or MATH 181A or MATH 183 or MATH 186 or MGT 3 or PSYC 60 or SIO 187 or SIO 187R and MATH 10A or MATH 20A or MATH 18 or MATH 31AH
 MGT,MGT 162,Negotiations,upper-division standing
 MGT,MGT 162R,Negotiations,upper-division standing
 MGT,MGT 164,Business and Organizational Leadership,upper-division standing
@@ -3603,28 +3653,29 @@ MGT,MGT 404R,Accounting,Executive MBA student or instructor approval or departme
 MGT,MGT 405,Managerial Economics,MBA student or instructor approval or department approval
 MGT,MGT 405R,Managerial Economics,Executive MBA student or instructor approval or department approval
 MGT,MGT 406,Leading People,MBA student or department or instructor approval
-MGT,MGT 406R,Leading People,MBA student or department or instructor approval
+MGT,MGT 406R,Leading People,Executive MBA student or department or instructor approval
 MGT,MGT 407,Marketing,MBA student or instructor approval or department approval
 MGT,MGT 407R,Marketing,Executive MBA student or instructor approval or department approval
 MGT,MGT 408,Finance,MBA student or instructor approval or department approval
 MGT,MGT 408R,Finance,Executive MBA student or instructor approval or department approval
 MGT,MGT 409,Leading in Networks and Organizations,MBA student or instructor approval or department approval
-MGT,MGT 409R,Leading in Networks and Organizations,MBA student or instructor approval or department approval
+MGT,MGT 409R,Leading in Networks and Organizations,Executive MBA student or instructor approval or department approval
 MGT,MGT 410,Strategy,MBA student or instructor approval or department approval
 MGT,MGT 410R,Strategy,Executive MBA student or instructor approval or department approval
 MGT,MGT 412,New Venture Design,MBA student or instructor approval or department approval
-MGT,MGT 412R,New Venture Design,MBA student or instructor approval or department approval
+MGT,MGT 412R,New Venture Design,Executive MBA student or instructor approval or department approval
 MGT,MGT 413,Operations Management,MBA student or instructor approval or department approval
 MGT,MGT 413R,Operations Management,Executive MBA student or instructor approval or department approval
 MGT,MGT 414,Rady Action Project,MBA student or by instructor approval or by department approval
-MGT,MGT 414R,Rady Action Project,MBA student or by instructor approval or by department approval
+MGT,MGT 414R,Rady Action Project,Executive MBA student or by instructor approval or by department approval
 MGT,MGT 415,New Venture Development,MBA student or by instructor approval or by department approval
 MGT,MGT 416,Readings in Management,MBA students only or consent of instructor with department stamp
 MGT,MGT 417,Current Business Law Issues,MBA students only or consent of instructor and department stamp
 MGT,MGT 419,Global Business Immersion,MBA student or consent of instructor and department stamp
 MGT,MGT 420,Negotiation,MBA student or instructor approval or department approval
 MGT,MGT 420R,Negotiation,MBA student or instructor approval or department approval
-MGT,MGT 421,"CEO, the Board of Directors, and Corporate Governance",MBA student or consent of instructor and department stamp
+MGT,MGT 421,"The Board, the CEO, and Corporate Governance",MBA student or instructor/department approval
+MGT,MGT 421R,"The Board, the CEO, and Corporate Governance",MBA student or instructor/department approval
 MGT,MGT 422,Creativity and Innovation,MBA student or consent of instructor and department stamp
 MGT,MGT 425,Opportunity and Business Model Analysis,MBA student or consent of instructor and department stamp
 MGT,MGT 426,Creating a High-Performing Workplace,MBA student or department stamp
@@ -3634,7 +3685,7 @@ MGT,MGT 429,Topics in Corporate Governance,MBA student or consent of instructor 
 MGT,MGT 430,"Biotechnology Industry, Structure, and Strategy",MBA student or consent of instructor and department stamp
 MGT,MGT 431,Power and Politics,MBA student or by department approval
 MGT,MGT 431R,Power and Politics,MBA student or by department approval
-MGT,MGT 432,Knowledge Management for Strategic Advantage,MGT 403 and MGT 413; MBA student or by instructor approval or by department approval
+MGT,MGT 432,Knowledge Management for Strategic Advantage,MGT 403 or MGT 403R and MGT 413 or MGT 413R; MBA student or by instructor approval or by department approval
 MGT,MGT 433,Managing Health Care and Life Sciences,MBA student or instructor approval or department approval
 MGT,MGT 434,Strategic Communications and Storytelling,MBA student or instructor approval or department approval
 MGT,MGT 439,Topics in Organizational Behavior,MBA student or consent of instructor and department stamp
@@ -3650,7 +3701,8 @@ MGT,MGT 449,Topics in Operations and Technology,MBA student or consent of instru
 MGT,MGT 450,Project Management,MBA student or consent of instructor and department stamp
 MGT,MGT 451,AI and Disruptive Technology Strategy,MBA student or instructor approval
 MGT,MGT 451R,AI and Disruptive Technology Strategy,MBA student or instructor approval
-MGT,MGT 452,New Product Development,MGT 412
+MGT,MGT 452,New Product Development,MGT 412 or MGT 412R
+MGT,MGT 452R,New Product Development,MGT 412 or MGT 412R; Executive MBA student or instructor or department approval
 MGT,MGT 453,Supply Chain Management,MBA student or instructor approval or department approval
 MGT,MGT 453R,Supply Chain Management,MBA student or instructor approval or department approval
 MGT,MGT 454,Disruptive Technologies for Health Care,MBA student or consent of instructor and department stamp
@@ -3660,11 +3712,13 @@ MGT,MGT 456,Innovative Product and Program Management,restricted to MBA students
 MGT,MGT 458,Experiments in Firms,restricted to MBA students or by instructor or department approval
 MGT,MGT 458R,Experiments in Firms,restricted to MBA students or by instructor or department approval
 MGT,MGT 459,Topics in Innovation,MBA student or consent of instructor and department stamp
+MGT,MGT 461R,Behavioral Economics and Market Design,Executive MBA student or department or instructor approval
 MGT,MGT 463,Projects in Technology Commercialization,MBA student or consent of instructor and department stamp
 MGT,MGT 464,Projects in Business Innovation,MBA student or consent of instructor and department stamp
 MGT,MGT 469,Topics in Accounting,MBA student or consent of instructor and department stamp
 MGT,MGT 470,Digital Disruption,MGT 407 and MBA or MSBA student or by instructor approval or by department approval
 MGT,MGT 471,Digital Transformation,MGT 407 and MBA or MSBA student or by instructor approval or by department approval
+MGT,MGT 473,Data Science with Large Language Models,MGT 403 or MGT 403R; MBA student or department and instructor approval
 MGT,MGT 475,Research for Marketing Decisions,MBA student or consent of instructor and department stamp
 MGT,MGT 476,Marketing Strategy,MBA student or consent of instructor and department stamp
 MGT,MGT 477,Consumer Behavior,MGT 407 or MGT 407R; MBA student or instructor approval or department approval
@@ -3676,7 +3730,8 @@ MGT,MGT 481,Social Media Marketing,MBA student or by instructor approval
 MGT,MGT 482,Brand Management,MBA student or by instructor or department approval
 MGT,MGT 482R,Brand Management,MBA student or by instructor or department approval
 MGT,MGT 485,E-Commerce,MBA student or by department approval
-MGT,MGT 486,Real Estate Finance,MBA student or instructor approval or department approval
+MGT,MGT 486,Real Estate Finance,MGT 408 or MGT 408R; MBA student or instructor approval or department approval
+MGT,MGT 486R,Real Estate Finance,MGT 408 or MGT 408R; Executive MBA student or instructor approval or department approval
 MGT,MGT 487,Valuation in Corporate Finance,MBA student or instructor approval or department approval
 MGT,MGT 488R,Applied Market Research,MBA student or consent of instructor
 MGT,MGT 489,Topics in Marketing,MBA student or consent of instructor and department stamp
@@ -3700,7 +3755,7 @@ MGT,MGTF 402,Investment Analysis,restricted to master of quantitative finance pr
 MGT,MGTF 403,Advanced Financial Risk Management,restricted to master of quantitative finance program or instructor approval or department approval
 MGT,MGTF 404,Financial Econometrics and Empirical Methods,restricted to master of quantitative finance program or with instructor approval or department approval
 MGT,MGTF 405,Business Forecasting,restricted to master of quantitative finance program or with instructor approval or department approval
-MGT,MGTF 406,Behavioral Finance,MMGTF 402; restricted to master of quantitative finance program or with instructor approval or department approval
+MGT,MGTF 406,Behavioral Finance,MGTF 402; restricted to master of quantitative finance program or with instructor approval or department approval
 MGT,MGTF 407,Valuation in Corporate Finance,MGTF 402; restricted to master of quantitative finance program or with instructor approval or department approval
 MGT,MGTF 408,Real Estate Finance,MGTF 402; restricted to master of quantitative finance program or with instructor approval or department approval
 MGT,MGTF 409,"Mergers, Acquisitions, and Corporate Restructuring",restricted to master of quantitative finance program or with instructor approval or department approval
@@ -3802,12 +3857,14 @@ MMW,MMW 11,Prehistory and Ancient Foundations,N/A
 MMW,MMW 11R,Prehistory and Ancient Foundations,N/A
 MMW,MMW 12,"Transforming Traditions and Emerging World Communities, circa 100 BCE–1200 CE",satisfaction of the Entry Level Writing Requirement
 MMW,MMW 12R,"Transforming Traditions and Emerging World Communities, circa 100 BCE–1200 CE",satisfaction of the Entry Level Writing Requirement
-MMW,MMW 13,"A Globalizing World: Exchanges, Entanglements, and Exploitation, Thirteenth–Eighteenth Century",MMW 12 or MMW 12R
-MMW,MMW 13R,"A Globalizing World: Exchanges, Entanglements, and Exploitation, Thirteenth–Eighteenth Century",MMW 12 or MMW 12R
-MMW,MMW 14,"Divergent Paths to the Modern World, Eighteenth–Twentieth Century",MMW 12 or MMW 12R and MMW 13 or MMW 13R with a grade of “D” or better
-MMW,MMW 14GS,"Divergent Paths to the Modern World, Eighteenth–Twentieth Century",MMW 12 or MMW 12R and MMW 13 or MMW 13R with a grade of “D” or better
-MMW,MMW 15,"The Contemporary Era: Conflict and Aspirations in a Globalized World, Twentieth–Twenty-First Century",MMW 12 or MMW 12R and MMW 13 or MMW 13R with a grade of “D” or better
-MMW,MMW 15GS,"The Contemporary Era: Conflict and Aspirations in a Globalized World, Twentieth–Twenty-First Century",MMW 12 or MMW 12R and MMW 13 or MMW 13R with a grade of “D” or better
+MMW,MMW 13,"A Globalizing World: Exchanges, Entanglements, and Exploitation, Thirteenth–Eighteenth Century",MMW 12 or MMW 12R with a grade of D or better
+MMW,MMW 13R,"A Globalizing World: Exchanges, Entanglements, and Exploitation, Thirteenth–Eighteenth Century",MMW 12 or MMW 12R with a grade of D or better
+MMW,MMW 14,"Divergent Paths to the Modern World, Eighteenth–Twentieth Century",MMW 12 or MMW 12R and MMW 13 or MMW 13R with a grade of D or better
+MMW,MMW 14R,"Divergent Paths to the Modern World, Eighteenth–Twentieth Century",MMW 12 or MMW 12R and MMW 13 or MMW 13R with a grade of D or better
+MMW,MMW 14GS,"Divergent Paths to the Modern World, Eighteenth–Twentieth Century",MMW 12 or MMW 12R and MMW 13 or MMW 13R with a grade of D or better
+MMW,MMW 15,"The Contemporary Era: Conflict and Aspirations in a Globalized World, Twentieth–Twenty-First Century",MMW 12 or MMW 12R and MMW 13 or MMW 13R with a grade of D or better
+MMW,MMW 15R,"The Contemporary Era: Conflict and Aspirations in a Globalized World, Twentieth–Twenty-First Century",MMW 12 or MMW 12R and MMW 13 or MMW 13R with a grade of D or better
+MMW,MMW 15GS,"The Contemporary Era: Conflict and Aspirations in a Globalized World, Twentieth–Twenty-First Century",MMW 12 or MMW 12R and MMW 13 or MMW 13R with a grade of D or better
 MMW,MMW 121,Exploring the Premodern World,N/A
 MMW,MMW 121R,Exploring the Premodern World,N/A
 MMW,MMW 122,Exploring the Modern World,N/A
@@ -3932,6 +3989,10 @@ MUS,MUS 211,Introduction to Ethnomusicology,graduate standing in music
 MUS,MUS 212,Introduction to System Inquiry,graduate standing in music
 MUS,MUS 213,Introduction to Critical Studies,graduate standing in music
 MUS,MUS 214,Introduction to Creative Practices,graduate standing in music
+MUS,MUS 215A,Seminar in Integrative Studies I,graduate standing
+MUS,MUS 215B,Seminar in Integrative Studies II,MUS 215A; graduate standing
+MUS,MUS 215C,Seminar in Integrative Studies III,MUS 215A-B; graduate standing
+MUS,MUS 215D,Seminar in Integrative Studies IV,MUS 215A-B-C; graduate standing
 MUS,MUS 228,Conducting,graduate standing in music; others by written consent of instructor and department approval
 MUS,MUS 229,Seminar in Orchestration,graduate standing
 MUS,MUS 230,Chamber Music Performance,consent of instructor
@@ -4173,9 +4234,13 @@ PH,PHB 243B,Practicum in Biostatistics B,successful completion of FMPH 243A or P
 PH,PHB 244A,Foundations in Biostatistics A,N/A
 PH,PHB 244B,Foundations in Biostatistics B,"FMPH 244A or PHB 244A, restricted to major code PB76"
 PH,PHB 248,Applied Survival Analysis,FMPH 244B or PHB 244B
-PH,FMPH 277,"Health Policy, Technology, and Public Health","must be enrolled in the UC San Diego/SDSU Joint Doctoral Program in public health (PU75, PU76, and PU77), biostatistics major (FM77), or consent of instructor"
+PH,PH 277,"Health Policy, Technology, and Public Health","must be enrolled in the UC San Diego/SDSU Joint Doctoral Program in public health (PU75, PU76, and PU77), biostatistics major (FM77), or consent of instructor"
 PH,PHB 280,Biostatistics Journal Club,N/A
 PH,PHB 281,Biostatistics Seminar Series,FMPH 290 or PHB 280
+PH,PH 200,Foundations of Public Health,N/A
+PH,PH 220A,Advanced Methods in Health Services A,N/A
+PH,PH 221,Writing Successful Dissertation Research Grants,N/A
+PH,PH 222,Advanced Methods in Implementation Science,N/A
 PH,PH 231,Introduction to Mixed Methods Research,N/A
 PH,PH 233,Epidemiology of Aging,N/A
 PH,PH 233L,Epidemiology of Aging Lab,N/A
@@ -4187,11 +4252,14 @@ PH,PH 259,Epidemiology Practicum,N/A
 PH,PH 260,Scientific Writing,N/A
 PH,PH 261,Scientific Presentation,N/A
 PH,PH 270,Cultural Perceptions about Health and Disease,N/A
+PH,PH 275,HSRIS Colloquium Series,N/A
 PH,PH 277,Addressing Health Equity through Policy,N/A
 PH,PH 278,Scale Development for Behavioral Health Measurement,N/A
 PH,PH 280,Practicum in Global Health and Health Behavior,N/A
 PH,PH 288,Introduction to Qualitative Research Methods,N/A
+PH,PH 289R,Dissemination and Implementation Science in Health: An Introduction,N/A
 PH,PH 291,Special Topics in Public Health,N/A
+PH,PH 296,Community-Engaged Research Practicum,N/A
 PH,PH 297,Independent Study in Public Health,N/A
 PH,PH 299,Dissertation Research in Public Health,N/A
 PH,PH 509,Teaching Methods in Public Health,N/A
@@ -4215,8 +4283,8 @@ PH,PH 418,Infectious Diseases and Public Health,must be enrolled in MPH program 
 PH,PH 419,Biostatistics II,"must be enrolled in MPH program (PB75, PB87, and PB91) or program approval and successfully completed FMPH 400 or PH 400"
 PH,PH 420,Introduction to Infectious Disease Epidemic and Economic Modeling for Health Policymaking,"must be enrolled in MPH program (PB75, PB90, and PB91) or program approval and successfully completed FMPH 401 or PH 401"
 PH,PH 425,Public Mental Health Epidemiology,"must be enrolled in MPH program (PB75, PB89, and PB91) or program approval and successfully completed FMPH 401 or PH 401"
-PH,FMPH 426,Public Mental and Behavior Health and Addiction,"must be enrolled in MPH program (PB75, PB87, and PB89) or program approval and successfully completed FMPH 402 or PH 402"
-PH,FMPH 427,Mental Health Across the Life Course,must be enrolled in MPH program (PB75 and PB89) or program approval
+PH,PH 426,Public Mental and Behavior Health and Addiction,"must be enrolled in MPH program (PB75, PB87, and PB89) or program approval and successfully completed FMPH 402 or PH 402"
+PH,PH 427,Mental Health Across the Life Course,must be enrolled in MPH program (PB75 and PB89) or program approval
 PH,PH 428,"Dissemination and Implementation, Policy, and Health Services in Mental Health","must be enrolled in MPH program (PB75, PB88, and PB89) or program approval"
 PH,PH 429,Substance Use and Population Health,"must be enrolled in MPH program (PB75, PB87, and PB89)"
 PH,PH 430,Technology and Precision Health,must be enrolled in MPH program (PB75 and PB90) or program approval
@@ -4228,6 +4296,7 @@ PH,PH 460,Design and Public Health,must be enrolled in MPH program (PB75 and PB9
 PH,PH 461,Current Issues in Public Health,"must be enrolled in MPH program (PB75, PB87, PB88, PB89, PB90, and PB91) or program approval"
 PH,PH 462,Non-Communicable Diseases and Global Health,"must be enrolled in MPH program (PB75, PB87, PB88, PB89, PB90, and PB91) or program approval"
 PH,PH 463,VIIDAI: Public Health Field Practice in Baja,"must be enrolled in MPH program (PB75, PB87, PB88, PB89, PB90, and PB91)"
+PH,PH 480,Introduction to Foundation and Government Grant Writing,"must be enrolled in MPH program (PB75, PB87, PB88, PB89, PB90, and PB91)"
 PH,PH 491,Special Topics in Public Health,"must be enrolled in MPH program (PB75, PB87, PB88, PB89, PB90, and PB91) or program approval"
 PH,PH 496A,Public Health Leadership in Practice,"must be enrolled in MPH program (PB75, PB87, PB88, PB89, PB90, and PB91)"
 PH,PH 496B,MPH Practicum Field Placement,"must be enrolled in MPH program (PB75, PB87, PB88, PB89, PB90, and PB91)"
@@ -4266,6 +4335,7 @@ PHIL,PHIL 13,Introduction to Philosophy: Ethics,N/A
 PHIL,PHIL 14,Introduction to Philosophy: The Nature of Reality,N/A
 PHIL,PHIL 15,Introduction to Philosophy: Knowledge and Its Limits,N/A
 PHIL,PHIL 16,Science Fiction and Philosophy,N/A
+PHIL,PHIL 23,Philosophy of AI,N/A
 PHIL,PHIL 24,Science and Pseudoscience,N/A
 PHIL,PHIL 25,"Science, Philosophy, and the Big Questions",N/A
 PHIL,PHIL 26,"Science, Society, and Values",N/A
@@ -4553,7 +4623,7 @@ POLI,POLI 10 or 10R or 10D or 10DR,Introduction to Political Science: American P
 POLI,POLI 11 or 11R or 11D or 11DR,Introduction to Political Science: Comparative Politics,N/A
 POLI,POLI 12 or 12R or 12D or 12DR,Introduction to Political Science: International Relations,N/A
 POLI,POLI 13 or 13R or 13D or 13DR,Power and Justice,N/A
-POLI,POLI 27 or 27R,Ethics and Society,"CAT 2 and 3, DOC 2 and 3, MCWP 40 and 50, HUM 1 and 2, WCWP 10A–B, or WARR 11A–B, SYN 1 and SYN 2, CCE 1 and CCE 2"
+POLI,POLI 27 or 27R,Ethics and Society,"CAT 2 and 3, DOC 2 and 3, MCWP 40 and 50, MMW 2 and 3, HUM 1 and 2, WCWP 10A–B, or WARR 11A–B, SYN 1 and SYN 2, CCE 1 and CCE 2"
 POLI,POLI 28 or 28R,Ethics and Society II,PHIL/POLI 27
 POLI,POLI 30 or 30D,Political Inquiry,N/A
 POLI,POLI 40,Introduction to Law and Society,N/A
@@ -4582,6 +4652,7 @@ POLI,POLI 100V,Organized Interests,upper-division standing
 POLI,POLI 100W,"Politics, Policy, and Educational Inequality",POLI 30 or POLI 30D
 POLI,POLI 100X,Data Analysis and United States Politics,POLI 5D/POLI 5D/ECON 5 or POLI 30D
 POLI,POLI 100Y,Asian American Politics in the United States,upper-division standing
+POLI,POLI 100Z,Gender and American Politics,N/A
 POLI,POLI 101A,Black Politics in the US,N/A
 POLI,POLI 101E,"The Politics of Race, Ethnicity, and Immigration",N/A
 POLI,POLI 102C,American Political Development,N/A
@@ -4609,11 +4680,14 @@ POLI,POLI 104K,Legal Argument Formulation,POLI 104J
 POLI,POLI 104L,Positive Political Theory of Law,N/A
 POLI,POLI 104M,Law and Sex,upper-division standing
 POLI,POLI 104N,Race and Law,N/A
+POLI,POLI 104O,"Introduction to Contracts, Drafting, and Negotiations",POLI 104J and upper-division standing
 POLI,POLI 104P,"Science, Technology, and the Law",upper-division standing
+POLI,POLI 104Q,Introduction to Intellectual Property Law,POLI 104J and upper-division standing
 POLI,POLI 104T,"Survey in Evidence, Civil Procedure, and Criminal Law",upper-division standing and POLI 104J
 POLI,POLI 104U,Introduction to Business Law,N/A
 POLI,POLI 104V,Public Law: Special Topics,N/A
 POLI,POLI 105A,Latino Politics in the US,upper-division standing
+POLI,POLI 107,LGBTQ Politics,N/A
 POLI,POLI 108,Politics of Multiculturalism,upper-division standing
 POLI,POLI 109,Congressional Simulation,N/A
 POLI,POLI 110A,Citizens and Saints: Political Thought from Plato to Augustine,N/A
@@ -4624,6 +4698,7 @@ POLI,POLI 110EA,American Political Thought from Revolution to Civil War,N/A
 POLI,POLI 110EB,American Political Thought from Civil War to Civil Rights,N/A
 POLI,POLI 110EC,American Political Thought: Contemporary Debates,N/A
 POLI,POLI 110ED,Seminar in American Political Thought,upper-division standing; department stamp
+POLI,POLI 110F,Critical Reasoning and Consumption,N/A
 POLI,POLI 110G,International Political Thought,N/A
 POLI,POLI 110H,Democracy and Its Critics,N/A
 POLI,POLI 110J,Power in American Society,N/A
@@ -4638,13 +4713,12 @@ POLI,POLI 112B,Game Theory in Political Science I,upper-division standing
 POLI,POLI 112C,Political Theory and Artistic Vision,upper-division standing
 POLI,POLI 112D,Game Theory in Political Science II,upper-division standing and POLI 112B or POLI 118
 POLI,POLI 113A,East Asian Thought in Comparative Perspective,upper-division standing
-POLI,POLI 113B,Chinese and Japanese Political Thought I,upper-division standing for POLI 113B
-POLI,POLI 113C,Chinese and Japanese Political Thought II,POLI 113B
-POLI,POLI 114B,Marxist Political Thought,N/A
+POLI,POLI 113B or 113BR,Chinese and Japanese Political Thought I,upper-division standing for POLI 113B
+POLI,POLI 113C or 113CR,Chinese and Japanese Political Thought II,POLI 113B or 113BR
+POLI,POLI 114B or 114BR,Marxist Political Thought,N/A
 POLI,POLI 115A,Gender and Politics,N/A
 POLI,POLI 116A,Feminist Theory,upper-division standing
-POLI,POLI 117,Bending the Curve: Solutions to Climate Change,upper-division standing
-POLI,POLI 117R,Bending the Curve,upper-division standing
+POLI,POLI 117 or 117R,Bending the Curve: Solutions to Climate Change,upper-division standing
 POLI,POLI 118B,The Political Theory of Liberation Theology,upper-division standing and POLI 13 or POLI 13D
 POLI,POLI 119A,Special Topics in Political Theory,N/A
 POLI,POLI 120,The Politics of Refuge,N/A
@@ -4683,12 +4757,13 @@ POLI,POLI 128,"Autocracy, Democracy, and Prosperity",N/A
 POLI,POLI 129,How to Steal an Election,upper-division standing
 POLI,POLI 130,Politics of Violence,N/A
 POLI,POLI 130AA,The Soviet Successor States,N/A
-POLI,POLI 130AD,The Politics of the Russian Revolution,N/A
+POLI,POLI 130AD or 130AR,The Politics of the Russian Revolution,N/A
 POLI,POLI 130B,Politics in the People’s Republic of China,N/A
 POLI,POLI 130G,Politics of Modern India,upper-division standing
 POLI,POLI 131,Muslim Integration and Exclusion,N/A
-POLI,POLI 131C,The Chinese Revolution,N/A
-POLI,POLI 132,Political Development and Modern China,N/A
+POLI,POLI 131C or 131CR,The Chinese Revolution,N/A
+POLI,POLI 132 or 132R,Political Development and Modern China,N/A
+POLI,Political development has dominated the study of comparative politics among U,S,N/A
 POLI,POLI 133,"Democracy, Development, and Conflict in South Asia",N/A
 POLI,POLI 133A,Japanese Politics: A Developmental Perspective,N/A
 POLI,POLI 133D,Political Institutions of East Asian Countries,N/A
@@ -4701,11 +4776,13 @@ POLI,POLI 134D,Selected Topics in Latin American Politics,upper-division standin
 POLI,POLI 134I,Politics in the Southern Cone of Latin America,upper-division standing
 POLI,POLI 134J,Cuba: Revolution and Reform,upper-division standing
 POLI,POLI 135,Comparative LGBT Politics,upper-division standing
+POLI,POLI 135D,Comparative Politics of Race and Ethnicity,N/A
 POLI,POLI 136,Religion and Politics,upper-division standing
 POLI,POLI 136A,Nationalism and Politics,upper-division standing
 POLI,POLI 137,A Sports Analytics Approach to the Social Sciences,upper-division standing
 POLI,POLI 137A,Comparative Political Parties and Interest Groups,upper-division standing
 POLI,POLI 138D,Special Topics in Comparative Politics,N/A
+POLI,POLI 139,Development in Brazil,N/A
 POLI,POLI 140A,International Law,upper-division standing
 POLI,POLI 140B,Concepts and Aspects of Revolution,upper-division standing
 POLI,POLI 140C,International Crisis Diplomacy,upper-division standing
@@ -4728,6 +4805,7 @@ POLI,POLI 144AB,Selected Topics in International Political Economy,POLI 12
 POLI,POLI 144D,International Political Economy: Money and Finance,N/A
 POLI,POLI 144E,The Politics of International Trade,N/A
 POLI,POLI 144F,The Politics of International Trade and Finance,N/A
+POLI,POLI 145,Theories of Technology and National Security,N/A
 POLI,POLI 145A,International Politics and Drugs,N/A
 POLI,POLI 145C,International Relations After the Cold War: Theory and Prospect,upper-division standing
 POLI,POLI 146A,The US and Latin America: Political and Economic Relations,N/A
@@ -4738,6 +4816,7 @@ POLI,POLI 151,International Organizations,"POLI 12, upper-division standing"
 POLI,POLI 152,Gender in International Conflict,N/A
 POLI,POLI 153,The European Union in World Politics,N/A
 POLI,POLI 154,Special Topics in International Relations,N/A
+POLI,POLI 156,Politics of Non-Governmental Organizations,N/A
 POLI,POLI 160AA,Introduction to Policy Analysis,POLI 10 or 11
 POLI,POLI 160AB,Introduction to Policy Analysis,POLI 160AA
 POLI,POLI 161,Research Design for Social Science,POLI/ECON 5(D) and POLI 30(D)
@@ -4754,6 +4833,8 @@ POLI,POLI 173,Social Network Analysis,upper-division standing
 POLI,POLI 174,Analyzing Elections,POLI 112A or POLI 118
 POLI,POLI 175,Machine Learning for Social Scientists,CCS 1 or ECON 5/5R or POLI 5/5D/5R/5DR or POLI 30/30D
 POLI,POLI 176,Text as Data,POLI/ECON 5D or POLI 30D or POLI 170A or POLI 171 or POLI 172
+POLI,POLI 177,Data Analysis for Policy Advice,N/A
+POLI,POLI 178,Applied Data Analytics for United States National Security,N/A
 POLI,POLI 179,Special Topics in Political Science Methodology,upper-division standing
 POLI,POLI 191A–B,Senior Honors Seminar: Frontiers of Political Science,N/A
 POLI,POLI 192,Senior Seminar in Political Science,department stamp and/or consent of instructor
@@ -4807,6 +4888,7 @@ POLI,POLI 235A,Latin American Politics,graduate standing
 POLI,POLI 236,Immigration Policy and Politics,graduate standing or consent of instructor
 POLI,POLI 240,International Relations Theory,graduate standing or consent of instructor
 POLI,POLI 241,International Conflict,N/A
+POLI,POLI 241D,Political Violence,N/A
 POLI,POLI 242,The European Union and Global Governance,graduate standing or consent of instructor
 POLI,POLI 242D,Weapons of Mass Destruction,graduate standing
 POLI,POLI 243,International Security,graduate standing or consent of instructor
@@ -4886,6 +4968,7 @@ PSYC,PSYC 108,Cognitive Neuroscience,upper-division standing
 PSYC,PSYC 110,Juniors Honors Research Seminars,upper-division standing
 PSYC,PSYC 111A,Research Methods I,upper-division standing
 PSYC,PSYC 111B,Research Methods II,PSYC 111A; upper-division standing
+PSYC,PSYC 112,Health Sciences Research,N/A
 PSYC,PSYC 113,Electroencephalogram,"PSYC 60 or COGS 14B or MATH 11, and PSYC 70 or COGS 14A, and COGS 101A or COGS 107A or COGS 107B or COGS 107C or PSYC 102 or PSYC 106 or PSYC 108"
 PSYC,PSYC 114,Psychophysiological Perspectives on the Social Mind Laboratory,"upper-division standing, PSYC 60 or COGS 14B or MATH 11 and PSYC 70 or COGS 14A"
 PSYC,PSYC 115A,Laboratory in Cognitive Psychology I,upper-division standing and PSYC 60 or equivalent; an interview with the instructor is required
@@ -4896,7 +4979,6 @@ PSYC,PSYC 116C,Laboratory in Clinical Psychology Research III,PSYC 116B
 PSYC,PSYC 117,Laboratory in Educational Research and Outreach,"upper-division standing, PSYC 60 or COGS 14B and PSYC 70 or COGS 14A"
 PSYC,PSYC 118,Laboratory in Animal Behavior,"upper-division standing, PSYC 60 or COGS 14B or MATH 11 and PSYC 70 or COGS 14A, and department approval"
 PSYC,PSYC 122,Mechanisms of Animal Behavior,upper-division standing
-PSYC,PSYC 123,Cognitive Control and Frontal Lobe Function,upper-division standing
 PSYC,PSYC 124,Clinical Assessment and Treatment,upper-division standing
 PSYC,PSYC 125,Clinical Neuropsychology,upper-division standing
 PSYC,PSYC 126,Practicum in Community Mental Health Care,PSYC 100 and PSYC 124 and department approval
@@ -4906,6 +4988,7 @@ PSYC,PSYC 132,Hormones and Behavior,upper-division standing
 PSYC,PSYC 133,Circadian Rhythms—Biological Clocks,upper-division standing
 PSYC,PSYC 133R,Circadian Rhythms—Biological Clocks,upper-division standing
 PSYC,PSYC 134,Eating Disorders,upper-division standing
+PSYC,PSYC 135,Belief in Weird Things,N/A
 PSYC,PSYC 136,Cognitive Development,upper-division standing; PSYC 101 or PSYC 105
 PSYC,PSYC 137,Social Cognition,upper-division standing
 PSYC,PSYC 138,Sound and Music Perception,upper-division standing
@@ -4966,19 +5049,20 @@ PSYC,PSYC 201A,Statistical Computing and Inference from Data I,graduate standing
 PSYC,PSYC 201B,Quantitative Methods in Psychology II,PSYC 201A
 PSYC,PSYC 201C,Quantitative Methods in Psychology III,PSYC 201B
 PSYC,PSYC 202,Writing and Presenting Academic Research Papers,"psychology graduate students (major code: PC76 or PC78 or PC79), or consent of instructor"
+PSYC,PSYC 203,Department Proseminar,N/A
 PSYC,PSYC 205,Emotion,graduate standing
 PSYC,PSYC 206,Mathematical Modeling,N/A
 PSYC,PSYC 209,Judgment and Decision Making,graduate standing
-PSYC,PSYC 210,The Methods of Human Cognitive Neuroscience,graduate standing
-PSYC,PSYC 211,Proseminar in Computational Models of Mind,graduate standing
+PSYC,PSYC 210,Area Proseminar: The Methods of Human Cognitive Neuroscience,graduate standing
+PSYC,PSYC 211,Computational Models of Mind,graduate standing
 PSYC,PSYC 212,Visual Science,graduate standing
 PSYC,PSYC 213,Professional Procedures and Survival in Psychology,graduate standing
-PSYC,PSYC 217,Proseminar in Developmental Psychology,graduate standing
-PSYC,PSYC 218,Proseminar in Cognitive Psychology,graduate standing
+PSYC,PSYC 217,Area Proseminar in Developmental Psychology,graduate standing
+PSYC,PSYC 218,Area Proseminar in Cognitive Psychology,graduate standing
 PSYC,PSYC 219,Writing about Thinking,"restricted to students with the major codes PC76 or PC78 or PC79, or consent of instructor and graduate standing"
-PSYC,PSYC 220,Proseminar in Social Psychology,graduate standing
-PSYC,PSYC 221,Proseminar in Sensation and Perception,graduate standing
-PSYC,PSYC 222,Proseminar in Biological Psychology,graduate standing
+PSYC,PSYC 220,Area Proseminar in Social Psychology,graduate standing
+PSYC,PSYC 221,Sensation and Perception,graduate standing
+PSYC,PSYC 222,Area Proseminar in Biological Psychology,graduate standing
 PSYC,PSYC 223,Current Directions in Vision,N/A
 PSYC,PSYC 224,Current Directions in Cognitive Neural Systems,graduate standing
 PSYC,PSYC 229,Happiness,N/A
@@ -5038,7 +5122,9 @@ RELI,RELI 1,Introduction to Religion,N/A
 RELI,RELI 2,Comparative World Religions,N/A
 RELI,RELI 3,Technoscience and Religion,N/A
 RELI,RELI 87,First-year Student Seminar in Religion,N/A
+RELI,RELI 100,Race and Religion in America,N/A
 RELI,RELI 101,Tools and Methods in the Study of Religion,N/A
+RELI,RELI 114,Texts and Context: East Asian Religions,N/A
 RELI,RELI 131,Topics in Religion and Sexuality,upper-division standing or consent of instructor
 RELI,RELI 132,Topics in Orthodoxy and Heterodoxy,upper-division standing or consent of instructor
 RELI,RELI 134,Topics in American Religion,upper-division standing or consent of instructor
@@ -5085,7 +5171,7 @@ REV,REV 110H,Revelle College Senior Honors Seminar,students who meet honors crit
 SE,SE 1,Introduction to Structures and Design,none
 SE,SE 3,Graphical Communication for Engineering Design,none
 SE,SE 7,Spatial Visualization,none
-SE,SE 9,Algorithms and Programming for Structural Engineering,MATH 20A-B
+SE,SE 9,Algorithms and Programming for Structural Engineering,MATH 20A and MATH 20B
 SE,SE 87,First-year Student Seminar,open to first-year students only
 SE,SE 99H,Independent Study,student must be of first year standing and a Regents Scholar
 SE,SE 101A,Mechanics I: Statics,MATH 20C or MATH 31BH and PHYS 2A or PHYS 2AR
@@ -5094,37 +5180,37 @@ SE,SE 101C,Mechanics III: Vibrations,MATH 18 or MATH 31AH and SE 101B
 SE,SE 102,Introduction to Computing for Engineers,SE 9 and SE 101A
 SE,SE 103,Conceptual Structural Design,"SE 3, SE 9, SE 101A, and SE 105"
 SE,SE 105,Structural Materials,SE 1 and SE 101A
-SE,SE 110A,Solid Mechanics I,MATH 20D and SE 101A
+SE,SE 110A,Solid Mechanics I,MATH 20D and SE 101A or SE 101AR
 SE,SE 110B,Solid Mechanics II,SE 110A
 SE,SE 115,Fluid Mechanics for Structural Engineering,PHYS 2A or PHYS 2AR and MATH 20D
 SE,SE 120,Engineering Graphics and Computer Aided Structural Design,SE 102 and SE 103
 SE,SE 125,"Statistics, Probability and Reliability",MATH 18 or MATH 31AH and MATH 20D
-SE,SE 130A,Structural Analysis I,grade of C– or better in SE 110A or MAE 131A
+SE,SE 130A,Structural Analysis I,grade of C– or better in SE 110A
 SE,SE 130B,Structural Analysis II,MATH 18 or MATH 31AH and SE 130A
 SE,SE 131A,Finite Element Analysis,"MATH 20E, SE 3, and SE 110B"
 SE,SE 131B,Finite Element Analysis: Beam and Shell Models,"SE 131A, SE 101C, and SE 130B"
 SE,SE 132,Machine Learning for Structural Engineering,"SE 9, SE 110A, and SE 125"
-SE,SE 140A,Design of Civil Structures I,SE 130B and SE 150A (or SE 150)
+SE,SE 140A,Design of Civil Structures I,SE 130B and SE 150A
 SE,SE 140B,Design of Civil Structures II,"SE 140A, SE 151A, and SE 181"
-SE,SE 142,Design of Composite Structures,SE 110A or MAE 131A and SE 110B or MAE 131B
+SE,SE 142,Mechanics and Design of Composite Structures,SE 110A or MAE 131A or MAE 131AR and SE 110B or MAE 131B
 SE,SE 143A,Aerospace Structural Design I,"SE 3, SE 142, and SE 160B"
 SE,SE 143B,Aerospace Structural Design II,SE 143A
-SE,SE 150A,Design of Steel Structures I,SE 130A and SE 110B
-SE,SE 150B,Design of Steel Structures II,SE 150 or SE 150A
+SE,SE 150A,Design of Steel Structures I,"SE 130A, SE 110B, and SE 103"
+SE,SE 150B,Design of Steel Structures II,SE 150A
 SE,SE 151A,Design of Reinforced Concrete,SE 130A
 SE,SE 151B,Design of Prestressed Concrete,SE 151A
-SE,SE 152,Seismic Design of Structures,"SE 130B, SE 150, and SE 151A"
-SE,SE 154,Design of Timber Structures,SE 103 and SE 130A
-SE,SE 160A,Aerospace Structural Mechanics I,SE 105 or MAE 21 and SE 101B or MAE 30B and SE 110A or MAE 131A
+SE,SE 152,Seismic Design of Structures,"SE 130B, SE 150A, and SE 151A"
+SE,SE 154,Design of Timber Structures,grade of C– or better in both SE 103 and SE 130A
+SE,SE 160A,Aerospace Structural Mechanics I,SE 105 or MAE 21 and SE 101B or MAE 30B and SE 110A or MAE 131A or MAE 131AR
 SE,SE 160B,Aerospace Structural Mechanics II,SE 160A
 SE,SE 163,Nondestructive Evaluation,SE 110A
 SE,SE 164,Sensors and Data Acquisition for Structural Engineering,SE 110A
 SE,SE 165,Structural Health Monitoring,SE 101C
 SE,SE 167,Signal Processing and Spectral Analysis for Structural Engineering,SE 101C
-SE,SE 168,Structural System Testing and Model Correlation,SE 101C and SE 131A
-SE,SE 171,Aerospace Structures Repair,SE 110A or MAE 131A and SE 110B or MAE 131B
-SE,SE 180,Earthquake Engineering,"grade of C– or better in SE 110A, and SE 130A"
-SE,SE 181,Geotechnical Engineering,grade of C– or better in SE 110A
+SE,SE 168,Structural System Testing and Model Correlation,"SE 101C, SE 131A, and SE 167 or SE 167GS"
+SE,SE 171,Aerospace Structures Repair,SE 110A or MAE 131A or MAE 131AR and SE 110B or MAE 131B
+SE,SE 180,Earthquake Engineering,"grade of C– or better in all SE 9, SE 101C, and SE 110A"
+SE,SE 181,Geotechnical Engineering,SE 110A
 SE,SE 182,Foundation Engineering,SE 181
 SE,SE 184,Ground Improvement,SE 181
 SE,SE 192,Senior Seminar,SE major
@@ -5225,13 +5311,14 @@ SIO,SIO 20R,The Atmosphere,none
 SIO,SIO 25,Climate Change and Society,none
 SIO,SIO 30,The Oceans,none
 SIO,SIO 35,Water,none
+SIO,SIO 37GS,"Ocean Conservation, Governance, and Global Change",students must apply for and be accepted to the Global Seminars Program
 SIO,SIO 40,Life and Climate on Earth,none
 SIO,SIO 45,Volcanoes,none
 SIO,SIO 45GS,Volcanoes,students must apply for and be accepted to the Global Seminars Program
 SIO,SIO 46GS,Global Volcanism,students must apply for and be accepted to the Global Seminars Program
 SIO,SIO 50,Introduction to Physical Geology,none
 SIO,SIO 60,Experiences in Oceanic and Atmospheric Sciences,none
-SIO,SIO 65,Geosciences Seminar,first-year or sophomore standing or consent of instructor
+SIO,SIO 65,Geosciences Seminar,SIO 50 (P/NP grades only)
 SIO,SIO 75,Geological History of Earth,SIO 50 or consent of instructor
 SIO,SIO 87,First-year Seminar,N/A
 SIO,SIO 90,Undergraduate Seminar,none
@@ -5239,7 +5326,7 @@ SIO,SIO 96,Frontiers in the Earth Sciences,none
 SIO,SIO 99,Independent Study,"lower-division standing, completion of thirty units of UC San Diego undergraduate study, a minimum UC San Diego GPA of 3"
 SIO,SIO 100,Geological Field Methods,SIO 50 or consent of instructor
 SIO,SIO 101,California Coastal Oceanography,CHEM 6A or consent of instructor
-SIO,SIO 102,Introduction to Geochemistry,"SIO 50, CHEM 6A-B-C, or consent of instructor"
+SIO,SIO 102,Geochemistry,"SIO 50 and CHEM 6A-B-C or CHEM 6AH-6BH-6CH, or consent of instructor"
 SIO,SIO 103,Introduction to Geophysics,"MATH 20C or MATH 31BH, and PHYS 2C, and SIO 50, or consent of instructor"
 SIO,SIO 104/SIOG 255,Paleobiology and History of Life,undergraduate: BILD 3 or consent of instructor
 SIO,SIO 105,Sedimentology and Stratigraphy,SIO 50 or consent of instructor
@@ -5279,6 +5366,7 @@ SIO,SIO 135/SIOG 236,Satellite Remote Sensing,"undergraduate: PHYS 2A-B or PHYS 
 SIO,SIO 136,Marine Biology Laboratory,"BILD 3, SIO 132, and SIO 134, or consent of instructor"
 SIO,SIO 137,Ecosystems and Fisheries,SIO 134 or consent of instructor
 SIO,SIO 138,The Coral Reef Environment,"BILD 3, MATH 10A or MATH 20A, CHEM 6B, or consent of instructor"
+SIO,SIO 138GS,Marine Ecology and Biodiversity,BILD 3
 SIO,SIO 139,Current Research in Marine Biology Colloquium,upper-division standing or consent of instructor
 SIO,SIO 141/CHEM 174,Chemical Principles of Marine Systems,"CHEM 6C or 6CH, or consent of instructor"
 SIO,SIO 143,Ocean Acidification,"PHYS 1C or PHYS 2C and CHEM 6C or CHEM 6CH, or consent of instructor"
@@ -5682,7 +5770,7 @@ VIS,VIS 110G,The Natural and Altered Environment,senior standing
 VIS,VIS 110H,Art and Text,senior standing
 VIS,VIS 110I,Performing for the Camera,senior standing
 VIS,VIS 110K,Digital Studio,senior standing
-VIS,VIS 110M,Studio Honors I,"consent of the instructor, department stamp required"
+VIS,VIS 110M,Studio Honors I,"consent of the instructor, department approval required"
 VIS,VIS 110N,Studio Honors II,VIS 110M
 VIS,VIS 112,Theories and Methods,VIS 23
 VIS,VIS 113AN,History of Criticism I: Early Modern,VIS 112
